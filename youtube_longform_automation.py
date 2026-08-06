@@ -243,6 +243,7 @@ For each phrase:
 1. English phrase (pure English, zero Swahili words) with commas for natural pauses
 2. Swahili translation
 3. Pronunciation guide (phonetic English spelling)
+CRITICAL: Every translation MUST be in Swahili. NEVER use German, Spanish, or any other language. Only Swahili.
 
 Return as JSON array:
 [{{"english": "...", "swahili": "...", "pronunciation": "..."}}]
