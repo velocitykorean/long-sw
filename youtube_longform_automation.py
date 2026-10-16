@@ -36,8 +36,8 @@ for d in [OUTPUT_DIR, IMAGES_DIR, AUDIO_DIR, VIDEO_DIR, HISTORY_DIR, LONGFORM_DI
 VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
-TARGET_DURATION_MINUTES = 5
-TARGET_PHRASES = 120
+TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases with natural pedagogical pauses)
+TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names
 CATEGORIES_ENGLISH = [
@@ -99,86 +99,95 @@ VIRAL_STYLES = [
 ]
 
 # AI Model
-AI_MODEL = os.getenv("AI_MODEL")
-
-if not AI_MODEL:
-    raise ValueError(
-        "AI_MODEL not set! Please add 'AI_MODEL=gemini-fast' to your .env file."
-    )
+AI_MODEL = os.getenv("AI_MODEL") or "gemini-fast"
 
 
-# ============== PHRASE HISTORY MANAGEMENT ==============
+# ============== PHRASE HISTORY MANAGEMENT & DEDUPLICATION ==============
+
+def normalize_phrase_text(text: str) -> str:
+    """Normalize phrase text for strict duplicate detection (lowercase, alphanumeric only)."""
+    import re
+    return re.sub(r'[^a-z0-9\s]', '', text.lower()).strip()
+
+
+def get_phrase_words(text: str) -> set:
+    """Extract set of words for similarity check, ignoring trivial single-letter words."""
+    import re
+    words = set(re.findall(r'\b[a-z0-9]+\b', text.lower()))
+    return {w for w in words if len(w) > 1}
+
+
+def is_phrase_similar_fast(cand_words: set, reference_words_list: list, threshold: float = 0.65) -> bool:
+    """Fast similarity check using Jaccard word overlap to prevent rephrased duplicates."""
+    if not cand_words:
+        return False
+    cand_len = len(cand_words)
+    for ref_words in reference_words_list:
+        if not ref_words:
+            continue
+        intersection_len = len(cand_words.intersection(ref_words))
+        if intersection_len == 0:
+            continue
+        union_len = cand_len + len(ref_words) - intersection_len
+        if union_len > 0 and (intersection_len / union_len) >= threshold:
+            return True
+    return False
+
 
 def load_phrase_history():
+    """Load all previously generated phrases"""
     if PHRASE_HISTORY_FILE.exists():
-        with open(PHRASE_HISTORY_FILE, "r", encoding="utf-8-sig") as f:
-            return json.load(f)
+        try:
+            with open(PHRASE_HISTORY_FILE, "r", encoding="utf-8-sig") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"[history] Warning: Could not read history file ({e}), initializing fresh.")
     return {"phrases": [], "last_updated": None}
 
 
 def save_phrase_history(data):
+    """Save phrase history"""
     data["last_updated"] = datetime.now().isoformat()
     with open(PHRASE_HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
-def is_phrase_used(english_phrase):
-    history = load_phrase_history()
-    english_lower = english_phrase.lower().strip()
-    for p in history.get("phrases", []):
-        if p.get("english", "").lower().strip() == english_lower:
-            return True
-    return False
-
-
-def is_phrase_similar(new_phrase, used_phrases, similarity_threshold=0.6):
-    new_words = set(new_phrase.lower().split())
-    if len(new_words) < 3:
-        for used in used_phrases:
-            if new_phrase.lower() in used.lower() or used.lower() in new_phrase.lower():
-                return True
-        return False
-    for used in used_phrases:
-        used_words = set(used.lower().split())
-        if len(new_words) == 0 or len(used_words) == 0:
-            continue
-        intersection = len(new_words.intersection(used_words))
-        union = len(new_words.union(used_words))
-        similarity = intersection / union if union > 0 else 0
-        if similarity >= similarity_threshold:
-            return True
-    return False
-
-
-def filter_similar_phrases(phrases, history, similarity_threshold=0.6):
-    used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
-    unique_phrases = []
-    for phrase in phrases:
-        english_text = phrase.get("english", "")
-        if not is_phrase_similar(english_text, used_phrases, similarity_threshold):
-            unique_phrases.append(phrase)
-        else:
-            print(f"[filter] Skipping similar: {english_text[:50]}...")
-    return unique_phrases
-
-
 def add_phrases_to_history(phrases, category):
+    """Add new unique phrases to permanent history"""
     history = load_phrase_history()
+    existing_normalized = {
+        normalize_phrase_text(p.get("english", ""))
+        for p in history.get("phrases", [])
+        if p.get("english")
+    }
+    
+    added_count = 0
     for phrase in phrases:
-        history["phrases"].append({
-            "english": phrase["english"],
-            "swahili": phrase["swahili"],
-            "category": category,
-            "generated_at": datetime.now().isoformat()
-        })
+        norm = normalize_phrase_text(phrase.get("english", ""))
+        if norm and norm not in existing_normalized:
+            existing_normalized.add(norm)
+            foreign_val = phrase.get("swahili") or phrase.get("target") or phrase.get("foreign") or ""
+            history["phrases"].append({
+                "english": phrase["english"],
+                "swahili": foreign_val,
+                "category": category,
+                "generated_at": datetime.now().isoformat()
+            })
+            added_count += 1
+            
     save_phrase_history(history)
-    print(f"[history] Added {len(phrases)} phrases to history (total: {len(history['phrases'])})")
+    print(f"[history] Added {added_count} unique phrases to permanent history (total: {len(history['phrases'])})")
 
 
 # ============== CONTENT GENERATION ==============
 
 def calculate_phrases_needed(target_minutes: int) -> int:
-    avg_phrase_duration = 5.0
+    """
+    Calculate how many phrases needed for target video duration.
+    With pedagogical pauses (English ~2.5s + 1.2s pause + Foreign ~3.0s + 2.0s pause = ~8.7-10.0s per phrase):
+    For 20 minutes (1200 seconds): 1200 / 10 = ~120 phrases.
+    """
+    avg_phrase_duration = 10.0  # seconds
     total_seconds = target_minutes * 60
     return int(total_seconds / avg_phrase_duration)
 
@@ -214,7 +223,7 @@ def repair_and_parse_json(content: str):
             except Exception:
                 pass
 
-    matches = re.findall(r'\{[^{}]*\"english\"[^{}]*\}', cleaned)
+    matches = re.findall(r'\{[^{}]*"english"[^{}]*\}', cleaned)
     results = []
     for m in matches:
         try:
@@ -229,79 +238,124 @@ def repair_and_parse_json(content: str):
     raise ValueError("Could not parse or repair JSON from content")
 
 
-def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
-    category_swahili = CATEGORIES_SWAHILI[category_english]
-    history = load_phrase_history()
-    used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
-    viral_style = random.choice(VIRAL_STYLES)
-    all_phrases = []
-    batch_size = 20
-    max_attempts = 5
+# Sub-themes to guarantee rich vocabulary variety and completely prevent repetitive phrasing
+SUBTHEMES = [
+    ("Everyday Essentials & Reactions", "Focus on high-frequency everyday expressions, quick reactions, and essential conversational starters"),
+    ("Questions & Interactive Dialogue", "Focus on asking questions, polite inquiries, seeking advice, and two-way conversations"),
+    ("Mindset & Encouragement", "Focus on motivating thoughts, affirmations, giving praise, and positive mindset"),
+    ("Native Idioms & Cultural Sayings", "Focus on natural idioms, colloquial expressions, common sayings, and local phrasing"),
+    ("Reflections & Emotional Honesty", "Focus on expressing personal feelings, sincere reflections, patience, and deeper thoughts"),
+    ("Practical Life Situations & Tips", "Focus on daily habits, real-world social scenarios, practical problem-solving, and actionable advice")
+]
 
-    for batch_num in range((num_phrases + batch_size - 1) // batch_size):
-        remaining = num_phrases - len(all_phrases)
-        current_batch_size = min(batch_size, remaining)
-        if current_batch_size <= 0:
+
+def generate_phrases_for_longform(category_english: str, num_phrases: int = TARGET_PHRASES) -> list:
+    """
+    Generate 100% unique bilingual phrases for a ~20-minute long-form video.
+    Guarantees NO repetition within the video and NO repetition across past videos.
+    """
+    import requests
+    import time
+
+    category_foreign = CATEGORIES_SWAHILI[category_english]
+    history = load_phrase_history()
+    
+    # Pre-index all past phrases in history
+    history_phrases = history.get("phrases", [])
+    history_norm_set = {
+        normalize_phrase_text(p.get("english", ""))
+        for p in history_phrases
+        if p.get("english")
+    }
+    history_words_list = [
+        get_phrase_words(p.get("english", ""))
+        for p in history_phrases
+        if p.get("english")
+    ]
+    
+    # Category-specific past phrases (to feed directly into LLM exclusion prompts)
+    category_past_english = [
+        p.get("english", "")
+        for p in history_phrases
+        if p.get("category") == category_english and p.get("english")
+    ]
+
+    all_phrases = []
+    current_video_norm_set = set()
+    current_video_words_list = []
+
+    num_batches = len(SUBTHEMES)
+    target_per_batch = (num_phrases + num_batches - 1) // num_batches
+    max_batch_attempts = 4
+
+    print(f"[content] Starting generation of {num_phrases} UNIQUE phrases for '{category_english}' ({category_foreign})...")
+
+    for batch_idx, (theme_name, theme_guidance) in enumerate(SUBTHEMES):
+        remaining_needed = num_phrases - len(all_phrases)
+        if remaining_needed <= 0:
             break
-        for attempt in range(max_attempts):
+
+        batch_target = min(target_per_batch, remaining_needed)
+        request_count = min(30, batch_target + 10)
+        temp = round(0.85 + (batch_idx * 0.05), 2)
+        viral_style = random.choice(VIRAL_STYLES)
+
+        for attempt in range(max_batch_attempts):
+            remaining_for_batch = batch_target - (len(all_phrases) - (batch_idx * target_per_batch))
+            if remaining_for_batch <= 0 and len(all_phrases) >= (batch_idx + 1) * target_per_batch:
+                break
+
             try:
-                import requests
+                # Dynamic exclusion list:
+                # 1. Phrases generated in THIS video run (prevents repeating across batches!)
+                # 2. Recent phrases from past history for this category
+                current_generated_en = [p["english"] for p in all_phrases[-40:]]
+                recent_cat_past = category_past_english[-25:] if category_past_english else []
+                combined_exclusions = list(dict.fromkeys(current_generated_en + recent_cat_past))
+                
+                exclusion_note = ""
+                if combined_exclusions:
+                    exclusion_note = (
+                        f"\n\nCRITICAL: DO NOT use, repeat, or slightly rephrase any of these phrases:\n"
+                        + "\n".join(f"- {p}" for p in combined_exclusions[:40])
+                    )
+
+                prompt = f"""Create {request_count} UNIQUE {category_english} phrases for English speakers learning Swahili.
+
+Thematic Section {batch_idx + 1}/{num_batches}: {theme_name}
+Focus: {theme_guidance} related to {category_english}.
+Style: Natural, authentic {viral_style} format - phrasing real native speakers use.
+
+RULES FOR CLEAR, NATURAL SPEECH:
+1. Length: Short and clear (4 to 12 words per phrase).
+2. Natural pauses: Use commas (,) to indicate natural pauses for speaking practice (e.g. "Dream big, start small").
+3. Everyday vocabulary: Practical, high-frequency, modern conversational vocabulary.
+4. Variety: Varied grammatical forms (imperatives, questions, observations, short idioms).
+5. NO REPETITION: Every phrase must express a distinct idea.{exclusion_note}
+
+For each phrase provide:
+1. "english": English phrase with commas for natural pauses
+2. "swahili": Natural Swahili translation
+3. "pronunciation": Pronunciation guide (phonetic spelling for English speakers, e.g. "Hej, hur mår du?")
+
+Return STRICTLY a JSON array:
+[{"english": "...", "swahili": "...", "pronunciation": "..."}]"""
+
                 url = "https://gen.pollinations.ai/v1/chat/completions"
                 headers = {
                     "Authorization": f"Bearer {POLLINATIONS_API_KEY}",
                     "Content-Type": "application/json"
                 }
-                exclusion_note = ""
-                if used_phrases:
-                    recent = used_phrases[-30:] if len(used_phrases) > 30 else used_phrases
-                    exclusion_note = f"\n\nAVOID these phrases (already used): {recent}"
-
-                prompt = f"""Create {current_batch_size * 2} unique {category_english} phrases for English speakers learning Swahili.
-
-Style: Make each phrase feel like a {viral_style} - something people would want to share!
-
-CRITICAL RULE - ABSOLUTELY ZERO Swahili IN ENGLISH FIELD:
-The "english" field must contain ONLY English words. NO Swahili words at all.
-The "swahili" field contains the Swahili translation.
-The "pronunciation" field is phonetic English spelling approximating Swahili sounds.
-
-These are INSPIRATIONAL PHRASES about the topic, NOT language-learning tips.
-
-WRONG (teaching tip with Swahili words): {{"english": "Don't say 'jambo,' it's not just hello.", ...}}
-WRONG (Swahili word in english): {{"english": "Use 'asante' for thank you", ...}}
-WRONG (lesson tip): {{"english": "Say 'kwaheri' for goodbye", ...}}
-CORRECT (pure english phrase): {{"english": "Knowledge is the key to wisdom.", "swahili": "Hekima ni ufunguo wa maarifa.", "pronunciation": "he-kee-ma nee oo-foon-goo-wa ma-a-ree-fa"}}
-CORRECT: {{"english": "A wise person listens more than they speak.", "swahili": "Mtu mwenye hekima husikiliza zaidi kuliko kusema.", "pronunciation": "m-too mwe-nye he-kee-ma hoo-see-kee-lee-za za-ee-dee koo-lee-ko koo-se-ma"}}
-
-The english field MUST be 100% English words only. Absolutely NO Swahili words in the english field.
-
-IMPORTANT RULES FOR NATURAL SPEECH:
-1. Keep phrases SHORT (5-12 words max per language)
-2. Add NATURAL PAUSES using commas (e.g., "Dream big, start small")
-3. Use punctuation for breathing room in TTS
-4. Avoid long run-on sentences
-5. Each phrase should be speakable in 3-5 seconds
-6. Use everyday vocabulary - avoid exotic or rare words
-7. Avoid complex grammar - keep it simple and practical
-8. Vary sentence structure for natural flow
-
-For each phrase:
-1. English phrase (pure English, zero Swahili words) with commas for natural pauses
-2. Swahili translation
-3. Pronunciation guide (phonetic English spelling)
-
-Return as JSON array:
-[{{"english": "...", "swahili": "...", "pronunciation": "..."}}]
-
-IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion_note}"""
-
                 payload = {
                     "model": AI_MODEL,
                     "messages": [
-                        {"role": "system", "content": "You create INSPIRATIONAL PHRASES for YouTube language learning videos. CRITICAL: The 'english' field must be PURE ENGLISH with ZERO Swahili words - no Swahili words at all. These are universal inspirational phrases, NOT language learning tips. Swahili goes ONLY in the 'swahili' field."},
+                        {
+                            "role": "system",
+                            "content": f"You are an expert native Swahili language instructor creating viral, high-retention educational lessons for YouTube. Always return clean, valid JSON with fresh, non-repeating phrases."
+                        },
                         {"role": "user", "content": prompt}
                     ],
-                    "temperature": 1.0
+                    "temperature": temp
                 }
 
                 response = requests.post(url, headers=headers, json=payload, timeout=90)
@@ -309,208 +363,133 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
 
                 data = response.json()
                 content = data["choices"][0]["message"]["content"].strip()
+                candidates = repair_and_parse_json(content)
 
-                if "```json" in content:
-                    content = content.split("```json")[1].split("```")[0].strip()
-                elif "```" in content:
-                    content = content.split("```")[1].split("```")[0].strip()
+                accepted_in_batch = 0
+                for cand in candidates:
+                    if len(all_phrases) >= num_phrases:
+                        break
 
-                phrases = repair_and_parse_json(content)
-                filtered_phrases = filter_similar_phrases(phrases, history)
-                unique_phrases = []
-                for phrase in filtered_phrases:
-                    if len(phrase["english"].split()) > 15:
+                    en_text = cand.get("english", "").strip()
+                    foreign_text = (cand.get("swahili") or cand.get("target") or cand.get("foreign") or "").strip()
+                    pron_text = (cand.get("pronunciation") or cand.get("pronunciation") or cand.get("pinyin") or cand.get("romaji") or cand.get("phonetic") or "").strip()
+
+                    if not en_text or not foreign_text:
                         continue
-                    if not is_phrase_used(phrase["english"]):
-                        unique_phrases.append(phrase)
-                for phrase in unique_phrases:
-                    if len(all_phrases) < num_phrases:
-                        all_phrases.append(phrase)
+
+                    # Word count constraints (avoid single words or long run-ons)
+                    words_count = len(en_text.split())
+                    if words_count < 2 or words_count > 15:
+                        continue
+
+                    norm_en = normalize_phrase_text(en_text)
+                    if not norm_en:
+                        continue
+
+                    # 1. Check exact match in current video (STRICT ZERO DUPLICATES in same video!)
+                    if norm_en in current_video_norm_set:
+                        continue
+
+                    # 2. Check exact match in past history
+                    if norm_en in history_norm_set:
+                        continue
+
+                    # 3. Check similarity against phrases already accepted in THIS video (prevents rephrasing)
+                    cand_words = get_phrase_words(en_text)
+                    if is_phrase_similar_fast(cand_words, current_video_words_list, threshold=0.65):
+                        continue
+
+                    # 4. Check similarity against past history
+                    if is_phrase_similar_fast(cand_words, history_words_list, threshold=0.70):
+                        continue
+
+                    # Candidate is verified 100% unique!
+                    valid_phrase = {
+                        "english": en_text,
+                        "swahili": foreign_text,
+                        "pronunciation": pron_text
+                    }
+                    current_video_norm_set.add(norm_en)
+                    current_video_words_list.append(cand_words)
+                    history_norm_set.add(norm_en)
+                    history_words_list.append(cand_words)
+                    all_phrases.append(valid_phrase)
+                    accepted_in_batch += 1
+
+                print(f"  [batch {batch_idx + 1}/{num_batches} '{theme_name}'] Added {accepted_in_batch} unique phrases (progress: {len(all_phrases)}/{num_phrases})")
+
+                if len(all_phrases) >= (batch_idx + 1) * target_per_batch or len(all_phrases) >= num_phrases:
+                    break
+
+            except Exception as e:
+                print(f"  [batch {batch_idx + 1}, attempt {attempt + 1}] Notice: {e}")
+                time.sleep(2)
+
+        time.sleep(0.5)
+
+    # Secondary booster pass: if any slots remain to reach num_phrases, generate fresh conversational phrases
+    attempts_booster = 0
+    while len(all_phrases) < num_phrases and attempts_booster < 4:
+        attempts_booster += 1
+        needed = num_phrases - len(all_phrases)
+        print(f"[content] Booster pass {attempts_booster}: Generating {needed} additional unique phrases...")
+        try:
+            current_generated_en = [p["english"] for p in all_phrases[-40:]]
+            prompt = f"""Generate {needed + 8} FRESH, UNIQUE conversational phrases for English speakers learning Swahili.
+Theme: Practical life, emotional intelligence, and interpersonal communication related to {category_english}.
+
+RULES:
+1. 3 to 12 words per phrase. Natural commas for pauses.
+2. DO NOT REPEAT ANY OF THESE:\n""" + "\n".join(f"- {p}" for p in current_generated_en) + f"""
+
+Return STRICTLY a JSON array:
+[{"english": "...", "swahili": "...", "pronunciation": "..."}]"""
+
+            url = "https://gen.pollinations.ai/v1/chat/completions"
+            headers = {"Authorization": f"Bearer {POLLINATIONS_API_KEY}", "Content-Type": "application/json"}
+            payload = {
+                "model": AI_MODEL,
+                "messages": [
+                    {"role": "system", "content": f"You are a native Swahili tutor. Return only valid JSON array of unique phrases."},
+                    {"role": "user", "content": prompt}
+                ],
+                "temperature": 1.05
+            }
+            resp = requests.post(url, headers=headers, json=payload, timeout=90)
+            resp.raise_for_status()
+            candidates = repair_and_parse_json(resp.json()["choices"][0]["message"]["content"])
+            
+            for cand in candidates:
                 if len(all_phrases) >= num_phrases:
                     break
-            except Exception as e:
-                print(f"[content] Batch {batch_num + 1}, Attempt {attempt + 1} failed: {e}")
-        if len(all_phrases) < num_phrases:
-            import time
-            time.sleep(1)
-
-    if not all_phrases:
-        print(f"[content] AI generation produced 0 phrases. Loading fresh fallback phrases for '{category_english}'...")
-        all_phrases = get_fresh_fallback_phrases(category_english, num_phrases)
-    elif len(all_phrases) < num_phrases:
-        print(f"[content] Only {len(all_phrases)} phrases generated. Padding with fresh fallback phrases...")
-        extras = get_fresh_fallback_phrases(category_english, num_phrases - len(all_phrases))
-        for ex in extras:
-            if ex not in all_phrases:
-                all_phrases.append(ex)
+                en_text = cand.get("english", "").strip()
+                foreign_text = (cand.get("swahili") or cand.get("target") or cand.get("foreign") or "").strip()
+                pron_text = (cand.get("pronunciation") or cand.get("pronunciation") or cand.get("pinyin") or cand.get("romaji") or cand.get("phonetic") or "").strip()
+                if not en_text or not foreign_text:
+                    continue
+                norm_en = normalize_phrase_text(en_text)
+                if not norm_en or norm_en in current_video_norm_set or norm_en in history_norm_set:
+                    continue
+                cand_words = get_phrase_words(en_text)
+                if is_phrase_similar_fast(cand_words, current_video_words_list, threshold=0.65):
+                    continue
+                
+                valid_phrase = {"english": en_text, "swahili": foreign_text, "pronunciation": pron_text}
+                current_video_norm_set.add(norm_en)
+                current_video_words_list.append(cand_words)
+                history_norm_set.add(norm_en)
+                history_words_list.append(cand_words)
+                all_phrases.append(valid_phrase)
+        except Exception as e:
+            print(f"  [booster attempt {attempts_booster}] Error: {e}")
+            time.sleep(2)
 
     final_phrases = all_phrases[:num_phrases]
     if final_phrases:
         add_phrases_to_history(final_phrases, category_english)
-    print(f"[content] Generated {len(final_phrases)} phrases for long-form video")
+
+    print(f"\n[content] Successfully generated {len(final_phrases)} 100% UNIQUE phrases for '{category_english}'")
     return final_phrases
-
-
-def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
-    all_fallbacks = {
-        "Motivation": [
-            {"english": "Believe in yourself.", "swahili": "Jiamini mwenyewe.", "pronunciation": "jee-ah-mee-nee mwe-nye-we"},
-            {"english": "You are capable of amazing things.", "swahili": "Una uwezo wa mambo ya kushangaza.", "pronunciation": "oo-na oo-we-zo wa mam-bo ya koo-shan-ga-za"},
-            {"english": "Dream big, start small.", "swahili": "Ota ndoto kubwa, anza kidogo.", "pronunciation": "o-ta n-do-to koo-bwa, an-za kee-do-go"},
-            {"english": "Your future is created by your actions.", "swahili": "Mustakabali wako unajengwa na matendo yako.", "pronunciation": "moo-sta-ka-ba-lee wa-ko oo-na-jeng-wa na ma-ten-do ya-ko"},
-            {"english": "Never give up on your dreams.", "swahili": "Usikate tamaa kwenye ndoto zako.", "pronunciation": "oo-see-ka-te ta-ma-a kwe-nye n-do-to za-ko"},
-            {"english": "Small steps lead to big changes.", "swahili": "Hatua ndogo ndogo zinaleta mabadiliko makubwa.", "pronunciation": "ha-too-a n-do-go n-do-go zee-na-le-ta ma-ba-dee-lee-ko ma-koo-bwa"},
-            {"english": "You are stronger than you think.", "swahili": "Wewe una nguvu kuliko unavyofikiri.", "pronunciation": "we-we oo-na ngoo-voo koo-lee-ko oo-na-vyo-fee-kee-ree"},
-        ],
-        "Love": [
-            {"english": "Love yourself first.", "swahili": "Jipende kwanza.", "pronunciation": "jee-pen-de kwan-za"},
-            {"english": "Love makes everything possible.", "swahili": "Upendo hufanya kila kitu kiwezekane.", "pronunciation": "oo-pen-do hoo-fan-ya kee-la kee-too kee-we-ze-ka-ne"},
-            {"english": "My heart beats for you.", "swahili": "Moyo wangu unakupigia.", "pronunciation": "mo-yo wan-goo oo-na-koo-pee-gee-a"},
-            {"english": "You are my everything.", "swahili": "Wewe ni kila kitu kwangu.", "pronunciation": "we-we nee kee-la kee-too kwan-goo"},
-            {"english": "Together forever, hand in hand.", "swahili": "Pamoja milele, mkono kwa mkono.", "pronunciation": "pa-mo-ja mee-le-le, m-ko-no kwa m-ko-no"},
-        ],
-        "Success": [
-            {"english": "Success comes from hard work.", "swahili": "Mafanikio yanatokana na kazi ngumu.", "pronunciation": "ma-fa-nee-kee-o ya-na-to-ka-na na ka-zee ngoo-moo"},
-            {"english": "Keep going, you're getting there.", "swahili": "Endelea, unafika huko.", "pronunciation": "en-de-le-a, oo-na-fee-ka hoo-ko"},
-            {"english": "Winners never quit.", "swahili": "Washindi hawakati tamaa.", "pronunciation": "wa-sheen-dee ha-wa-ka-tee ta-ma-a"},
-            {"english": "Your effort will pay off.", "swahili": "Jitihada zako zitalipa.", "pronunciation": "jee-tee-ha-da za-ko zee-ta-lee-pa"},
-        ],
-        "Wisdom": [
-            {"english": "Knowledge is power.", "swahili": "Maarifa ni nguvu.", "pronunciation": "ma-a-ree-fa nee ngoo-voo"},
-            {"english": "Learn from yesterday, live for today.", "swahili": "Jifunze kutoka jana, ishi kwa ajili ya leo.", "pronunciation": "jee-foon-ze koo-to-ka ja-na, ee-shee kwa a-jee-lee ya le-o"},
-            {"english": "Think before you act.", "swahili": "Fikiri kabla ya kutenda.", "pronunciation": "fee-kee-ree kab-la ya koo-ten-da"},
-            {"english": "Experience is the best teacher.", "swahili": "Uzoefu ndio mwalimu bora.", "pronunciation": "oo-zo-e-foo n-dee-o mwa-lee-moo bo-ra"},
-        ],
-        "Happiness": [
-            {"english": "Happiness is a choice.", "swahili": "Furaha ni chaguo.", "pronunciation": "foo-ra-ha nee cha-goo-o"},
-            {"english": "Find joy in the little things.", "swahili": "Pata furaha katika vitu vidogo.", "pronunciation": "pa-ta foo-ra-ha ka-tee-ka vee-too vee-do-go"},
-            {"english": "Smile, it makes others happy.", "swahili": "Tabasamu, inawafurahisha wengine.", "pronunciation": "ta-ba-sa-moo, ee-na-wa-foo-ra-hee-sha wen-ge-ne"},
-            {"english": "Today is a gift.", "swahili": "Leo ni zawadi.", "pronunciation": "le-o nee za-wa-dee"},
-        ],
-        "Self Improvement": [
-            {"english": "Be better than yesterday.", "swahili": "Kuwa bora kuliko jana.", "pronunciation": "koo-wa bo-ra koo-lee-ko ja-na"},
-            {"english": "Grow through what you go through.", "swahili": "Kua kwa kupitia kile unachopitia.", "pronunciation": "koo-a kwa koo-pee-tee-a kee-le oo-na-cho-pee-tee-a"},
-            {"english": "Invest in yourself daily.", "swahili": "Wekeza ndani yako kila siku.", "pronunciation": "we-ke-za n-da-nee ya-ko kee-la see-koo"},
-        ],
-        "Gratitude": [
-            {"english": "Thank you for everything.", "swahili": "Asante kwa kila kitu.", "pronunciation": "a-san-te kwa kee-la kee-too"},
-            {"english": "I appreciate your help.", "swahili": "Nashukuru msaada wako.", "pronunciation": "na-shoo-koo-roo m-sa-a-da wa-ko"},
-            {"english": "Grateful for this moment.", "swahili": "Nina shukrani kwa wakati huu.", "pronunciation": "nee-na shook-ra-nee kwa wa-ka-tee hoo-oo"},
-        ],
-        "Friendship": [
-            {"english": "Friends forever, no matter what.", "swahili": "Marafiki milele, bila kujali nini.", "pronunciation": "ma-ra-fee-kee mee-le-le, bee-la koo-ja-lee nee-nee"},
-            {"english": "You are my best friend.", "swahili": "Wewe ni rafiki yangu bora.", "pronunciation": "we-we nee ra-fee-kee yan-goo bo-ra"},
-            {"english": "True friends stick together.", "swahili": "Marafiki wa kweli hushikamana.", "pronunciation": "ma-ra-fee-kee wa kwe-lee hoo-she-ka-ma-na"},
-        ],
-        "Hope": [
-            {"english": "There is always hope.", "swahili": "Daima kuna tumaini.", "pronunciation": "da-ee-ma koo-na too-ma-ee-nee"},
-            {"english": "Better days are coming.", "swahili": "Siku nzuri zinakuja.", "pronunciation": "see-koo n-zoo-ree zee-na-koo-ja"},
-            {"english": "Keep faith, keep going.", "swahili": "Shikilia imani, endelea.", "pronunciation": "shee-kee-lee-a ee-ma-nee, en-de-le-a"},
-        ],
-        "Creativity": [
-            {"english": "Create something beautiful today.", "swahili": "Unda kitu kizuri leo.", "pronunciation": "oon-da kee-too kee-zoo-ree le-o"},
-            {"english": "Your imagination is unlimited.", "swahili": "Mawazo yako hayana kikomo.", "pronunciation": "ma-wa-zo ya-ko ha-ya-na kee-ko-mo"},
-            {"english": "Art comes from the heart.", "swahili": "Sanaa inatoka moyoni.", "pronunciation": "sa-na-a ee-na-to-ka mo-yo-nee"},
-            {"english": "Express yourself freely.", "swahili": "Jieleze kwa uhuru.", "pronunciation": "jee-e-le-ze kwa oo-hoo-roo"},
-            {"english": "Innovation starts with curiosity.", "swahili": "Ubunifu huanza na udadisi.", "pronunciation": "oo-boo-nee-foo hoo-an-za na oo-da-dee-see"},
-        ],
-        "Inner Peace": [
-            {"english": "Find peace within yourself.", "swahili": "Pata amani ndani yako.", "pronunciation": "pa-ta a-ma-nee n-da-nee ya-ko"},
-            {"english": "Breathe, relax, let go.", "swahili": "Pumua, pumzika, acha kwenda.", "pronunciation": "poo-moo-a, poom-zee-ka, a-cha kwen-da"},
-            {"english": "Calm mind, happy heart.", "swahili": "Akili tulivu, moyo wenye furaha.", "pronunciation": "a-kee-lee too-lee-voo, mo-yo we-nye foo-ra-ha"},
-        ],
-        "Confidence": [
-            {"english": "You are enough, just as you are.", "swahili": "Unatosha, jinsi ulivyo.", "pronunciation": "oo-na-to-sha, jeen-see oo-lee-vyo"},
-            {"english": "Stand tall, speak up.", "swahili": "Simama wima, sema kwa sauti.", "pronunciation": "see-ma-ma wee-ma, se-ma kwa sa-oo-tee"},
-            {"english": "Believe in your abilities.", "swahili": "Amini uwezo wako.", "pronunciation": "a-mee-nee oo-we-zo wa-ko"},
-        ],
-        "Perseverance": [
-            {"english": "Never give up, keep pushing.", "swahili": "Usikate tamaa, endelea kusonga mbele.", "pronunciation": "oo-see-ka-te ta-ma-a, en-de-le-a koo-son-ga m-be-le"},
-            {"english": "Storms make trees take deeper roots.", "swahili": "Dhoruba hufanya miti ichukue mizizi mirefu.", "pronunciation": "dho-roo-ba hoo-fan-ya mee-tee ee-choo-koo-e mee-zee-zee mee-re-foo"},
-            {"english": "Patience and persistence win.", "swahili": "Subira na uvumilivu hushinda.", "pronunciation": "soo-bee-ra na oo-voo-mee-lee-voo hoo-sheen-da"},
-        ],
-        "Inspiration": [
-            {"english": "Let your light shine bright.", "swahili": "Acha nuru yako ing'ae kwa mwangaza.", "pronunciation": "a-cha noo-roo ya-ko een-ga-e kwa mwan-ga-za"},
-            {"english": "Inspire others by your actions.", "swahili": "Wahamasisha wengine kwa matendo yako.", "pronunciation": "wa-ha-ma-see-sha wen-ge-ne kwa ma-ten-do ya-ko"},
-            {"english": "Be the change you want to see.", "swahili": "Kuwa mabadiliko unayotaka kuona.", "pronunciation": "koo-wa ma-ba-dee-lee-ko oo-na-yo-ta-ka koo-o-na"},
-        ],
-        "Positive Life": [
-            {"english": "Choose positivity every day.", "swahili": "Chagua chanya kila siku.", "pronunciation": "cha-goo-a chan-ya kee-la see-koo"},
-            {"english": "Good vibes only.", "swahili": "Mawazo mazuri tu.", "pronunciation": "ma-wa-zo ma-zoo-ree too"},
-            {"english": "Life is what you make it.", "swahili": "Maisha ni kile unachoyafanya.", "pronunciation": "ma-ee-sha nee kee-le oo-na-cho-ya-fan-ya"},
-        ],
-        "Courage": [
-            {"english": "Be brave, take the first step.", "swahili": "Kuwa jasiri, chukua hatua ya kwanza.", "pronunciation": "koo-wa ja-see-ree, choo-koo-a ha-too-a ya kwan-za"},
-            {"english": "Courage is not the absence of fear.", "swahili": "Ujasiri si kutokuwepo kwa woga.", "pronunciation": "oo-ja-see-ree see koo-to-koo-we-po kwa wo-ga"},
-            {"english": "Face your fears head on.", "swahili": "Kabiliana na hofu zako moja kwa moja.", "pronunciation": "ka-bee-lee-a-na na ho-foo za-ko mo-ja kwa mo-ja"},
-        ],
-        "Kindness": [
-            {"english": "Be kind to everyone you meet.", "swahili": "Kuwa mwema kwa kila mtu unayekutana naye.", "pronunciation": "koo-wa mwe-ma kwa kee-la m-too oo-na-ye-koo-ta-na na-ye"},
-            {"english": "Kindness costs nothing, means everything.", "swahili": "Wema haugharimu chochote, maana yake ni yote.", "pronunciation": "we-ma how-gha-ree-moo cho-cho-te, ma-a-na ya-ke nee yo-te"},
-            {"english": "Spread kindness wherever you go.", "swahili": "Enea wema kokote uendako.", "pronunciation": "e-ne-a we-ma ko-ko-te oo-en-da-ko"},
-        ],
-        "Patience": [
-            {"english": "Good things take time.", "swahili": "Mambo mazuri huchukua muda.", "pronunciation": "mam-bo ma-zoo-ree hoo-choo-koo-a moo-da"},
-            {"english": "Wait patiently, trust the process.", "swahili": "Subiri kwa uvumilivu, amini mchakato.", "pronunciation": "soo-bee-ree kwa oo-voo-mee-lee-voo, a-mee-nee m-cha-ka-to"},
-            {"english": "Rome wasn't built in a day.", "swahili": "Roma haikujengwa kwa siku moja.", "pronunciation": "ro-ma ha-ee-koo-jeng-wa kwa see-koo mo-ja"},
-        ],
-        "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "swahili": "Samehe na ujiweke huru.", "pronunciation": "sa-me-he na oo-jee-we-ke hoo-roo"},
-            {"english": "Let go of grudges, find peace.", "swahili": "Acha kichukizo, pata amani.", "pronunciation": "a-cha kee-choo-kee-zo, pa-ta a-ma-nee"},
-            {"english": "Forgiveness is a gift to yourself.", "swahili": "Msamaha ni zawadi kwako mwenyewe.", "pronunciation": "m-sa-ma-ha nee za-wa-dee kwa-ko mwe-nye-we"},
-        ],
-        "Strength": [
-            {"english": "You are stronger than you know.", "swahili": "Una nguvu kuliko unavyojua.", "pronunciation": "oo-na ngoo-voo koo-lee-ko oo-na-vyo-ju-a"},
-            {"english": "Inner strength comes from within.", "swahili": "Nguvu ya ndani inatoka ndani.", "pronunciation": "ngoo-voo ya n-da-nee ee-na-to-ka n-da-nee"},
-            {"english": "Challenges make you stronger.", "swahili": "Changamoto hukufanya uwe na nguvu zaidi.", "pronunciation": "chan-ga-mo-to hoo-koo-fan-ya oo-we na ngoo-voo za-ee-dee"},
-        ],
-        "Joy": [
-            {"english": "Find joy in every moment.", "swahili": "Pata shangwe katika kila wakati.", "pronunciation": "pa-ta shang-we ka-tee-ka kee-la wa-ka-tee"},
-            {"english": "Joy is contagious, spread it.", "swahili": "Shangwe inaambukiza, eneza.", "pronunciation": "shang-we ee-na-am-boo-kee-za, e-ne-za"},
-            {"english": "Dance like nobody's watching.", "swahili": "Cheza kama hakuna anayekutazama.", "pronunciation": "che-za ka-ma ha-koo-na a-na-ye-koo-ta-za-ma"},
-        ],
-        "Balance": [
-            {"english": "Find balance in your life.", "swahili": "Pata usawa katika maisha yako.", "pronunciation": "pa-ta oo-sa-wa ka-tee-ka ma-ee-sha ya-ko"},
-            {"english": "Work hard, rest well.", "swahili": "Fanya kazi kwa bidii, pumzika vizuri.", "pronunciation": "fan-ya ka-zee kwa bee-dee, poom-zee-ka vee-zoo-ree"},
-            {"english": "Too much of anything is not good.", "swahili": "Kupita kiasi cha kitu chochote si kizuri.", "pronunciation": "koo-pee-ta kee-a-see cha kee-too cho-cho-te see kee-zoo-ree"},
-        ],
-        "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "swahili": "Ukuaji hutokea nje ya eneo lako la faraja.", "pronunciation": "oo-koo-a-jee hoo-to-ke-a n-je ya e-ne-o la-ko la fa-ra-ja"},
-            {"english": "Embrace change, grow stronger.", "swahili": "Kumbatia mabadiliko, kua na nguvu zaidi.", "pronunciation": "koom-ba-tee-a ma-ba-dee-lee-ko, koo-a na ngoo-voo za-ee-dee"},
-            {"english": "Every challenge is a chance to grow.", "swahili": "Kila changamoto ni nafasi ya kukua.", "pronunciation": "kee-la chan-ga-mo-to nee na-fa-see ya koo-koo-a"},
-        ],
-        "Purpose": [
-            {"english": "Find your purpose, follow it.", "swahili": "Pata kusudi lako, lishike.", "pronunciation": "pa-ta koo-soo-dee la-ko, lee-shee-ke"},
-            {"english": "Your life has meaning.", "swahili": "Maisha yako yana maana.", "pronunciation": "ma-ee-sha ya-ko ya-na ma-a-na"},
-            {"english": "Live with intention, not accident.", "swahili": "Ishi kwa makusudi, si kwa bahati.", "pronunciation": "ee-shee kwa ma-koo-soo-dee, see kwa ba-ha-tee"},
-        ],
-        "Mindfulness": [
-            {"english": "Be present in this moment.", "swahili": "Kuwa katika wakati huu.", "pronunciation": "koo-wa ka-tee-ka wa-ka-tee hoo-oo"},
-            {"english": "Breathe deeply, stay grounded.", "swahili": "Pumua kwa kina, kaa chini.", "pronunciation": "poo-moo-a kwa kee-na, ka-a chee-nee"},
-            {"english": "Notice the little things around you.", "swahili": "Angalia vitu vidogo vidogo vinavyokuzunguka.", "pronunciation": "an-ga-lee-a vee-too vee-do-go vee-do-go vee-na-vyo-koo-zoo-ngoo-ka"},
-        ],
-    }
-
-    fallbacks = all_fallbacks.get(category, all_fallbacks["Motivation"])
-    history = load_phrase_history()
-    fresh_phrases = []
-    for p in fallbacks:
-        if not is_phrase_used(p["english"]) and not is_phrase_similar(p["english"], [h.get("english", "") for h in history.get("phrases", [])]):
-            fresh_phrases.append(p)
-
-    if len(fresh_phrases) < num_phrases:
-        for cat, cat_fallbacks in all_fallbacks.items():
-            if cat != category:
-                for p in cat_fallbacks:
-                    if not is_phrase_used(p["english"]) and not is_phrase_similar(p["english"], [h.get("english", "") for h in history.get("phrases", [])]):
-                        fresh_phrases.append(p)
-                    if len(fresh_phrases) >= num_phrases:
-                        break
-            if len(fresh_phrases) >= num_phrases:
-                break
-
-    return fresh_phrases[:num_phrases]
-
 
 # ============== AUDIO GENERATION ==============
 
@@ -599,39 +578,49 @@ async def generate_single_audio(text: str, voice: str, output_path: str, retries
 
 
 def generate_all_audio(phrases: list, output_dir: str):
+    """Generate audio for all phrases with proper timing for a ~20-minute video"""
+
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     audio_files = []
 
     for i, phrase in enumerate(phrases):
-        english_file = output_dir / f"english_{i}.mp3"
-        lang_file = output_dir / f"lang_{i}.mp3"
-        combined_file = output_dir / f"combined_{i}.mp3"
+        english_file = output_dir / f"english_{i:04d}.mp3"
+        foreign_file = output_dir / f"swahili_{i:04d}.mp3"
+        combined_file = output_dir / f"combined_{i:04d}.mp3"
 
-        if (i + 1) % 20 == 0:
+        if (i + 1) % 20 == 0 or (i + 1) == len(phrases):
             print(f"  Generating audio {i+1}/{len(phrases)}...")
 
+        # Generate English audio
         en_success = asyncio.run(generate_single_audio(phrase["english"], ENGLISH_VOICE, str(english_file)))
         if not en_success:
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
             subprocess.run(cmd, capture_output=True)
 
-        lang_success = asyncio.run(generate_single_audio(phrase["swahili"], LANG_VOICE, str(lang_file)))
-        if not lang_success:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(lang_file)]
+        # Generate Foreign audio
+        foreign_text = phrase.get("swahili") or phrase.get("target") or phrase.get("foreign") or ""
+        foreign_success = asyncio.run(generate_single_audio(foreign_text, LANG_VOICE, str(foreign_file)))
+        if not foreign_success:
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(foreign_file)]
             subprocess.run(cmd, capture_output=True)
 
+        # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
-        lang_duration = get_audio_duration(str(lang_file))
+        foreign_duration = get_audio_duration(str(foreign_file))
 
-        pause_between = 0.5
-        total_duration = en_duration + pause_between + lang_duration
+        # Pedagogical pauses for optimal learning:
+        # 1.2s pause after English: allows learner to process English meaning and anticipate translation
+        # 2.0s pause after foreign phrase: allows learner to repeat aloud and study pronunciation
+        pause_mid = 1.2
+        pause_end = 2.0
 
+        # Combine audio files with precise ffmpeg apad
         cmd = [
             "ffmpeg", "-y",
             "-i", str(english_file),
-            "-i", str(lang_file),
-            "-filter_complex", f"[0:a]apad=pad_dur=0.5[a0];[a0][1:a]concat=n=2:v=0:a=1[out]",
+            "-i", str(foreign_file),
+            "-filter_complex", f"[0:a]apad=pad_dur={pause_mid}[a0];[1:a]apad=pad_dur={pause_end}[a1];[a0][a1]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
         ]
@@ -639,10 +628,11 @@ def generate_all_audio(phrases: list, output_dir: str):
         result = subprocess.run(cmd, capture_output=True, text=True)
 
         if result.returncode != 0:
-            concat_file = output_dir / f"concat_{i}.txt"
+            concat_file = output_dir / f"concat_{i:04d}.txt"
             with open(concat_file, "w", encoding="utf-8") as f:
                 f.write(f"file '{english_file.as_posix()}'\n")
-                f.write(f"file '{lang_file.as_posix()}'\n")
+                f.write(f"file '{foreign_file.as_posix()}'\n")
+
             cmd = [
                 "ffmpeg", "-y",
                 "-f", "concat", "-safe", "0",
@@ -659,16 +649,15 @@ def generate_all_audio(phrases: list, output_dir: str):
         audio_files.append({
             "index": i,
             "english": str(english_file),
-            "lang": str(lang_file),
+            "swahili": str(foreign_file),
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
-            "lang_duration": lang_duration
+            "foreign_duration": foreign_duration
         })
 
     print(f"\n[audio] Generated {len(audio_files)} phrase audios")
     return audio_files
-
 
 def get_audio_duration(audio_file: str) -> float:
     if not Path(audio_file).exists():
@@ -760,8 +749,8 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    swahili = phrase_data.get("swahili", "")
-    pronunciation = phrase_data.get("pronunciation", "")
+    swahili = phrase_data.get("swahili") or phrase_data.get("target") or phrase_data.get("foreign") or ""
+    pronunciation = phrase_data.get("pronunciation") or phrase_data.get("pronunciation") or phrase_data.get("pinyin") or phrase_data.get("romaji") or phrase_data.get("phonetic") or ""
 
     def wrap_text(text, font, max_width):
         words = text.split()
@@ -957,30 +946,38 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
-def generate_title_description(category_english: str, category_swahili: str, phrases: list, duration_minutes: float, output_dir: str):
+def generate_title_description(category_english: str, category_foreign: str, phrases: list, duration_minutes: float, output_dir: str):
+    """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
+    
+    count = len(phrases)
+    est_mins = int(round(duration_minutes)) if duration_minutes > 0 else 20
+    
+    # Generate viral title variations
     titles = [
-        f"Learn Swahili in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_swahili})",
-        f"60 Swahili Phrases for {category_english} | Speak Swahili Like a Native! ({category_swahili})",
-        f"Master Swahili {category_english} | 60 Essential Swahili Phrases with Pronunciation | Velocity Swahili",
-        f"Swahili Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
+        f"Learn Swahili in {est_mins} Minutes | {count} {category_english} Phrases Every Beginner NEEDS to Know! ({category_foreign})",
+        f"{count} Swahili Phrases for {category_english} | Speak Swahili Like a Native! ({category_foreign})",
+        f"Master Swahili {category_english} | {count} Essential Swahili Phrases with Pronunciation | VELOCITY SWAHILI",
+        f"Swahili Learning Made Easy | {category_english} Vocabulary | {est_mins} Minute Lesson",
         f"Speak Swahili Fluently | {category_english} Phrases | English + Swahili + Pronunciation",
     ]
 
-    description = f"""\U0001F1F0\U0001F1EA Learn Swahili with Velocity Swahili! \U0001F1F0\U0001F1EA
+    # Generate comprehensive description
+    description = f"""🌍 Learn Swahili with VELOCITY SWAHILI! 🌍
 
-In this video, you'll learn 60 essential Swahili phrases about {category_english} ({category_swahili}).
+In this video, you'll learn {count} essential Swahili phrases about {category_english} ({category_foreign}).
 Perfect for beginners and intermediate learners!
 
-\U0001F4DA WHAT YOU'LL LEARN:
-\u2022 60 practical {category_english} phrases in Swahili
-\u2022 Correct pronunciation guide
-\u2022 Natural pauses for speaking practice
-\u2022 Common expressions used by native speakers
+📚 WHAT YOU'LL LEARN:
+• {count} practical {category_english} phrases in Swahili
+• Correct pronunciation with phonetics
+• Natural pedagogical pauses for speaking practice
+• Common expressions used by native speakers
 
-\U0001F551 VIDEO TIMESTAMPS:
+⏱️ VIDEO TIMESTAMPS:
 """
 
-    avg_phrase_duration = duration_minutes * 60 / len(phrases)
+    # Add timestamps for each phrase (every 10 phrases grouped)
+    avg_phrase_duration = (duration_minutes * 60) / max(len(phrases), 1)
     for i in range(0, len(phrases), 10):
         timestamp = int(i * avg_phrase_duration / 60)
         minute = timestamp
@@ -988,53 +985,58 @@ Perfect for beginners and intermediate learners!
         end_phrase = min(i + 10, len(phrases))
         description += f"{minute:02d}:{second:02d} Phrases {i+1}-{end_phrase}\n"
 
-    description += """
-\U0001F4DD ALL PHRASES IN THIS VIDEO:
+    description += f"""
+📝 ALL PHRASES IN THIS VIDEO:
 """
 
+    # Add all phrases
     for i, phrase in enumerate(phrases, 1):
+        foreign_phrase_text = phrase.get("swahili") or phrase.get("target") or phrase.get("foreign") or ""
+        pron_phrase_text = phrase.get("pronunciation") or phrase.get("pronunciation") or phrase.get("pinyin") or phrase.get("romaji") or phrase.get("phonetic") or ""
         description += f"""
 {i}. {phrase['english']}
-   Swahili: {phrase['swahili']}
-    Pronunciation: {phrase['pronunciation']}
+   Swahili: {foreign_phrase_text}
+   Pronunciation: {pron_phrase_text}
 """
 
-    description += """
-\U0001F3AF PERFECT FOR:
-\u2022 Swahili beginners wanting to expand vocabulary
-\u2022 Intermediate learners practicing pronunciation
-\u2022 Anyone interested in Swahili language and culture
-\u2022 Language enthusiasts and polyglots
-\u2022 Students preparing for exams
+    description += f"""
+🎯 PERFECT FOR:
+• Swahili beginners wanting to expand vocabulary
+• Intermediate learners practicing pronunciation
+• Anyone interested in Swahili culture
+• Language enthusiasts and polyglots
+• Students preparing for Swahili language exams
 
-\U0001F4A1 TIPS FOR LEARNING:
-1. Repeat each phrase out loud
+💡 TIPS FOR LEARNING:
+1. Repeat each phrase out loud during the pause
 2. Practice daily for best results
 3. Use the pauses to speak along
 4. Write down phrases you find difficult
 5. Review this video multiple times
 
-\U0001F514 SUBSCRIBE for more Swahili learning content!
-\U0001F44D LIKE this video if you found it helpful!
-\U0001F4AC COMMENT which phrases you want to learn next!
+🔔 SUBSCRIBE for more Swahili learning content!
+👍 LIKE this video if you found it helpful!
+💬 COMMENT which phrases you want to learn next!
 
-\U0001F4F1 FOLLOW VELOCITY SWAHILI:
+📱 FOLLOW VELOCITY SWAHILI:
 [Add your social media links here]
 
-\U0001F3B5 MUSIC:
+🎵 MUSIC:
 [Add music credits if applicable]
 
-\U0001F4D6 RELATED VIDEOS:
-\u2022 Swahili Motivation Phrases
-\u2022 Swahili Love Expressions
-\u2022 Basic Swahili Greetings
+📖 RELATED VIDEOS:
+• Swahili Motivation Phrases
+• Swahili Love Expressions
+• Swahili Basics
+• Basic Swahili Greetings
 
-#LearnSwahili #SwahiliPhrases #SwahiliLanguage #{category_english.replace(' ', '')} #VelocitySwahili #SwahiliForBeginners #SpeakSwahili #SwahiliVocabulary #Pronunciation #LanguageLearning #Swahili101 #SwahiliLesson
+#Swahili #SwahiliPhrases #SwahiliLanguage #{category_english.replace(' ', '')} #VELOCITYSWAHILI #SwahiliForBeginners #SpeakSwahili #SwahiliVocabulary #LanguageLearning #Swahili101 #SwahiliLesson
 
 ---
-\u00A9 Velocity Swahili - Making Swahili learning accessible to everyone!
+© VELOCITY SWAHILI - Making Swahili learning accessible to everyone!
 """
 
+    # Write to COMBINED file (title + description in one)
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -1042,43 +1044,48 @@ Perfect for beginners and intermediate learners!
         f.write("=" * 80 + "\n")
         f.write("YOUTUBE VIDEO UPLOAD INFORMATION\n")
         f.write("=" * 80 + "\n\n")
-        f.write("RECOMMENDED TITLES (Choose one):\n")
+        
+        f.write("📌 RECOMMENDED TITLES (Choose one):\n")
         f.write("-" * 80 + "\n")
         for i, title in enumerate(titles, 1):
             f.write(f"\n{i}. {title}\n")
+        
         f.write("\n" + "=" * 80 + "\n")
-        f.write("SELECTED TITLE (Recommended):\n")
+        f.write("📝 SELECTED TITLE (Recommended):\n")
         f.write("-" * 80 + "\n")
         f.write(f"\n{titles[0]}\n")
+        
         f.write("\n" + "=" * 80 + "\n")
-        f.write("VIDEO DESCRIPTION:\n")
+        f.write("📄 VIDEO DESCRIPTION:\n")
         f.write("-" * 80 + "\n\n")
         f.write(description)
+        
         f.write("\n" + "=" * 80 + "\n")
-        f.write("VIDEO TAGS (for YouTube):\n")
+        f.write("🏷️ VIDEO TAGS (for YouTube):\n")
         f.write("-" * 80 + "\n")
         tags = [
-            "Learn Swahili",
-            "Swahili Phrases",
-            "Swahili Language",
+            f"Learn Swahili",
+            f"Swahili Phrases",
+            f"Swahili",
             category_english,
-            "Velocity Swahili",
-            "Swahili for Beginners",
-            "Speak Swahili",
-            "Swahili Vocabulary",
+            brand_text,
+            f"Swahili for Beginners",
+            f"Speak Swahili",
+            f"Swahili Vocabulary",
             "Pronunciation",
             "Language Learning",
-            "Swahili 101",
-            "Swahili Lesson"
+            f"Swahili 101",
+            f"Swahili Lesson"
         ]
         f.write(", ".join(tags) + "\n")
 
+    # Metadata JSON (for easy parsing)
     metadata = {
         "recommended_titles": titles,
         "selected_title": titles[0],
         "description": description,
         "category_english": category_english,
-        "category_swahili": category_swahili,
+        "category_swahili": category_foreign,
         "phrases_count": len(phrases),
         "duration_minutes": round(duration_minutes, 2),
         "tags": tags
@@ -1093,9 +1100,6 @@ Perfect for beginners and intermediate learners!
 
     return metadata
 
-
-# ============== VIDEO CREATION ==============
-
 def create_video_from_images_audio(image_files: list, audio_files: list, combined_audio: str, output_file: str):
     print(f"\n[video] Creating long-form video from {len(image_files)} images...")
 
@@ -1105,7 +1109,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
         duration = audio_info['duration']
         print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s")
 
-        temp_clip = Path(output_file).parent / f"temp_clip_{i:02d}.mp4"
+        temp_clip = Path(output_file).parent / f"temp_clip_{i:04d}.mp4"
         temp_clips.append(temp_clip)
 
         cmd = [
@@ -1118,7 +1122,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
             "-c:a", "aac",
             "-b:a", "128k",
             "-pix_fmt", "yuv420p",
-            "-preset", "medium",
+            "-preset", "ultrafast",
             "-shortest",
             "-vsync", "cfr",
             str(temp_clip)
