@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "Calm down, my friend.",
+      "swahili": "Tulia, rafiki yangu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923713"
+    },
+    {
+      "english": "Take it easy, okay?",
+      "swahili": "Usijali sana, sawa?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923731"
+    },
+    {
+      "english": "Breathe deeply, relax.",
+      "swahili": "Vuta pumzi kwa ndani, tulia.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923733"
+    },
+    {
+      "english": "Everything will be fine.",
+      "swahili": "Kila kitu kitakuwa sawa.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923736"
+    },
+    {
+      "english": "Let go of the worry.",
+      "swahili": "Achilia hofu yako.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923739"
+    },
+    {
+      "english": "Find your center now.",
+      "swahili": "Pata utulivu wako sasa.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923741"
+    },
+    {
+      "english": "Be present, here and now.",
+      "swahili": "Kuwa hapa, sasa hivi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923743"
+    },
+    {
+      "english": "Peace be with you.",
+      "swahili": "Amani iwe nawe.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923748"
+    },
+    {
+      "english": "Slow down your thoughts.",
+      "swahili": "Punguza kasi ya mawazo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923752"
+    },
+    {
+      "english": "Just be, don't force.",
+      "swahili": "Kuwa tu, usilazimishe.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923754"
+    },
+    {
+      "english": "Listen to your heart.",
+      "swahili": "Sikiliza moyo wako.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923756"
+    },
+    {
+      "english": "Accept what is.",
+      "swahili": "Kubali kilicho.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923758"
+    },
+    {
+      "english": "Feel the stillness within.",
+      "swahili": "Jihisi utulivu ndani.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923760"
+    },
+    {
+      "english": "Let peace guide you.",
+      "swahili": "Acha amani ikuongoze.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923762"
+    },
+    {
+      "english": "You are enough, always.",
+      "swahili": "Wewe ni wa kutosha, daima.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923764"
+    },
+    {
+      "english": "Find joy in small things.",
+      "swahili": "Tafuta furaha kwenye vitu vidogo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923766"
+    },
+    {
+      "english": "Release the tension now.",
+      "swahili": "Achilia uchovu wako sasa.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923767"
+    },
+    {
+      "english": "Your mind is clear.",
+      "swahili": "Akilili lako ni safi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923769"
+    },
+    {
+      "english": "Embrace the quiet moments.",
+      "swahili": "Karibisha muda wa utulivu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923772"
+    },
+    {
+      "english": "Inner peace, true wealth.",
+      "swahili": "Amani ya ndani, utajiri wa kweli.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923774"
+    },
+    {
+      "english": "Let it flow, don't resist.",
+      "swahili": "Acha itiririke, usipingilie.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923776"
+    },
+    {
+      "english": "Serenity is your nature.",
+      "swahili": "Utulivu ni asili yako.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923778"
+    },
+    {
+      "english": "Find calm in chaos.",
+      "swahili": "Tafuta utulivu katika fujo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923780"
+    },
+    {
+      "english": "Your spirit is strong.",
+      "swahili": "Roho yako ni hodari.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923782"
+    },
+    {
+      "english": "Let worries drift away.",
+      "swahili": "Acha wasiwasi upite.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923784"
+    },
+    {
+      "english": "Stillness brings clarity.",
+      "swahili": "Ukimya huleta uwazi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923786"
+    },
+    {
+      "english": "Trust the journey.",
+      "swahili": "Amini safari.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923802"
+    },
+    {
+      "english": "May your heart be light.",
+      "swahili": "Moyo wako na uwe mwepesi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923804"
+    },
+    {
+      "english": "Cultivate inner calm.",
+      "swahili": "Lima utulivu wa ndani.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923805"
+    },
+    {
+      "english": "You are at peace.",
+      "swahili": "Wewe uko na amani.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923807"
+    },
+    {
+      "english": "What helps your peace?",
+      "swahili": "Nini husaidia amani yako?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923809"
+    },
+    {
+      "english": "How do you find calm?",
+      "swahili": "Unapataje utulivu?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923811"
+    },
+    {
+      "english": "Can you share your secret?",
+      "swahili": "Unaweza kushiriki siri yako?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923813"
+    },
+    {
+      "english": "What brings you inner joy?",
+      "swahili": "Nini huleta furaha ya ndani?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923815"
+    },
+    {
+      "english": "Is this a peaceful place?",
+      "swahili": "Hapa ni mahali penye amani?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923817"
+    },
+    {
+      "english": "What do you think of this?",
+      "swahili": "Unafikiriaje kuhusu hili?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923819"
+    },
+    {
+      "english": "Can we talk about peace?",
+      "swahili": "Tuzungumze kuhusu amani?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923821"
+    },
+    {
+      "english": "How was your day's peace?",
+      "swahili": "Amani ya leo ilikuwaje?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923823"
+    },
+    {
+      "english": "Do you feel serene now?",
+      "swahili": "Unahisi amani sasa?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923825"
+    },
+    {
+      "english": "What advice do you have?",
+      "swahili": "Una ushauri gani?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923827"
+    },
+    {
+      "english": "Tell me your peaceful thoughts.",
+      "swahili": "Niambie mawazo yako ya amani.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923829"
+    },
+    {
+      "english": "Are you feeling better now?",
+      "swahili": "Unajisikia vizuri zaidi?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923831"
+    },
+    {
+      "english": "What makes you feel centered?",
+      "swahili": "Nini hufanya ujisikie umetulia?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923833"
+    },
+    {
+      "english": "Shall we find quiet together?",
+      "swahili": "Tutafute utulivu pamoja?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923835"
+    },
+    {
+      "english": "What is your path to peace?",
+      "swahili": "Njia yako ya amani ni ipi?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923837"
+    },
+    {
+      "english": "Do you need any help?",
+      "swahili": "Unahitaji msaada wowote?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923839"
+    },
+    {
+      "english": "How do you handle stress?",
+      "swahili": "Unashughulikiaje msongo?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923841"
+    },
+    {
+      "english": "What should I do next?",
+      "swahili": "Nifanye nini tena?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923843"
+    },
+    {
+      "english": "Can you explain that clearly?",
+      "swahili": "Unaweza kueleza wazi?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923844"
+    },
+    {
+      "english": "What are your peaceful hopes?",
+      "swahili": "Matumaini yako ya amani ni yapi?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923846"
+    },
+    {
+      "english": "Is this the right way?",
+      "swahili": "Huu ndio mwelekeo sahihi?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923848"
+    },
+    {
+      "english": "What if we try this?",
+      "swahili": "Vipi tukijaribu hili?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923850"
+    },
+    {
+      "english": "How do you stay positive?",
+      "swahili": "Unabakije na mtazamo chanya?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923853"
+    },
+    {
+      "english": "Can I ask for guidance?",
+      "swahili": "Naweza kuomba mwongozo?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923855"
+    },
+    {
+      "english": "What makes you smile today?",
+      "swahili": "Nini kinakufurahisha leo?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923857"
+    },
+    {
+      "english": "Do you understand this feeling?",
+      "swahili": "Unaijua hisia hii?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923859"
+    },
+    {
+      "english": "What's your best advice for calm?",
+      "swahili": "Ushauri wako bora wa utulivu ni upi?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923861"
+    },
+    {
+      "english": "Are we on the same page?",
+      "swahili": "Tuko pamoja katika mawazo?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923862"
+    },
+    {
+      "english": "What's the next peaceful step?",
+      "swahili": "Hatua inayofuata ya amani ni ipi?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923864"
+    },
+    {
+      "english": "What do you recommend for peace?",
+      "swahili": "Unapendekeza nini kwa amani?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923866"
+    },
+    {
+      "english": "Go with the current, don't fight it.",
+      "swahili": "Nenda na mkondo, usipinge.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923868"
+    },
+    {
+      "english": "A calm heart, a good life.",
+      "swahili": "Moyo mtulivu, maisha mazuri.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923870"
+    },
+    {
+      "english": "Patience is a key, unlock peace.",
+      "swahili": "Uvumilivu ni ufunguo, fungua amani.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923872"
+    },
+    {
+      "english": "Listen to the wind, it whispers wisdom.",
+      "swahili": "Sikiza upepo, unanong'oneza hekima.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923874"
+    },
+    {
+      "english": "The quiet mind, sees everything clearly.",
+      "swahili": "Akilini kimya, huona kila kitu wazi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923876"
+    },
+    {
+      "english": "Today is a gift, accept it gladly.",
+      "swahili": "Leo ni zawadi, ipokee kwa furaha.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923879"
+    },
+    {
+      "english": "Deeper breath, deeper peace.",
+      "swahili": "Hewa ya kina, amani ya kina.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923881"
+    },
+    {
+      "english": "Empty your cup, to receive.",
+      "swahili": "Tupu kikombe chako, upokee.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923883"
+    },
+    {
+      "english": "True strength, is inner quiet.",
+      "swahili": "Nguvu ya kweli, ni utulivu wa ndani.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923884"
+    },
+    {
+      "english": "Let go of yesterday, embrace today.",
+      "swahili": "Achilia jana, kabidhi leo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923886"
+    },
+    {
+      "english": "Find the sun, even on cloudy days.",
+      "swahili": "Tafuta jua, hata siku za mawingu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923888"
+    },
+    {
+      "english": "The answer is within you.",
+      "swahili": "Jibu liko ndani yako.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923891"
+    },
+    {
+      "english": "A light heart, travels far.",
+      "swahili": "Moyo mwepesi, husafiri mbali.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923894"
+    },
+    {
+      "english": "Observe, don't judge.",
+      "swahili": "Tazama, usihukumu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923896"
+    },
+    {
+      "english": "Still waters, run deep.",
+      "swahili": "Maji yaliyotulia, huenda kina.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923897"
+    },
+    {
+      "english": "Your peace, is your power.",
+      "swahili": "Amani yako, ni nguvu yako.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923899"
+    },
+    {
+      "english": "The seed of peace, is within.",
+      "swahili": "Mbegu ya amani, iko ndani.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923903"
+    },
+    {
+      "english": "Be present, always.",
+      "swahili": "Kuwa hapa, kila wakati.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923906"
+    },
+    {
+      "english": "Gentle waves, smooth the shore.",
+      "swahili": "Mawimbi laini, husafisha pwani.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923907"
+    },
+    {
+      "english": "Find rest, in your breath.",
+      "swahili": "Pata pumziko, kwenye pumzi yako.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923909"
+    },
+    {
+      "english": "Silence speaks volumes.",
+      "swahili": "Ukimya unajieleza.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923912"
+    },
+    {
+      "english": "Let your worries dissolve.",
+      "swahili": "Acha wasiwasi wako ufuke.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923914"
+    },
+    {
+      "english": "Root yourself in stillness.",
+      "swahili": "Jisimamishe katika utulivu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923915"
+    },
+    {
+      "english": "The journey unfolds, peace follows.",
+      "swahili": "Safari inafunguka, amani inafuata.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923917"
+    },
+    {
+      "english": "A quiet mind, is a happy mind.",
+      "swahili": "Akilini tulivu, ni akili yenye furaha.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923919"
+    },
+    {
+      "english": "Flow like water, adapt.",
+      "swahili": "Tangamana kama maji, jirekebishe.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923921"
+    },
+    {
+      "english": "Inner peace, is the real wealth.",
+      "swahili": "Amani ya ndani, ndiyo utajiri halisi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923922"
+    },
+    {
+      "english": "Breathe deep, be calm.",
+      "swahili": "Vuta pumzi sana, tulia.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923924"
+    },
+    {
+      "english": "Peace is a choice, make it.",
+      "swahili": "Amani ni chaguo, lifanye.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923926"
+    },
+    {
+      "english": "My heart feels light, today.",
+      "swahili": "Moyo wangu unajisikia mwepesi, leo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923928"
+    },
+    {
+      "english": "I trust the process, slowly.",
+      "swahili": "Ninaamini mchakato, polepole.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923929"
+    },
+    {
+      "english": "This feeling, is genuine.",
+      "swahili": "Hisia hii, ni halisi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923931"
+    },
+    {
+      "english": "My thoughts are calm, now.",
+      "swahili": "Mawazo yangu ni tulivu, sasa.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923933"
+    },
+    {
+      "english": "I accept myself, completely.",
+      "swahili": "Ninakubali nafsi yangu, kikamilifu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923935"
+    },
+    {
+      "english": "Let go, of what is gone.",
+      "swahili": "Acha, kilichoondoka.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923937"
+    },
+    {
+      "english": "I choose peace, every moment.",
+      "swahili": "Ninachagua amani, kila wakati.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923939"
+    },
+    {
+      "english": "My spirit is at rest.",
+      "swahili": "Roho yangu imetulia.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923940"
+    },
+    {
+      "english": "This moment, is enough.",
+      "swahili": "Wakati huu, unatosha.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923942"
+    },
+    {
+      "english": "I feel a deep calm.",
+      "swahili": "Nahisi utulivu mkuu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923943"
+    },
+    {
+      "english": "My worries, are fading.",
+      "swahili": "Huzuni zangu, zinapotea.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923945"
+    },
+    {
+      "english": "I embrace this stillness.",
+      "swahili": "Ninakumbatia ukimya huu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923946"
+    },
+    {
+      "english": "My inner world, is bright.",
+      "swahili": "Ulimwengu wangu wa ndani, ni mkali.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923948"
+    },
+    {
+      "english": "I am content, right here.",
+      "swahili": "Nimeridhika, hapa hapa.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923951"
+    },
+    {
+      "english": "My emotions, are my guide.",
+      "swahili": "Hisia zangu, ni mwongozo wangu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923952"
+    },
+    {
+      "english": "I find strength, within me.",
+      "swahili": "Ninapata nguvu, ndani yangu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923955"
+    },
+    {
+      "english": "This calm, is my truth.",
+      "swahili": "Utulivu huu, ni ukweli wangu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923956"
+    },
+    {
+      "english": "I listen to my heart.",
+      "swahili": "Ninasikiliza moyo wangu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923957"
+    },
+    {
+      "english": "Peace, is my foundation.",
+      "swahili": "Amani, ndio msingi wangu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923961"
+    },
+    {
+      "english": "I release, all tension.",
+      "swahili": "Ninatoa, kila mvutano.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923962"
+    },
+    {
+      "english": "This stillness, feels good.",
+      "swahili": "Ukimya huu, unajisikia vizuri.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923964"
+    },
+    {
+      "english": "I am patient, with myself.",
+      "swahili": "Nina subira, na nafsi yangu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923966"
+    },
+    {
+      "english": "My soul, is singing.",
+      "swahili": "Nafsi yangu, inaimba.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923968"
+    },
+    {
+      "english": "I embrace, this feeling.",
+      "swahili": "Ninakumbatia, hisia hii.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923970"
+    },
+    {
+      "english": "My mind, is clear.",
+      "swahili": "Akili yangu, iko wazi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923971"
+    },
+    {
+      "english": "I find joy, in quiet.",
+      "swahili": "Ninapata furaha, katika utulivu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923973"
+    },
+    {
+      "english": "My heart is open, now.",
+      "swahili": "Moyo wangu uko wazi, sasa.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923975"
+    },
+    {
+      "english": "I surrender, to the flow.",
+      "swahili": "Ninaserereka, kwenye mtiririko.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923976"
+    },
+    {
+      "english": "This peace, is enough.",
+      "swahili": "Amani hii, inatosha.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923978"
+    },
+    {
+      "english": "Daily, positive affirmations, help a lot.",
+      "swahili": "Kukiri vitu vizuri kila siku, kunasaidia sana.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923979"
+    },
+    {
+      "english": "What helps you, relax after work?",
+      "swahili": "Nini hukusaidia, kupumzika baada ya kazi?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T07:40:37.923982"
+    }
+  ],
+  "last_updated": "2026-10-17T07:40:37.923983"
+}
