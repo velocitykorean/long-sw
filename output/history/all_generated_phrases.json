@@ -1439,7 +1439,727 @@
       "swahili": "Kunywa maji ya kutosha, mchana kutwa.",
       "category": "Happiness",
       "generated_at": "2026-10-18T07:56:14.349730"
+    },
+    {
+      "english": "Keep going, don't give up.",
+      "swahili": "Endelea mbele, usikate tamaa.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867347"
+    },
+    {
+      "english": "You can do it, believe yourself.",
+      "swahili": "Unaweza, jiamini.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867361"
+    },
+    {
+      "english": "One step at a time.",
+      "swahili": "Hatua moja kwa wakati.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867366"
+    },
+    {
+      "english": "Don't stop, push forward.",
+      "swahili": "Usisimame, songa mbele.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867370"
+    },
+    {
+      "english": "It's worth the effort.",
+      "swahili": "Inafaa jitihada.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867372"
+    },
+    {
+      "english": "Try again, you'll succeed.",
+      "swahili": "Jaribu tena, utafanikiwa.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867375"
+    },
+    {
+      "english": "Stay strong, face challenges.",
+      "swahili": "Kaa imara, vumilia changamoto.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867378"
+    },
+    {
+      "english": "Never lose hope.",
+      "swahili": "Usiwahi kupoteza matumaini.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867383"
+    },
+    {
+      "english": "Keep pushing, the end is near.",
+      "swahili": "Endelea kusukuma, mwisho unakaribia.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867387"
+    },
+    {
+      "english": "Slow and steady wins.",
+      "swahili": "Polepole ndio mwendo.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867390"
+    },
+    {
+      "english": "You've come so far.",
+      "swahili": "Umetoka mbali sana.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867392"
+    },
+    {
+      "english": "Don't give up now.",
+      "swahili": "Usikate tamaa sasa.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867395"
+    },
+    {
+      "english": "Keep that fire burning.",
+      "swahili": "Weka moto huo ukiwaka.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867397"
+    },
+    {
+      "english": "Every effort counts.",
+      "swahili": "Kila juhudi ina maana.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867400"
+    },
+    {
+      "english": "Tomorrow is another day.",
+      "swahili": "Kesho ni siku nyingine.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867402"
+    },
+    {
+      "english": "Learn from setbacks.",
+      "swahili": "Jifunze kutoka kwa vikwazo.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867407"
+    },
+    {
+      "english": "It takes time, be patient.",
+      "swahili": "Inachukua muda, vumilia.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867411"
+    },
+    {
+      "english": "Don't let it defeat you.",
+      "swahili": "Usiiruhusu ikushinde.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867414"
+    },
+    {
+      "english": "Keep your spirits high.",
+      "swahili": "Weka roho yako juu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867416"
+    },
+    {
+      "english": "The struggle makes you stronger.",
+      "swahili": "Mapambano yanakufanya uwe na nguvu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867419"
+    },
+    {
+      "english": "Hold on, don't quit.",
+      "swahili": "Shikilia, usisalimu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867422"
+    },
+    {
+      "english": "One more try.",
+      "swahili": "Majaribio moja zaidi.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867424"
+    },
+    {
+      "english": "Keep your eyes on the prize.",
+      "swahili": "Weka macho yako kwenye tuzo.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867427"
+    },
+    {
+      "english": "Success is on the way.",
+      "swahili": "Mafanikio yapo njiani.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867429"
+    },
+    {
+      "english": "Don't turn back now.",
+      "swahili": "Usigeuke nyuma sasa.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867432"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "swahili": "Unafanya vizuri, endelea.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867435"
+    },
+    {
+      "english": "Persistence pays off.",
+      "swahili": "Uvumilivu hulipa.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867437"
+    },
+    {
+      "english": "You will overcome this.",
+      "swahili": "Ushinda huu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867440"
+    },
+    {
+      "english": "What helps you keep trying?",
+      "swahili": "Unasaidiwa nini kuendelea kujaribu?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867444"
+    },
+    {
+      "english": "How do you stay motivated?",
+      "swahili": "Unajikakamua vipi?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867449"
+    },
+    {
+      "english": "What if I feel like quitting?",
+      "swahili": "Vipi nikihisi nataka kuacha?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867452"
+    },
+    {
+      "english": "How do you handle big challenges?",
+      "swahili": "Unashughulikaje na changamoto kubwa?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867455"
+    },
+    {
+      "english": "What's your advice for tough times?",
+      "swahili": "Ushauri wako kwa nyakati ngumu?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867458"
+    },
+    {
+      "english": "Do you ever doubt yourself?",
+      "swahili": "Wewe huwahi kujiweka shakani?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867461"
+    },
+    {
+      "english": "How do you bounce back from failure?",
+      "swahili": "Unarudije baada ya kushindwa?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867465"
+    },
+    {
+      "english": "Is it okay to ask for help?",
+      "swahili": "Ni sawa kuomba msaada?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867468"
+    },
+    {
+      "english": "Where do you find strength?",
+      "swahili": "Unapata nguvu wapi?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867471"
+    },
+    {
+      "english": "What keeps you going when tired?",
+      "swahili": "Nini hukufanya uendelee ukiwa umechoka?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867473"
+    },
+    {
+      "english": "Do you believe in second chances?",
+      "swahili": "Unaamini nafasi za pili?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867476"
+    },
+    {
+      "english": "How do you celebrate small wins?",
+      "swahili": "Unasherehekeaje ushindi mdogo?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867563"
+    },
+    {
+      "english": "What if progress is very slow?",
+      "swahili": "Vipi ikiwa maendeleo ni polepole sana?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867566"
+    },
+    {
+      "english": "Can we work on this together?",
+      "swahili": "Tunaweza kufanya kazi pamoja?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867568"
+    },
+    {
+      "english": "What's the hardest part for you?",
+      "swahili": "Ni sehemu gani ngumu zaidi kwako?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867571"
+    },
+    {
+      "english": "Do you think I can do this?",
+      "swahili": "Unadhani naweza kufanya hivi?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867574"
+    },
+    {
+      "english": "How do you learn from mistakes?",
+      "swahili": "Unajifunzaje kutokana na makosa?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867576"
+    },
+    {
+      "english": "What is your biggest hurdle?",
+      "swahili": "Kikwazo chako kikubwa ni kipi?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867579"
+    },
+    {
+      "english": "Are you willing to try again?",
+      "swahili": "Uko tayari kujaribu tena?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867581"
+    },
+    {
+      "english": "What does perseverance mean to you?",
+      "swahili": "Uvumilivu unamaanisha nini kwako?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867587"
+    },
+    {
+      "english": "How do you avoid giving up?",
+      "swahili": "Unaniepuka vipi kukata tamaa?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867589"
+    },
+    {
+      "english": "What if I fail one more time?",
+      "swahili": "Vipi nikishindwa mara nyingine tena?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867592"
+    },
+    {
+      "english": "Can you offer encouragement?",
+      "swahili": "Unaweza kutoa faraja?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867594"
+    },
+    {
+      "english": "What keeps your hope alive?",
+      "swahili": "Nini huweka matumaini yako hai?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867596"
+    },
+    {
+      "english": "How do you find your inner strength?",
+      "swahili": "Unapataje nguvu yako ya ndani?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867599"
+    },
+    {
+      "english": "Do you believe in progress, not perfection?",
+      "swahili": "Unaamini maendeleo, si ukamilifu?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867602"
+    },
+    {
+      "english": "What's your strategy for overcoming obstacles?",
+      "swahili": "Ni mkakati wako wa kushinda vikwazo?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867605"
+    },
+    {
+      "english": "How do you regain focus after a setback?",
+      "swahili": "Unarejesha vipi umakini baada ya kurudi nyuma?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867607"
+    },
+    {
+      "english": "Is it important to celebrate milestones?",
+      "swahili": "Ni muhimu kusherehekea hatua muhimu?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867610"
+    },
+    {
+      "english": "Believe in your ability, keep pushing.",
+      "swahili": "Amini uwezo wako, endelea kusukuma.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867613"
+    },
+    {
+      "english": "Your effort matters, don't stop now.",
+      "swahili": "Juhudi zako ni muhimu, usikome sasa.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867616"
+    },
+    {
+      "english": "This challenge is temporary, you are strong.",
+      "swahili": "Changamoto hii ni ya muda mfupi, wewe ni hodari.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867619"
+    },
+    {
+      "english": "Focus on the next step, then another.",
+      "swahili": "Lenga hatua inayofuata, kisha nyingine.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867621"
+    },
+    {
+      "english": "Small progress is still progress, well done!",
+      "swahili": "Maendeleo madogo bado ni maendeleo, kazi nzuri!",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867627"
+    },
+    {
+      "english": "Embrace the learning process, it shapes you.",
+      "swahili": "Kubali mchakato wa kujifunza, unakutengeneza.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867629"
+    },
+    {
+      "english": "Every effort builds towards your goal.",
+      "swahili": "Kila jitihada hujenga kuelekea lengo lako.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867632"
+    },
+    {
+      "english": "Don't underestimate your resilience, you've got this.",
+      "swahili": "Usiidharau uvumilivu wako, unaweza.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867635"
+    },
+    {
+      "english": "Keep your mindset positive, see solutions.",
+      "swahili": "Weka akili yako chanya, ona suluhisho.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867638"
+    },
+    {
+      "english": "You're stronger than you think, keep going.",
+      "swahili": "Wewe ni hodari kuliko unavyofikiria, endelea.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867645"
+    },
+    {
+      "english": "This journey takes time, be patient.",
+      "swahili": "Safari hii inahitaji muda, kuwa mvumilivu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867648"
+    },
+    {
+      "english": "Celebrate small victories along the way.",
+      "swahili": "Sherehekea ushindi mdogo njiani.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867650"
+    },
+    {
+      "english": "Your determination is admirable, truly.",
+      "swahili": "Uamuzi wako ni wa kushangaza, kweli.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867654"
+    },
+    {
+      "english": "Let challenges fuel your fire, not fear.",
+      "swahili": "Ruhusu changamoto ziwe kichocheo chako, si hofu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867657"
+    },
+    {
+      "english": "You are building resilience with every step.",
+      "swahili": "Unajenga ustahimilivu kila unapopiga hatua.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867659"
+    },
+    {
+      "english": "Keep your eyes forward, learn from the past.",
+      "swahili": "Weka macho yako mbele, jifunze kutoka nyuma.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867662"
+    },
+    {
+      "english": "It's okay to rest, but don't give up.",
+      "swahili": "Ni sawa kupumzika, lakini usikate tamaa.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867665"
+    },
+    {
+      "english": "Your potential is immense, keep exploring.",
+      "swahili": "Uwezo wako ni mkubwa sana, endelea kuchunguza.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867668"
+    },
+    {
+      "english": "Trust the process, it will unfold.",
+      "swahili": "Amini mchakato, utafunguka.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867671"
+    },
+    {
+      "english": "Keep that positive energy flowing.",
+      "swahili": "Endeleza nishati hiyo chanya ikitiririka.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867673"
+    },
+    {
+      "english": "Inner strength is your greatest asset.",
+      "swahili": "Nguvu ya ndani ni mali yako kuu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867676"
+    },
+    {
+      "english": "This effort builds character, well done.",
+      "swahili": "Juhudi hizi zinajenga tabia, kazi nzuri.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867678"
+    },
+    {
+      "english": "See obstacles as stepping stones.",
+      "swahili": "Ona vikwazo kama mawe ya kupandia.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867683"
+    },
+    {
+      "english": "Your commitment is inspiring, truly.",
+      "swahili": "Kujitolea kwako kunatia moyo, kweli.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867691"
+    },
+    {
+      "english": "Keep moving forward, step by step.",
+      "swahili": "Endelea kusonga mbele, hatua kwa hatua.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867694"
+    },
+    {
+      "english": "Never underestimate the power of trying.",
+      "swahili": "Usiidharau kamwe nguvu ya kujaribu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867696"
+    },
+    {
+      "english": "Keep your vision clear, stay focused.",
+      "swahili": "Weka maono yako wazi, kaa makini.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867699"
+    },
+    {
+      "english": "Each attempt brings you closer.",
+      "swahili": "Kila jaribio linakuletea karibu zaidi.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867701"
+    },
+    {
+      "english": "My heart feels heavy, but I must continue.",
+      "swahili": "Moyo wangu mzito, lakini lazima niendelee.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867704"
+    },
+    {
+      "english": "Sometimes, I just need a moment to breathe.",
+      "swahili": "Muda mwingine, nahitaji pumziko kidogo.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867707"
+    },
+    {
+      "english": "Giving up is not my option.",
+      "swahili": "Kukata tamaa sio chaguo langu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867710"
+    },
+    {
+      "english": "This feeling of doubt, it will pass.",
+      "swahili": "Huu wazo la shaka, litapita.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867713"
+    },
+    {
+      "english": "I reflect on how far I have come.",
+      "swahili": "Natafakari umbali nimefika.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867715"
+    },
+    {
+      "english": "My patience is being tested, truly.",
+      "swahili": "Uvumilivu wangu unajaribiwa, kweli kabisa.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867718"
+    },
+    {
+      "english": "A deep sigh, then back to work.",
+      "swahili": "Ushangwe mrefu, kisha rudini kazini.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867721"
+    },
+    {
+      "english": "Can I admit I'm tired, and still go?",
+      "swahili": "Naweza kukiri nimechoka, na bado kuendelea?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867724"
+    },
+    {
+      "english": "This internal struggle, it makes me stronger.",
+      "swahili": "Pambano hili la ndani, linanipa nguvu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867726"
+    },
+    {
+      "english": "I feel a quiet resolve building inside.",
+      "swahili": "Nahisi utulivu ukijengeka ndani.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867731"
+    },
+    {
+      "english": "My spirit feels weary, but not broken.",
+      "swahili": "Roho yangu imeanza kuchoka, lakini haijavunjika.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867734"
+    },
+    {
+      "english": "Holding onto hope, even when it's dim.",
+      "swahili": "Nashikilia matumaini, hata ikiwa ni hafifu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867737"
+    },
+    {
+      "english": "This thought keeps me going: 'Just one more try'.",
+      "swahili": "Wazo hili hunifanya niendelee: 'Jitahidi mara moja zaidi'.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867740"
+    },
+    {
+      "english": "A little bit of self-compassion goes far.",
+      "swahili": "Huruma kidogo kwangu huenda mbali sana.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867743"
+    },
+    {
+      "english": "My mind races, but my feet stay put.",
+      "swahili": "Akili yangu inakimbia, lakini miguu yangu imetulia.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867745"
+    },
+    {
+      "english": "Is it okay to feel overwhelmed sometimes?",
+      "swahili": "Je, inafaa kuhisi kuzidiwa wakati mwingine?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867748"
+    },
+    {
+      "english": "I choose to believe in the long game.",
+      "swahili": "Nachagua kuamini katika mchezo mrefu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867751"
+    },
+    {
+      "english": "This quiet determination is my strength.",
+      "swahili": "Uamuzi huu wa utulivu ni nguvu yangu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867753"
+    },
+    {
+      "english": "Learning to accept the slow pace.",
+      "swahili": "Ninajifunza kukubali mwendo wa polepole.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867755"
+    },
+    {
+      "english": "My inner voice whispers, 'Don't stop'.",
+      "swahili": "Sauti yangu ya ndani inasema, 'Usisikie'.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867759"
+    },
+    {
+      "english": "A moment of doubt, followed by resolve.",
+      "swahili": "Wakati wa shaka, ukifuatiwa na azimio.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867761"
+    },
+    {
+      "english": "I'm planting seeds, waiting for growth.",
+      "swahili": "Ninapanda mbegu, nikitarajia ukuaji.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867764"
+    },
+    {
+      "english": "My emotions are valid, my effort too.",
+      "swahili": "Hisia zangu ni halali, juhudi zangu pia.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867767"
+    },
+    {
+      "english": "Can I be gentle with myself right now?",
+      "swahili": "Naweza kuwa mpole na mimi mwenyewe sasa hivi?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867770"
+    },
+    {
+      "english": "Finding peace in the effort, not just the win.",
+      "swahili": "Kupata amani katika jitihada, sio ushindi tu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867774"
+    },
+    {
+      "english": "This journey requires a patient heart.",
+      "swahili": "Safari hii inahitaji moyo wenye subira.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867779"
+    },
+    {
+      "english": "I trust the unfolding of this process.",
+      "swahili": "Ninaamini katika kuendelea kwa mchakato huu.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867782"
+    },
+    {
+      "english": "My spirit is willing, even if my body aches.",
+      "swahili": "Roho yangu inataka, hata mwili ukiuuma.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867784"
+    },
+    {
+      "english": "Allowing myself to feel, then move on.",
+      "swahili": "Kujiruhusu kuhisi, kisha kuendelea mbele.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867788"
+    },
+    {
+      "english": "What if this struggle is part of the plan?",
+      "swahili": "Je, ikiwa shida hii ni sehemu ya mpango?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867791"
+    },
+    {
+      "english": "One day at a time, friend.",
+      "swahili": "Siku moja kwa wakati, rafiki.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867794"
+    },
+    {
+      "english": "Keep trying, it's not over yet.",
+      "swahili": "Endelea kujaribu, bado haijaisha.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867796"
+    },
+    {
+      "english": "Small steps, big dreams, okay?",
+      "swahili": "Hatua ndogo, ndoto kubwa, sawa?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867800"
+    },
+    {
+      "english": "Learn from mistakes, then move.",
+      "swahili": "Jifunze makosa, kisha songa.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867802"
+    },
+    {
+      "english": "This challenge is temporary, remember.",
+      "swahili": "Changamoto hii ni ya muda, kumbuka.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T08:41:58.867805"
     }
   ],
-  "last_updated": "2026-10-18T07:56:14.349731"
+  "last_updated": "2026-10-19T08:41:58.867806"
 }
