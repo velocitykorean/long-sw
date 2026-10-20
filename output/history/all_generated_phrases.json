@@ -2159,7 +2159,727 @@
       "swahili": "Changamoto hii ni ya muda, kumbuka.",
       "category": "Perseverance",
       "generated_at": "2026-10-19T08:41:58.867805"
+    },
+    {
+      "english": "Yes, exactly, you got it.",
+      "swahili": "Ndiyo, hasa, umeelewa.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741829"
+    },
+    {
+      "english": "Totally, I agree with that.",
+      "swahili": "Kabisa, ninakubaliana na hilo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741843"
+    },
+    {
+      "english": "True, that's how it is.",
+      "swahili": "Kweli, ndivyo ilivyo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741845"
+    },
+    {
+      "english": "Uh-huh, makes sense to me.",
+      "swahili": "Mhm, inalofaa kwangu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741847"
+    },
+    {
+      "english": "I see your point, but...",
+      "swahili": "Naelewa unachosema, lakini...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741849"
+    },
+    {
+      "english": "Not really, I don't think so.",
+      "swahili": "Sikweli, sidhani hivyo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741851"
+    },
+    {
+      "english": "Hmm, I'm not so sure.",
+      "swahili": "Hmm, sina uhakika sana.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741852"
+    },
+    {
+      "english": "That's debatable, in my opinion.",
+      "swahili": "Hiyo inaweza kujadiliwa, kwa maoni yangu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741856"
+    },
+    {
+      "english": "I beg to differ, actually.",
+      "swahili": "Naomba kutofautiana, kwa kweli.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741859"
+    },
+    {
+      "english": "No way, that can't be right.",
+      "swahili": "Hapana, hiyo haiwezi kuwa sawa.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741861"
+    },
+    {
+      "english": "You might be right about that.",
+      "swahili": "Unaweza kuwa sahihi kuhusu hilo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741862"
+    },
+    {
+      "english": "I'm with you on that one.",
+      "swahili": "Niko na wewe kwenye hilo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741863"
+    },
+    {
+      "english": "Fair enough, I can accept that.",
+      "swahili": "Inaeleweka, naweza kukubali hilo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741865"
+    },
+    {
+      "english": "That's a good point, I hadn't considered.",
+      "swahili": "Hiyo ni hoja nzuri, sikufikiria.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741868"
+    },
+    {
+      "english": "I respectfully disagree.",
+      "swahili": "Sikubaliani kwa heshima.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741870"
+    },
+    {
+      "english": "I'm not convinced yet.",
+      "swahili": "Bado sijashawishika.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741871"
+    },
+    {
+      "english": "We see things differently.",
+      "swahili": "Tunaona mambo tofauti.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741872"
+    },
+    {
+      "english": "That's one way to look at it.",
+      "swahili": "Hiyo ni njia moja ya kuangalia.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741874"
+    },
+    {
+      "english": "I understand your perspective.",
+      "swahili": "Naelewa mtazamo wako.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741875"
+    },
+    {
+      "english": "I'm on the fence about that.",
+      "swahili": "Niko kwenye uzio kuhusu hilo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741877"
+    },
+    {
+      "english": "That's exactly what I was thinking.",
+      "swahili": "Hicho ndicho nilichokuwa nikifikiria.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741878"
+    },
+    {
+      "english": "I couldn't agree more.",
+      "swahili": "Singezaidi kukubali.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741880"
+    },
+    {
+      "english": "That's a valid point.",
+      "swahili": "Hiyo ni hoja halali.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741881"
+    },
+    {
+      "english": "I'm not so sure about that.",
+      "swahili": "Sina uhakika sana kuhusu hilo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741882"
+    },
+    {
+      "english": "I disagree, with all due respect.",
+      "swahili": "Sikubaliani, kwa heshima zote.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741884"
+    },
+    {
+      "english": "Let's agree to disagree.",
+      "swahili": "Tukubaliane kutokukubaliana.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741886"
+    },
+    {
+      "english": "I see it differently.",
+      "swahili": "Ninaiona tofauti.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741888"
+    },
+    {
+      "english": "That's a stretch, in my view.",
+      "swahili": "Hiyo ni kunyoosha, kwa maoni yangu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741890"
+    },
+    {
+      "english": "You've convinced me.",
+      "swahili": "Umenishawishi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741891"
+    },
+    {
+      "english": "I have my doubts.",
+      "swahili": "Nina shaka zangu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741892"
+    },
+    {
+      "english": "So, what do you think, friend?",
+      "swahili": "Basi, unawaza nini, rafiki?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741894"
+    },
+    {
+      "english": "Does that sound good to you?",
+      "swahili": "Hiyo inakubalika kwako?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741896"
+    },
+    {
+      "english": "Can you see that happening?",
+      "swahili": "Unaweza kuona hilo likitokea?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741898"
+    },
+    {
+      "english": "What's your take on this?",
+      "swahili": "Nini maoni yako hapa?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741899"
+    },
+    {
+      "english": "Is that the way it works?",
+      "swahili": "Hivyo ndivyo inavyofanya kazi?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741901"
+    },
+    {
+      "english": "Do you agree with that plan?",
+      "swahili": "Unakubaliana na mpango huo?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741902"
+    },
+    {
+      "english": "How do you feel about this?",
+      "swahili": "Unaendaje na jambo hili?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741904"
+    },
+    {
+      "english": "Maybe we should try this?",
+      "swahili": "Labda tujaribu hiki?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741905"
+    },
+    {
+      "english": "What if we did it differently?",
+      "swahili": "Vipi tukifanya tofauti?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741907"
+    },
+    {
+      "english": "Tell me your honest opinion.",
+      "swahili": "Niambie maoni yako ya kweli.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741908"
+    },
+    {
+      "english": "I'm wondering if that's wise.",
+      "swahili": "Ninashangaa kama hiyo ni busara.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741911"
+    },
+    {
+      "english": "What do you advise me to do?",
+      "swahili": "Unanashauri nifanye nini?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741913"
+    },
+    {
+      "english": "Is there a better way, perhaps?",
+      "swahili": "Kuna njia bora zaidi, labda?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741915"
+    },
+    {
+      "english": "I'm curious, what's your thought?",
+      "swahili": "Ninatamanini kujua, mawazo yako?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741917"
+    },
+    {
+      "english": "Do you see any problems here?",
+      "swahili": "Unaona shida yoyote hapa?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741918"
+    },
+    {
+      "english": "Should we reconsider this option?",
+      "swahili": "Tuangalie tena chaguo hili?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741921"
+    },
+    {
+      "english": "What's your opinion on that?",
+      "swahili": "Hukumu yako ni ipi juu ya hilo?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741923"
+    },
+    {
+      "english": "Does that make sense to you?",
+      "swahili": "Inaeleweka kwako?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741924"
+    },
+    {
+      "english": "Can we trust this source?",
+      "swahili": "Tunaweza kuamini chanzo hiki?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741926"
+    },
+    {
+      "english": "What's your initial reaction?",
+      "swahili": "Wazo lako la kwanza ni lipi?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741927"
+    },
+    {
+      "english": "Are you leaning towards that?",
+      "swahili": "Unaegemea upande huo?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741929"
+    },
+    {
+      "english": "How would you handle this situation?",
+      "swahili": "Ungelishughulikiaje hali hii?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741930"
+    },
+    {
+      "english": "What's your perspective on it?",
+      "swahili": "Mtazamo wako juu yake ni upi?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741933"
+    },
+    {
+      "english": "Is there anything I missed?",
+      "swahili": "Kuna kitu nilikipuuza?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741935"
+    },
+    {
+      "english": "What are your reservations?",
+      "swahili": "Unasita kuhusu nini?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741936"
+    },
+    {
+      "english": "Can you explain that again?",
+      "swahili": "Unaweza kueleza tena?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741938"
+    },
+    {
+      "english": "Do you have any other ideas?",
+      "swahili": "Una mawazo mengine?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741940"
+    },
+    {
+      "english": "What's your final decision?",
+      "swahili": "Uamuzi wako wa mwisho ni upi?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741941"
+    },
+    {
+      "english": "So, we're in agreement then?",
+      "swahili": "Basi, tumekubaliana basi?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741942"
+    },
+    {
+      "english": "Yes, you're right, keep going!",
+      "swahili": "Ndio, uko sahihi, endelea!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741944"
+    },
+    {
+      "english": "That's a brilliant idea, love it!",
+      "swahili": "Hiyo ni fikra nzuri sana, nimeipenda!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741946"
+    },
+    {
+      "english": "Totally agree, you're on fire!",
+      "swahili": "Nakubaliana kabisa, unawaka moto!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741948"
+    },
+    {
+      "english": "Good job, keep that mindset!",
+      "swahili": "Kazi nzuri, weka akili hiyo!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741950"
+    },
+    {
+      "english": "I believe in you, you got this!",
+      "swahili": "Ninakwaminia, unaweza!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741951"
+    },
+    {
+      "english": "Exactly, positive vibes only!",
+      "swahili": "Hasa, hisia nzuri tu!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741953"
+    },
+    {
+      "english": "We are aligned, great thinking!",
+      "swahili": "Tunaendana, mawazo mazuri!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741955"
+    },
+    {
+      "english": "You nailed it, fantastic approach!",
+      "swahili": "Umeumia, mbinu ya ajabu!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741957"
+    },
+    {
+      "english": "That's the spirit, keep pushing!",
+      "swahili": "Hiyo ndiyo roho, endelea kusukuma!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741958"
+    },
+    {
+      "english": "Yes, that's the winning attitude!",
+      "swahili": "Ndio, hiyo ndiyo tabia ya ushindi!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741960"
+    },
+    {
+      "english": "Spot on, your focus is amazing!",
+      "swahili": "Sahihi kabisa, umakini wako unashangaza!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741962"
+    },
+    {
+      "english": "Couldn't have said it better, wow!",
+      "swahili": "Ningeweza kusema vizuri zaidi, wow!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741964"
+    },
+    {
+      "english": "Agree completely, keep shining!",
+      "swahili": "Nakubali kabisa, endelea kung'aa!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741965"
+    },
+    {
+      "english": "You're inspiring, never stop dreaming!",
+      "swahili": "Unahamasisha, usikome kuota ndoto!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741967"
+    },
+    {
+      "english": "That's the mindset, brilliant move!",
+      "swahili": "Hiyo ndiyo akili, hoja nzuri!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741969"
+    },
+    {
+      "english": "Yes, believe in the process!",
+      "swahili": "Ndio, amini katika mchakato!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741971"
+    },
+    {
+      "english": "You got it, that's the way!",
+      "swahili": "Umeipata, hiyo ndiyo njia!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741973"
+    },
+    {
+      "english": "Absolutely, your effort is great!",
+      "swahili": "Bila shaka, juhudi zako ni kubwa!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741975"
+    },
+    {
+      "english": "That's correct, stay positive!",
+      "swahili": "Ni kweli, kaa chanya!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741978"
+    },
+    {
+      "english": "I'm with you, brilliant thought!",
+      "swahili": "Niko na wewe, fikra nzuri sana!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741980"
+    },
+    {
+      "english": "Good point, keep up the good work!",
+      "swahili": "Hoja nzuri, endelea na kazi nzuri!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741981"
+    },
+    {
+      "english": "Indeed, you're a star, keep shining!",
+      "swahili": "Hakika, wewe ni nyota, endelea kung'aa!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741983"
+    },
+    {
+      "english": "I agree, great potential you have!",
+      "swahili": "Nakubali, una uwezo mkubwa!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741986"
+    },
+    {
+      "english": "Totally, your confidence is key!",
+      "swahili": "Kabisa, ujasiri wako ndio ufunguo!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741987"
+    },
+    {
+      "english": "Right on, keep that energy!",
+      "swahili": "Sawa kabisa, weka hiyo nguvu!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741989"
+    },
+    {
+      "english": "Agreed, your persistence pays off!",
+      "swahili": "Nimekubali, uvumilivu wako unalipa!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741990"
+    },
+    {
+      "english": "You said it, that's the mindset!",
+      "swahili": "Umesema, hiyo ndiyo akili!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741992"
+    },
+    {
+      "english": "Great insight, keep thinking big!",
+      "swahili": "Ufahamu mzuri, endelea kufikiria vikubwa!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741994"
+    },
+    {
+      "english": "Absolutely, you're on the right track!",
+      "swahili": "Bila shaka, uko kwenye njia sahihi!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741995"
+    },
+    {
+      "english": "I feel it too, yes.",
+      "swahili": "Naiona hiyo pia, naam.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741997"
+    },
+    {
+      "english": "My heart agrees with that.",
+      "swahili": "Moyo wangu unakubali hilo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.741998"
+    },
+    {
+      "english": "Honestly, I think so.",
+      "swahili": "Ukweli, nadhani hivyo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742000"
+    },
+    {
+      "english": "That touches me deeply.",
+      "swahili": "Hiyo inanigusa sana.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742001"
+    },
+    {
+      "english": "I sense the truth in it.",
+      "swahili": "Nahisi ukweli ndani yake.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742003"
+    },
+    {
+      "english": "My soul feels it, truly.",
+      "swahili": "Ruhusu yangu inahisi, kweli kabisa.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742005"
+    },
+    {
+      "english": "That resonates with me.",
+      "swahili": "Hiyo inajirudia ndani yangu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742006"
+    },
+    {
+      "english": "I have that same feeling.",
+      "swahili": "Nina huo huo uhisi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742008"
+    },
+    {
+      "english": "My gut tells me the same.",
+      "swahili": "Tumbo langu linasema hivyo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742009"
+    },
+    {
+      "english": "I can't deny that feeling.",
+      "swahili": "Siwezi kukataa hisia hiyo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742012"
+    },
+    {
+      "english": "It makes sense, emotionally.",
+      "swahili": "Inaeleweka, kihisia.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742013"
+    },
+    {
+      "english": "I feel a deep connection.",
+      "swahili": "Nahisi uhusiano wa ndani.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742015"
+    },
+    {
+      "english": "My spirit aligns with yours.",
+      "swahili": "Roho yangu inalingana na yako.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742016"
+    },
+    {
+      "english": "That's exactly how I feel.",
+      "swahili": "Hivyo ndivyo nahisi pia.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742017"
+    },
+    {
+      "english": "I appreciate your honesty.",
+      "swahili": "Nashukuru uaminifu wako.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742019"
+    },
+    {
+      "english": "That's a true reflection.",
+      "swahili": "Hiyo ni tafakari ya kweli.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742025"
+    },
+    {
+      "english": "I need time to ponder.",
+      "swahili": "Nahihitaji muda wa kutafakari.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742027"
+    },
+    {
+      "english": "Let's give it some thought.",
+      "swahili": "Tuipe mawazo kidogo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742028"
+    },
+    {
+      "english": "Patience is needed here.",
+      "swahili": "Uvumilivu unahitajika hapa.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742030"
+    },
+    {
+      "english": "I'm reflecting on this.",
+      "swahili": "Ninatafakari juu ya hili.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742031"
+    },
+    {
+      "english": "My thoughts are with you.",
+      "swahili": "Mawazo yangu yako na wewe.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742035"
+    },
+    {
+      "english": "This requires deep thought.",
+      "swahili": "Hii inahitaji mawazo ya ndani.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742038"
+    },
+    {
+      "english": "I understand your hesitation.",
+      "swahili": "Naelewa kusita kwako.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742039"
+    },
+    {
+      "english": "Let me process this feeling.",
+      "swahili": "Niruhusu kuchakata hisia hii.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742041"
+    },
+    {
+      "english": "That brings up emotions.",
+      "swahili": "Hiyo inaleta hisia.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742042"
+    },
+    {
+      "english": "I feel a sense of peace.",
+      "swahili": "Nahisi amani fulani.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742044"
+    },
+    {
+      "english": "This is deeply meaningful.",
+      "swahili": "Hii ina maana kubwa.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742045"
+    },
+    {
+      "english": "I accept your sincere view.",
+      "swahili": "Nakubali maoni yako ya dhati.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742046"
+    },
+    {
+      "english": "It resonates in my soul.",
+      "swahili": "Inajirudia ndani ya roho yangu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742048"
+    },
+    {
+      "english": "My heart tells me to agree.",
+      "swahili": "Moyo wangu unaniambia kukubali.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742049"
+    },
+    {
+      "english": "That's exactly it, no argument.",
+      "swahili": "Hiyo ndiyo hasa, hakuna ubishi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742051"
+    },
+    {
+      "english": "You've hit the nail on the head.",
+      "swahili": "Umeongea ukweli mtupu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T08:22:37.742052"
     }
   ],
-  "last_updated": "2026-10-19T08:41:58.867806"
+  "last_updated": "2026-10-20T08:22:37.742054"
 }
