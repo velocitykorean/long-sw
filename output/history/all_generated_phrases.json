@@ -2879,7 +2879,727 @@
       "swahili": "Umeongea ukweli mtupu.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-10-20T08:22:37.742052"
+    },
+    {
+      "english": "That was very kind, thank you.",
+      "swahili": "Ulikuwa mkarimu sana, asante.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362649"
+    },
+    {
+      "english": "You are a good person.",
+      "swahili": "Wewe ni mtu mzuri.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362663"
+    },
+    {
+      "english": "Please, be gentle.",
+      "swahili": "Tafadhali, kuwa mpole.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362665"
+    },
+    {
+      "english": "Your help is appreciated.",
+      "swahili": "Msaada wako, umethaminiwa.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362667"
+    },
+    {
+      "english": "May I help you?",
+      "swahili": "Naweza kukusaidia?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362669"
+    },
+    {
+      "english": "That's a kind offer.",
+      "swahili": "Ni ofa nzuri.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362670"
+    },
+    {
+      "english": "You are very thoughtful.",
+      "swahili": "Wewe ni mfikiriaji sana.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362672"
+    },
+    {
+      "english": "It was a good deed.",
+      "swahili": "Ilikuwa tendo jema.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362685"
+    },
+    {
+      "english": "Share your blessings.",
+      "swahili": "Shirikisha baraka zako.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362687"
+    },
+    {
+      "english": "Be kind to everyone.",
+      "swahili": "Kuwa mkarimu kwa kila mtu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362689"
+    },
+    {
+      "english": "Let's be compassionate.",
+      "swahili": "Hebu tuwe na huruma.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362690"
+    },
+    {
+      "english": "Your kindness matters.",
+      "swahili": "Ukarimu wako, una umuhimu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362692"
+    },
+    {
+      "english": "Show some empathy.",
+      "swahili": "Onyesha huruma kidogo.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362693"
+    },
+    {
+      "english": "You are a true friend.",
+      "swahili": "Wewe ni rafiki wa kweli.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362695"
+    },
+    {
+      "english": "That was very thoughtful of you.",
+      "swahili": "Ilikuwa fikra nzuri sana kwako.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362696"
+    },
+    {
+      "english": "Let's lend a hand.",
+      "swahili": "Hebu tumpe mkono.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362698"
+    },
+    {
+      "english": "Your generosity is amazing.",
+      "swahili": "Ukarimu wako, unashangaza.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362779"
+    },
+    {
+      "english": "Can I offer assistance?",
+      "swahili": "Naweza kutoa msaada?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362780"
+    },
+    {
+      "english": "Be considerate of others.",
+      "swahili": "Jali wengine pia.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362782"
+    },
+    {
+      "english": "A little kindness goes far.",
+      "swahili": "Huruma kidogo, huenda mbali.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362783"
+    },
+    {
+      "english": "You have a good heart.",
+      "swahili": "Wewe una moyo mzuri.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362786"
+    },
+    {
+      "english": "Thank you for your kindness.",
+      "swahili": "Asante kwa wema wako.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362788"
+    },
+    {
+      "english": "Always be helpful.",
+      "swahili": "Daima saidia.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362791"
+    },
+    {
+      "english": "That's very thoughtful.",
+      "swahili": "Hiyo ni fikra sana.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362792"
+    },
+    {
+      "english": "Please be patient.",
+      "swahili": "Tafadhali, vumilia.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362793"
+    },
+    {
+      "english": "Your generosity is noted.",
+      "swahili": "Ukarimu wako, umeonekana.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362795"
+    },
+    {
+      "english": "Spread kindness everywhere.",
+      "swahili": "Sambaza wema kila mahali.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362796"
+    },
+    {
+      "english": "How can I assist?",
+      "swahili": "Nisaidieje?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362797"
+    },
+    {
+      "english": "You are very considerate.",
+      "swahili": "Wewe ni mwangalifu sana.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362799"
+    },
+    {
+      "english": "Kindness is powerful.",
+      "swahili": "Huruma, ina nguvu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362800"
+    },
+    {
+      "english": "What's the kindest way, to ask?",
+      "swahili": "Njia nzuri zaidi, ya kuuliza ni ipi?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362802"
+    },
+    {
+      "english": "Can you show me, how to be kind?",
+      "swahili": "Unaweza kunionyesha, jinsi ya kuwa mkarimu?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362804"
+    },
+    {
+      "english": "Who taught you, to be so nice?",
+      "swahili": "Nani alikufundisha, kuwa mzuri hivi?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362806"
+    },
+    {
+      "english": "What do you think, about helping others?",
+      "swahili": "Unafikiri vipi, kuhusu kuwasaidia wengine?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362808"
+    },
+    {
+      "english": "Is it hard, to be understanding?",
+      "swahili": "Ni ngumu, kuwa mwenye kuelewa?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362810"
+    },
+    {
+      "english": "How do we show, compassion in our town?",
+      "swahili": "Tunaoneshaje, huruma katika mji wetu?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362812"
+    },
+    {
+      "english": "What if everyone, shared their food?",
+      "swahili": "Vipi kama kila mtu, angegawana chakula chake?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362814"
+    },
+    {
+      "english": "Should we ask first, before giving?",
+      "swahili": "Tunapaswa kuuliza kwanza, kabla ya kutoa?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362816"
+    },
+    {
+      "english": "Where can we find, opportunities to be good?",
+      "swahili": "Tunaweza kupata wapi, fursa za kufanya mema?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362818"
+    },
+    {
+      "english": "Do you believe, in random acts of kindness?",
+      "swahili": "Unaamini, katika vitendo vya huruma vya bahati nasibu?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362820"
+    },
+    {
+      "english": "What's a simple gesture, that means a lot?",
+      "swahili": "Ni ishara gani rahisi, ambayo ina maana kubwa?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362821"
+    },
+    {
+      "english": "How do you react, to unexpected kindness?",
+      "swahili": "Unarejeaje, kwa wema usiotarajiwa?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362825"
+    },
+    {
+      "english": "Can we discuss, how to forgive?",
+      "swahili": "Tunaweza kujadili, jinsi ya kusamehe?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362826"
+    },
+    {
+      "english": "What makes you, feel truly cared for?",
+      "swahili": "Ni nini kinakufanya, ujisikie kutunzwa kweli?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362828"
+    },
+    {
+      "english": "How do you practice, gratitude daily?",
+      "swahili": "Unafanyaje mazoezi, ya shukrani kila siku?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362830"
+    },
+    {
+      "english": "What if we smiled, more often?",
+      "swahili": "Vipi kama tungedhihaki, mara nyingi zaidi?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362831"
+    },
+    {
+      "english": "Can you suggest, a good deed today?",
+      "swahili": "Unaweza kupendekeza, tendo jema leo?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362833"
+    },
+    {
+      "english": "What's your favorite, way to be generous?",
+      "swahili": "Ni njia yako uipendayo, ya kuwa mkarimu?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362836"
+    },
+    {
+      "english": "Do you think, kindness is contagious?",
+      "swahili": "Unafikiri, wema unaambukiza?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362838"
+    },
+    {
+      "english": "How can we encourage, more acts of kindness?",
+      "swahili": "Tunawezaje kuhimiza, vitendo zaidi vya wema?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362840"
+    },
+    {
+      "english": "What if we listened, better to each other?",
+      "swahili": "Vipi kama tungesikiliza, kwa makini zaidi kila mmoja?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362841"
+    },
+    {
+      "english": "Is there a right way, to give advice kindly?",
+      "swahili": "Kuna njia sahihi, ya kutoa ushauri kwa wema?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362843"
+    },
+    {
+      "english": "How do you handle, disagreements with grace?",
+      "swahili": "Unashughulikiaje, migogoro kwa neema?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362844"
+    },
+    {
+      "english": "What does it mean, to be truly supportive?",
+      "swahili": "Inamaanisha nini, kuwa msaada wa kweli?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362846"
+    },
+    {
+      "english": "Can we build, bridges with kindness?",
+      "swahili": "Tunaweza kujenga, madaraja kwa wema?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362849"
+    },
+    {
+      "english": "What small things, make a big difference?",
+      "swahili": "Ni vitu vidogo gani, hufanya tofauti kubwa?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362852"
+    },
+    {
+      "english": "How do you show, appreciation without words?",
+      "swahili": "Unaoneshaje, shukrani bila maneno?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362854"
+    },
+    {
+      "english": "Is asking 'how are you'?, truly caring?",
+      "swahili": "Je, kuuliza 'hujambo'?, ni kujali kweli?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362857"
+    },
+    {
+      "english": "What's the best advice, for spreading positivity?",
+      "swahili": "Ushauri bora ni upi, kwa kueneza chanya?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362859"
+    },
+    {
+      "english": "Keep shining, your light matters.",
+      "swahili": "Endelea kung'aa, nuru yako ni muhimu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362861"
+    },
+    {
+      "english": "Your effort, is really appreciated.",
+      "swahili": "Juhudi zako, zinathaminiwa sana.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362863"
+    },
+    {
+      "english": "Think positive, achieve great things.",
+      "swahili": "Fikiria vizuri, utafikia mambo makubwa.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362864"
+    },
+    {
+      "english": "A smile, can change someone's day.",
+      "swahili": "Tabasamu, linaweza kubadilisha siku ya mtu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362867"
+    },
+    {
+      "english": "Your good deeds, inspire us.",
+      "swahili": "Matendo yako mema, yanatutia moyo.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362868"
+    },
+    {
+      "english": "Stay strong, you've got this.",
+      "swahili": "Kaa imara, unaweza.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362870"
+    },
+    {
+      "english": "Let's lift each other, up.",
+      "swahili": "Tuinue wengine, juu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362872"
+    },
+    {
+      "english": "Your positive vibe, is amazing.",
+      "swahili": "Nishati yako nzuri, ni ya ajabu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362874"
+    },
+    {
+      "english": "Never underestimate, your impact.",
+      "swahili": "Usiwahi kudharau, athari yako.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362876"
+    },
+    {
+      "english": "Small acts, create big ripples.",
+      "swahili": "Vitendo vidogo, huleta mawimbi makubwa.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362877"
+    },
+    {
+      "english": "Your kindness, makes a difference.",
+      "swahili": "Wema wako, unafanya tofauti.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362879"
+    },
+    {
+      "english": "Keep pushing forward, never quit.",
+      "swahili": "Endelea kusonga mbele, usikate tamaa.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362881"
+    },
+    {
+      "english": "You're doing great, keep it up.",
+      "swahili": "Unafanya vizuri, endelea hivyo.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362883"
+    },
+    {
+      "english": "Be the reason, someone smiles.",
+      "swahili": "Kuwa sababu, ya mtu kutabasamu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362885"
+    },
+    {
+      "english": "Your heart, is in the right place.",
+      "swahili": "Moyo wako, uko mahali pafaa.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362887"
+    },
+    {
+      "english": "Let kindness, be your superpower.",
+      "swahili": "Wacha wema, uwe nguvu yako kuu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362889"
+    },
+    {
+      "english": "Positive thoughts, attract positivity.",
+      "swahili": "Mawazo chanya, huvuta chanya.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362891"
+    },
+    {
+      "english": "You have a gift, for compassion.",
+      "swahili": "Una kipawa, cha huruma.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362893"
+    },
+    {
+      "english": "Make kindness, your habit.",
+      "swahili": "Fanya wema, kuwa kawaida yako.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362894"
+    },
+    {
+      "english": "Your support, means everything.",
+      "swahili": "Usaidizi wako, unamaanisha kila kitu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362896"
+    },
+    {
+      "english": "Embrace challenges, with courage.",
+      "swahili": "Kubali changamoto, kwa ujasiri.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362897"
+    },
+    {
+      "english": "You inspire, goodness in others.",
+      "swahili": "Unahamasisha, wema kwa wengine.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362899"
+    },
+    {
+      "english": "A little encouragement, goes far.",
+      "swahili": "Moyo kidogo, huenda mbali.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362900"
+    },
+    {
+      "english": "Your presence, is a blessing.",
+      "swahili": "Uwepo wako, ni baraka.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362902"
+    },
+    {
+      "english": "Be patient, with yourself too.",
+      "swahili": "Kuwa mvumilivu, na wewe mwenyewe pia.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362903"
+    },
+    {
+      "english": "Radiate positivity, always.",
+      "swahili": "Enzi positivity, kila wakati.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362905"
+    },
+    {
+      "english": "You are valued, and needed.",
+      "swahili": "Unathaminiwa, na unahitajika.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362906"
+    },
+    {
+      "english": "Let empathy, guide your actions.",
+      "swahili": "Wacha huruma, iongoze matendo yako.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362911"
+    },
+    {
+      "english": "True kindness, comes from the heart.",
+      "swahili": "Wema wa kweli, hutoka moyoni.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362912"
+    },
+    {
+      "english": "Patience, is a virtue, I've learned.",
+      "swahili": "Uvumilivu, ni tabia njema, nilijifunza.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362914"
+    },
+    {
+      "english": "Reflecting on good deeds, feels good.",
+      "swahili": "Kukumbuka vitendo vizuri, kunaleta raha.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362916"
+    },
+    {
+      "english": "Understanding others, requires empathy.",
+      "swahili": "Kuwaelewa wengine, huhitaji huruma.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362918"
+    },
+    {
+      "english": "How do you forgive, when hurt?",
+      "swahili": "Unasameheje, ukiumizwa?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362919"
+    },
+    {
+      "english": "Honesty matters, even when difficult.",
+      "swahili": "Ukweli ni muhimu, hata ukiwa mgumu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362921"
+    },
+    {
+      "english": "What truly makes you happy?",
+      "swahili": "Ni kipi kwako, kinakufurahisha zaidi?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362923"
+    },
+    {
+      "english": "Kindness, is a quiet strength.",
+      "swahili": "Wema, ni nguvu ya kimya.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362925"
+    },
+    {
+      "english": "My deepest wish, is peace.",
+      "swahili": "Tamaa yangu kuu, ni amani.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362926"
+    },
+    {
+      "english": "Let's be gentle, with ourselves.",
+      "swahili": "Tuwe wapole, na sisi wenyewe.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362928"
+    },
+    {
+      "english": "What if we chose, compassion always?",
+      "swahili": "Vipi tukichagua, huruma daima?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362930"
+    },
+    {
+      "english": "Gratitude, changes everything.",
+      "swahili": "Shukrani, hubadilisha kila kitu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362931"
+    },
+    {
+      "english": "Learning takes time, and effort.",
+      "swahili": "Kujifunza huchukua muda, na juhudi.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362933"
+    },
+    {
+      "english": "Inner peace, radiates outwards.",
+      "swahili": "Amani ya ndani, huonekana nje.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362935"
+    },
+    {
+      "english": "Is judging others, ever kind?",
+      "swahili": "Kumhukumu mwingine, kuna huruma?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362936"
+    },
+    {
+      "english": "Forgiveness, sets you free.",
+      "swahili": "Msamaha, hukuweka huru.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362938"
+    },
+    {
+      "english": "A thoughtful word, can heal.",
+      "swahili": "Neno la makini, linaweza kuponya.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362939"
+    },
+    {
+      "english": "We all stumble, sometimes.",
+      "swahili": "Sote tunakwazika, nyakati fulani.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362941"
+    },
+    {
+      "english": "Acceptance, is a form of love.",
+      "swahili": "Kukubali, ni aina ya upendo.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362942"
+    },
+    {
+      "english": "What does your conscience say?",
+      "swahili": "Nafsi yako, inasema nini?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362944"
+    },
+    {
+      "english": "Being present, is a gift.",
+      "swahili": "Kuwa hapo, ni zawadi.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362945"
+    },
+    {
+      "english": "Kindness requires, vulnerability.",
+      "swahili": "Wema huhitaji, uwezekano wa kujeruhiwa.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362947"
+    },
+    {
+      "english": "Sharing feelings, builds trust.",
+      "swahili": "Kushiriki hisia, hujenga uaminifu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362949"
+    },
+    {
+      "english": "Let empathy, lead the way.",
+      "swahili": "Wacha huruma, iongoze njia.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362950"
+    },
+    {
+      "english": "A calm mind, sees clearly.",
+      "swahili": "Akili tulivu, huona wazi.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362952"
+    },
+    {
+      "english": "What makes you feel understood?",
+      "swahili": "Ni kipi kwako, kinakufanya uhisi kueleweka?",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362954"
+    },
+    {
+      "english": "Real connection, takes time.",
+      "swahili": "Uhusiano halisi, huchukua muda.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362958"
+    },
+    {
+      "english": "Kindness, is never wasted.",
+      "swahili": "Wema, haupotei kamwe.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362962"
+    },
+    {
+      "english": "Honest feedback, helps growth.",
+      "swahili": "Maoni ya kweli, husaidia ukuaji.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362963"
+    },
+    {
+      "english": "Offer help, whenever you can.",
+      "swahili": "Toa msaada, wakati wowote unaweza.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362965"
+    },
+    {
+      "english": "Listen well, to understand.",
+      "swahili": "Sikiliza kwa makini, kuelewa.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362967"
+    },
+    {
+      "english": "Share generously, with others.",
+      "swahili": "Gawa kwa ukarimu, na wengine.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362985"
+    },
+    {
+      "english": "Be a good neighbor, always.",
+      "swahili": "Kuwa jirani mzuri, daima.",
+      "category": "Kindness",
+      "generated_at": "2026-10-21T08:26:43.362987"
     }
   ],
-  "last_updated": "2026-10-20T08:22:37.742054"
+  "last_updated": "2026-10-21T08:26:43.362988"
 }
