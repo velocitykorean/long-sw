@@ -3599,7 +3599,727 @@
       "swahili": "Kuwa jirani mzuri, daima.",
       "category": "Kindness",
       "generated_at": "2026-10-21T08:26:43.362987"
+    },
+    {
+      "english": "Hello, how are you?",
+      "swahili": "Habari, hujambo?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209781"
+    },
+    {
+      "english": "I am fine, thank you.",
+      "swahili": "Nzuri, asante.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209794"
+    },
+    {
+      "english": "Good morning, friend.",
+      "swahili": "Habari za asubuhi, rafiki.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209798"
+    },
+    {
+      "english": "Good afternoon, sir.",
+      "swahili": "Habari za mchana, bwana.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209800"
+    },
+    {
+      "english": "Good evening, madam.",
+      "swahili": "Habari za jioni, bibi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209805"
+    },
+    {
+      "english": "Welcome, please come in.",
+      "swahili": "Karibu, tafadhali ingia.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209808"
+    },
+    {
+      "english": "What is your name?",
+      "swahili": "Jina lako nani?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209813"
+    },
+    {
+      "english": "My name is John.",
+      "swahili": "Jina langu ni John.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209818"
+    },
+    {
+      "english": "Nice to meet you.",
+      "swahili": "Nimefurahi kukutana na wewe.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209821"
+    },
+    {
+      "english": "Where are you from?",
+      "swahili": "Unatoka wapi?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209840"
+    },
+    {
+      "english": "I am from America.",
+      "swahili": "Ninatoka Amerika.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209843"
+    },
+    {
+      "english": "How long have you been here?",
+      "swahili": "Umekuwa hapa muda gani?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209846"
+    },
+    {
+      "english": "Just arrived today.",
+      "swahili": "Nimefika leo tu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209848"
+    },
+    {
+      "english": "Do you speak English?",
+      "swahili": "Unasema Kiingereza?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209851"
+    },
+    {
+      "english": "A little bit, yes.",
+      "swahili": "Kidogo tu, ndiyo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209853"
+    },
+    {
+      "english": "I don't understand.",
+      "swahili": "Sielewi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209856"
+    },
+    {
+      "english": "Could you repeat that?",
+      "swahili": "Unaweza kurudia?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209858"
+    },
+    {
+      "english": "Thank you very much.",
+      "swahili": "Asante sana.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209861"
+    },
+    {
+      "english": "You are welcome.",
+      "swahili": "Karibu tena.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209863"
+    },
+    {
+      "english": "Excuse me, please.",
+      "swahili": "Samahani, tafadhali.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209866"
+    },
+    {
+      "english": "See you later.",
+      "swahili": "Tutaonana baadaye.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209868"
+    },
+    {
+      "english": "Goodbye, take care.",
+      "swahili": "Kwaheri, jilinde.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209870"
+    },
+    {
+      "english": "How is your family?",
+      "swahili": "Habari za familia yako?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209873"
+    },
+    {
+      "english": "They are all well.",
+      "swahili": "Wote wako salama.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209875"
+    },
+    {
+      "english": "What are you doing?",
+      "swahili": "Unafanya nini?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209877"
+    },
+    {
+      "english": "Just relaxing now.",
+      "swahili": "Ninapumzika tu sasa.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209880"
+    },
+    {
+      "english": "Can I help you?",
+      "swahili": "Naweza kukusaidia?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209882"
+    },
+    {
+      "english": "That's very kind.",
+      "swahili": "Hilo ni jema sana.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209885"
+    },
+    {
+      "english": "Enjoy your stay.",
+      "swahili": "Furahia kukaa kwako.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209893"
+    },
+    {
+      "english": "Thank you for the help.",
+      "swahili": "Asante kwa msaada.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209896"
+    },
+    {
+      "english": "How was your journey, friend?",
+      "swahili": "Safari yako ilikuwaje, rafiki?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209898"
+    },
+    {
+      "english": "Did you find the place okay?",
+      "swahili": "Ulipata mahali vizuri?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209901"
+    },
+    {
+      "english": "What brings you to our city?",
+      "swahili": "Nini kimekufikisha mjini?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209906"
+    },
+    {
+      "english": "Are you visiting, or do you live here?",
+      "swahili": "Unatembelea, au unaishi hapa?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209909"
+    },
+    {
+      "english": "What do you think of our country?",
+      "swahili": "Unaonaje nchi yetu?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209912"
+    },
+    {
+      "english": "Is this your first time here?",
+      "swahili": "Ni mara yako ya kwanza hapa?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209914"
+    },
+    {
+      "english": "Can you recommend a good restaurant?",
+      "swahili": "Unaweza kupendekeza mgahawa mzuri?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209917"
+    },
+    {
+      "english": "Where is the best place to see?",
+      "swahili": "Ni mahali gani pazuri pa kuona?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209921"
+    },
+    {
+      "english": "Have you tried our local food?",
+      "swahili": "Umeonja chakula chetu?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209924"
+    },
+    {
+      "english": "What's your favorite thing here?",
+      "swahili": "Unapenda kitu gani zaidi hapa?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209927"
+    },
+    {
+      "english": "Could you teach me a Swahili word?",
+      "swahili": "Unaweza kunifundisha neno la Kiswahili?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209929"
+    },
+    {
+      "english": "How do you say 'thank you' again?",
+      "swahili": "Unasemaje 'asante' tena?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209932"
+    },
+    {
+      "english": "What is the time, please?",
+      "swahili": "Ni saa ngapi, tafadhali?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209935"
+    },
+    {
+      "english": "That sounds interesting, tell me more.",
+      "swahili": "Inaonekana ya kuvutia, niambie zaidi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209938"
+    },
+    {
+      "english": "Where can I get some local crafts?",
+      "swahili": "Ninaweza kupata bidhaa za hapa wapi?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209940"
+    },
+    {
+      "english": "Are you enjoying your visit?",
+      "swahili": "Unafurahia ziara yako?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209943"
+    },
+    {
+      "english": "Tell me about your hometown.",
+      "swahili": "Niambie kuhusu mji wako.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209945"
+    },
+    {
+      "english": "What are you learning here?",
+      "swahili": "Unajifunza nini hapa?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209947"
+    },
+    {
+      "english": "Have you met many people yet?",
+      "swahili": "Umekutana na watu wengi tayari?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209950"
+    },
+    {
+      "english": "What is your favorite Swahili song?",
+      "swahili": "Ni wimbo gani wa Kiswahili unaoupenda?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209952"
+    },
+    {
+      "english": "Can we exchange contacts?",
+      "swahili": "Tunaweza kubadilishana mawasiliano?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209955"
+    },
+    {
+      "english": "How do locals greet each other?",
+      "swahili": "Wenyeji huams-al-am-iana vipi?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209957"
+    },
+    {
+      "english": "What's the best time to visit?",
+      "swahili": "Ni wakati gani mzuri wa kutembelea?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209960"
+    },
+    {
+      "english": "I'm learning Swahili, it's beautiful.",
+      "swahili": "Ninajifunza Kiswahili, ni lugha nzuri.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209963"
+    },
+    {
+      "english": "Your Swahili is improving fast!",
+      "swahili": "Kiswahili chako kinakua haraka!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209966"
+    },
+    {
+      "english": "That's a wonderful idea, I like it.",
+      "swahili": "Ni wazo zuri sana, nimependa.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209969"
+    },
+    {
+      "english": "Your positive energy is infectious.",
+      "swahili": "Nishati yako nzuri, inaambukiza.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209971"
+    },
+    {
+      "english": "Always think positive, my friend.",
+      "swahili": "Waza chanya kila wakati, rafiki yangu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209974"
+    },
+    {
+      "english": "You have a beautiful smile, really.",
+      "swahili": "Una tabasamu nzuri, kweli.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209977"
+    },
+    {
+      "english": "Don't give up, you are so close.",
+      "swahili": "Usikate tamaa, umekaribia sana.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209980"
+    },
+    {
+      "english": "Your efforts are truly appreciated.",
+      "swahili": "Juhudi zako zinathaminiwa sana.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209982"
+    },
+    {
+      "english": "You make learning fun, thank you.",
+      "swahili": "Unatufanya kujifunza kufurahisha, asante.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209985"
+    },
+    {
+      "english": "That's a brilliant observation.",
+      "swahili": "Ni mtazamo mzuri sana.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209988"
+    },
+    {
+      "english": "You have a heart of gold.",
+      "swahili": "Una moyo wa dhahabu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209990"
+    },
+    {
+      "english": "Never doubt your abilities, okay?",
+      "swahili": "Usiwahi kutilia shaka uwezo wako, sawa?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209995"
+    },
+    {
+      "english": "You inspire me, seriously.",
+      "swahili": "Unanitia moyo, kwa umakini.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.209998"
+    },
+    {
+      "english": "Your presence brightens the room.",
+      "swahili": "Uwepo wako unafanya chumba kuwa mkali.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210001"
+    },
+    {
+      "english": "Keep that amazing spirit alive.",
+      "swahili": "Endeleza roho hiyo ya ajabu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210003"
+    },
+    {
+      "english": "You handle things so well.",
+      "swahili": "Unashughulikia mambo vizuri sana.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210006"
+    },
+    {
+      "english": "Your insights are very valuable.",
+      "swahili": "Mawazo yako ni ya thamani sana.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210011"
+    },
+    {
+      "english": "You are a natural leader.",
+      "swahili": "Wewe ni kiongozi wa asili.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210013"
+    },
+    {
+      "english": "Stay focused, you're doing awesome.",
+      "swahili": "Kaa makini, unafanya ajabu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210016"
+    },
+    {
+      "english": "Your optimism is truly contagious.",
+      "swahili": "Matumaini yako yanaambukiza sana.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210019"
+    },
+    {
+      "english": "You have a special kind of charm.",
+      "swahili": "Una mvuto wa aina yake.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210022"
+    },
+    {
+      "english": "That's a great perspective, thank you.",
+      "swahili": "Ni mtazamo mzuri, asante.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210025"
+    },
+    {
+      "english": "You're making fantastic progress.",
+      "swahili": "Unafanya maendeleo mazuri sana.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210028"
+    },
+    {
+      "english": "Embrace new challenges bravely.",
+      "swahili": "Kubali changamoto mpya kwa ujasiri.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210031"
+    },
+    {
+      "english": "You have a gift for connecting.",
+      "swahili": "Una kipawa cha kuunganisha watu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210033"
+    },
+    {
+      "english": "Your effort is truly remarkable.",
+      "swahili": "Juhudi zako ni za ajabu sana.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210035"
+    },
+    {
+      "english": "You bring out the best in others.",
+      "swahili": "Unatoa kilicho bora kwa wengine.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210038"
+    },
+    {
+      "english": "Stay positive, good things will happen.",
+      "swahili": "Kaa na matumaini, mambo mazuri yatatokea.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210041"
+    },
+    {
+      "english": "You are a truly inspiring person.",
+      "swahili": "Wewe ni mtu wa kuigwa sana.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210043"
+    },
+    {
+      "english": "It's nice, meeting you truly.",
+      "swahili": "Ni furaha, kukutana nawe kweli.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210046"
+    },
+    {
+      "english": "I feel, a good connection here.",
+      "swahili": "Nahisi, uhusiano mzuri hapa.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210049"
+    },
+    {
+      "english": "Your spirit, it shines so bright.",
+      "swahili": "Roho yako, inang'aa sana.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210052"
+    },
+    {
+      "english": "Let's talk more, when time allows.",
+      "swahili": "Tuongee zaidi, muda ukiruhusu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210055"
+    },
+    {
+      "english": "I appreciate, your honest words.",
+      "swahili": "Nashukuru, maneno yako ya kweli.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210057"
+    },
+    {
+      "english": "This conversation, feels very real.",
+      "swahili": "Mazungumzo haya, yanajisikia halisi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210060"
+    },
+    {
+      "english": "I'm glad, we crossed paths today.",
+      "swahili": "Nimefurahi, tulikutana leo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210063"
+    },
+    {
+      "english": "Your openness, is very refreshing.",
+      "swahili": "Ufunguzi wako, unanipa pumzi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210066"
+    },
+    {
+      "english": "May we meet, again soon.",
+      "swahili": "Tukutane, tena karibuni.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210068"
+    },
+    {
+      "english": "I feel good, after talking.",
+      "swahili": "Najisikia vizuri, baada ya kuongea.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210073"
+    },
+    {
+      "english": "Your perspective, is quite unique.",
+      "swahili": "Mtazamo wako, ni wa kipekee.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210076"
+    },
+    {
+      "english": "I'm learning, a lot from you.",
+      "swahili": "Ninajifunza, mengi kutoka kwako.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210078"
+    },
+    {
+      "english": "It’s peaceful, being with you.",
+      "swahili": "Ni amani, kuwa na wewe.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210085"
+    },
+    {
+      "english": "Your presence, brings comfort.",
+      "swahili": "Uwepo wako, unaleta faraja.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210090"
+    },
+    {
+      "english": "I hope, you find peace too.",
+      "swahili": "Natumai, na wewe upate amani.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210093"
+    },
+    {
+      "english": "This moment, feels very special.",
+      "swahili": "Wakati huu, unahisi maalum.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210096"
+    },
+    {
+      "english": "You listen, with such kindness.",
+      "swahili": "Wewe husikiliza, kwa wema mwingi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210099"
+    },
+    {
+      "english": "My heart, feels lighter now.",
+      "swahili": "Moyo wangu, umeepuka mzigo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210101"
+    },
+    {
+      "english": "I am grateful, for this chat.",
+      "swahili": "Nina deni la shukrani, kwa mazungumzo haya.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210104"
+    },
+    {
+      "english": "Your reflection, is thoughtful.",
+      "swahili": "Tafakari yako, ni ya kufikirika.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210109"
+    },
+    {
+      "english": "May your day, be filled with joy.",
+      "swahili": "Siku yako, ijazwe na furaha.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210111"
+    },
+    {
+      "english": "I feel seen, when we talk.",
+      "swahili": "Nahisi nimeonekana, tunapoongea.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210114"
+    },
+    {
+      "english": "Let's be patient, with ourselves.",
+      "swahili": "Tuwe na subira, na sisi wenyewe.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210117"
+    },
+    {
+      "english": "Your honesty, makes me feel safe.",
+      "swahili": "Ukweli wako, unanifanya nijisikie salama.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210119"
+    },
+    {
+      "english": "I value, our brief meeting.",
+      "swahili": "Ninathamini, mkutano wetu mfupi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210122"
+    },
+    {
+      "english": "This connection, feels genuine.",
+      "swahili": "Muunganisho huu, unahisi kweli.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210125"
+    },
+    {
+      "english": "May understanding, grow between us.",
+      "swahili": "Uelewano, ukue baina yetu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210127"
+    },
+    {
+      "english": "Your kindness, is a gift.",
+      "swahili": "Wema wako, ni zawadi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210130"
+    },
+    {
+      "english": "I’m leaving, with a full heart.",
+      "swahili": "Ninaondoka, na moyo uliojaa.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210134"
+    },
+    {
+      "english": "Thank you, for sharing your thoughts.",
+      "swahili": "Asante, kwa kushiriki mawazo yako.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210137"
+    },
+    {
+      "english": "What's happening, my friend?",
+      "swahili": "Mambo vipi, rafiki?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210140"
+    },
+    {
+      "english": "How do you start your day?",
+      "swahili": "Unaanza aje siku yako?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210143"
+    },
+    {
+      "english": "Can I help you find something?",
+      "swahili": "Nikusaidie kutafuta kitu?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210146"
+    },
+    {
+      "english": "This place is quite busy.",
+      "swahili": "Hapa pana watu wengi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210148"
+    },
+    {
+      "english": "Let's get some fresh air.",
+      "swahili": "Tupate hewa safi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210151"
+    },
+    {
+      "english": "Do you live around here?",
+      "swahili": "Unaishi maeneo haya?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210153"
+    },
+    {
+      "english": "It's a nice day for a walk.",
+      "swahili": "Ni siku nzuri kutembea.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210156"
+    },
+    {
+      "english": "What do you do for fun?",
+      "swahili": "Unafanya nini kwa raha?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T09:09:41.210159"
     }
   ],
-  "last_updated": "2026-10-21T08:26:43.362988"
+  "last_updated": "2026-10-22T09:09:41.210160"
 }
