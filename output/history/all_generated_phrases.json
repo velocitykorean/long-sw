@@ -4319,7 +4319,727 @@
       "swahili": "Unafanya nini kwa raha?",
       "category": "Meeting People & Greetings",
       "generated_at": "2026-10-22T09:09:41.210159"
+    },
+    {
+      "english": "Help!, please.",
+      "swahili": "Saidi!, tafadhali.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256588"
+    },
+    {
+      "english": "I need help, urgently.",
+      "swahili": "Nah-muh-ta-ka sa-ee-dee, ha-sha-li.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256602"
+    },
+    {
+      "english": "Call the police, quickly!",
+      "swahili": "Pi-ga po-li-si, ha-ri-ya!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256606"
+    },
+    {
+      "english": "Where is the nearest hospital?",
+      "swahili": "Ho-spi-ta-li i-li-po ka-ree-bu ni wapi?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256609"
+    },
+    {
+      "english": "I am feeling unwell.",
+      "swahili": "Nah-ji-si-ha vib-a-ya.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256612"
+    },
+    {
+      "english": "I have a headache.",
+      "swahili": "Na-u-mu-a ki-cho-wa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256615"
+    },
+    {
+      "english": "My stomach hurts.",
+      "swahili": "Tu-mu y-a-ngu i-na-u-ma.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256617"
+    },
+    {
+      "english": "I have a fever.",
+      "swahili": "Na-na-hi-si ku-wa na j-a-n-a.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256623"
+    },
+    {
+      "english": "Is there a doctor here?",
+      "swahili": "D-o-k-t-a a-li-po h-u-u?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256626"
+    },
+    {
+      "english": "I need a doctor, immediately.",
+      "swahili": "Nah-muh-ta-ka d-o-k-t-a, sa-sa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256630"
+    },
+    {
+      "english": "I have an allergy.",
+      "swahili": "Mi-mi hu-na-na al-a-ji.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256632"
+    },
+    {
+      "english": "I need medicine, please.",
+      "swahili": "Nah-muh-ta-ka da-wa, tah-fah-dha-li.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256635"
+    },
+    {
+      "english": "Where is the pharmacy?",
+      "swahili": "Fa-ma-si i-li-po w-a-pi?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256638"
+    },
+    {
+      "english": "I am injured.",
+      "swahili": "Mi-mi n-i-me-ji-u-ma.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256640"
+    },
+    {
+      "english": "It is an emergency.",
+      "swahili": "Ni ha-ri-ya.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256642"
+    },
+    {
+      "english": "I cannot breathe.",
+      "swahili": "Si-we-zi ku-py-a.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256645"
+    },
+    {
+      "english": "My leg is broken.",
+      "swahili": "M-gu-u w-a-ngu u-me-v-u-ma.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256651"
+    },
+    {
+      "english": "I have a cut.",
+      "swahili": "Ni-na-ma-ka-ta.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256653"
+    },
+    {
+      "english": "Is anyone a doctor?",
+      "swahili": "Ku-na d-o-k-t-a h-u-u?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256656"
+    },
+    {
+      "english": "I am having trouble breathing.",
+      "swahili": "Nah-ta-bu ku-py-a.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256658"
+    },
+    {
+      "english": "I think I am pregnant.",
+      "swahili": "Na-fi-ri-a n-i-me-be-ba mim-ba.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256661"
+    },
+    {
+      "english": "I need an ambulance.",
+      "swahili": "Nah-muh-ta-ka a-mbu-la-si.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256663"
+    },
+    {
+      "english": "My heart is racing.",
+      "swahili": "M-o-yo w-a-ngu u-na-ka-ri-ka.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256667"
+    },
+    {
+      "english": "I feel dizzy.",
+      "swahili": "Nah-ji-si ku-z-i-ra.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256669"
+    },
+    {
+      "english": "I have a toothache.",
+      "swahili": "Na-u-mu-a j-i-no.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256672"
+    },
+    {
+      "english": "I need a bandage.",
+      "swahili": "Nah-muh-ta-ka je-re-ni.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256674"
+    },
+    {
+      "english": "Is there any danger?",
+      "swahili": "Ku-na hat-a-ri y-o-te?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256677"
+    },
+    {
+      "english": "I am allergic to penicillin.",
+      "swahili": "Mi-mi ni-na al-a-ji na pe-ni-si-li-ni.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256679"
+    },
+    {
+      "english": "This is an accident.",
+      "swahili": "Ni a-ji-ja.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256681"
+    },
+    {
+      "english": "Can you help me, please?",
+      "swahili": "Unaweza kunisaidia, tafadhali?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256684"
+    },
+    {
+      "english": "What happened, exactly?",
+      "swahili": "Nini kilitokea, hasa?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256687"
+    },
+    {
+      "english": "Is someone here, who knows medicine?",
+      "swahili": "Kuna mtu hapa, anayejua dawa?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256690"
+    },
+    {
+      "english": "How do you feel, now?",
+      "swahili": "Unajisikiaje, sasa?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256693"
+    },
+    {
+      "english": "Should I go to the clinic?",
+      "swahili": "Nikwende kliniki, au?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256696"
+    },
+    {
+      "english": "What is this symptom, called?",
+      "swahili": "Dalili hii, inaitwaje?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256699"
+    },
+    {
+      "english": "Is it serious, this pain?",
+      "swahili": "Ni mbaya, hii maumivu?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256702"
+    },
+    {
+      "english": "Can you describe, the problem?",
+      "swahili": "Unaweza kuelezea, tatizo?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256704"
+    },
+    {
+      "english": "Do you have, any advice?",
+      "swahili": "Una ushauri, wowote?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256707"
+    },
+    {
+      "english": "When did it start, hurting?",
+      "swahili": "Imeanza lini, kuuma?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256710"
+    },
+    {
+      "english": "Is there, a nurse nearby?",
+      "swahili": "Kuna muuguzi, karibu?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256713"
+    },
+    {
+      "english": "What is the emergency number?",
+      "swahili": "Namba ya dharura, ni ipi?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256715"
+    },
+    {
+      "english": "Can you call for me, please?",
+      "swahili": "Unaweza kupiga simu, kwangu?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256719"
+    },
+    {
+      "english": "Is there any immediate risk?",
+      "swahili": "Kuna hatari, yoyote ya haraka?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256722"
+    },
+    {
+      "english": "How long, will this last?",
+      "swahili": "Itadumu muda gani, hii?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256727"
+    },
+    {
+      "english": "Did you eat, anything strange?",
+      "swahili": "Ulakula, kitu chochote cha ajabu?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256729"
+    },
+    {
+      "english": "What time, does the doctor start?",
+      "swahili": "Daktari anaanza, saa ngapi?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256732"
+    },
+    {
+      "english": "Can I have, some water?",
+      "swahili": "Naweza kupata, maji?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256735"
+    },
+    {
+      "english": "Is this, contagious?",
+      "swahili": "Huu ugonjwa, unaambukiza?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256739"
+    },
+    {
+      "english": "I need to lie down, briefly.",
+      "swahili": "Nahisi kulala, kidogo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256742"
+    },
+    {
+      "english": "What is the, diagnosis?",
+      "swahili": "Uchunguzi ni upi, sasa?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256745"
+    },
+    {
+      "english": "Can you explain, the treatment?",
+      "swahili": "Unaweza kueleza, tiba?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256762"
+    },
+    {
+      "english": "I feel very weak, today.",
+      "swahili": "Nimechoka sana, leo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256765"
+    },
+    {
+      "english": "Is there, a quiet place?",
+      "swahili": "Kuna mahali, penye utulivu?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256768"
+    },
+    {
+      "english": "Did you see, what happened?",
+      "swahili": "Umeona, kilichotokea?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256771"
+    },
+    {
+      "english": "What are the side effects?",
+      "swahili": "Madhara yake, ni yapi?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256773"
+    },
+    {
+      "english": "I have a severe cough.",
+      "swahili": "Nakohoa sana, sasa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256776"
+    },
+    {
+      "english": "Can I get, a second opinion?",
+      "swahili": "Naweza kupata, maoni mengine?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256778"
+    },
+    {
+      "english": "You are strong, keep going.",
+      "swahili": "Wewe ni hodari, endelea mbele.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256781"
+    },
+    {
+      "english": "Take a deep breath, relax.",
+      "swahili": "Vuta pumzi kwa ndani, tulia.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256784"
+    },
+    {
+      "english": "We can handle this, together.",
+      "swahili": "Tunaweza kukabiliana na hii, pamoja.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256787"
+    },
+    {
+      "english": "Positive thoughts, heal the mind.",
+      "swahili": "Mawazo chanya, huponya akili.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256790"
+    },
+    {
+      "english": "Every step counts, towards recovery.",
+      "swahili": "Kila hatua ni muhimu, kuelekea kupona.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256793"
+    },
+    {
+      "english": "Believe in yourself, you will heal.",
+      "swahili": "Jiamini mwenyewe, utapona.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256796"
+    },
+    {
+      "english": "You are not alone, we are here.",
+      "swahili": "Hauko peke yako, tuko hapa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256799"
+    },
+    {
+      "english": "Don't give up, hope remains.",
+      "swahili": "Usikate tamaa, matumaini yapo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256802"
+    },
+    {
+      "english": "Your courage, is inspiring.",
+      "swahili": "Ujasiri wako, unatia moyo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256805"
+    },
+    {
+      "english": "Focus on healing, one day at a time.",
+      "swahili": "Zingatia uponyaji, siku moja kwa wakati.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256808"
+    },
+    {
+      "english": "You are resilient, bounce back.",
+      "swahili": "Wewe ni imara, rudi juu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256811"
+    },
+    {
+      "english": "Take it easy, rest well.",
+      "swahili": "Pumzika kwa raha, jipumzishe vizuri.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256814"
+    },
+    {
+      "english": "This too, shall pass.",
+      "swahili": "Hii pia, itapita.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256817"
+    },
+    {
+      "english": "Small progress, is still progress.",
+      "swahili": "Maendeleo madogo, bado ni maendeleo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256820"
+    },
+    {
+      "english": "Stay positive, think healthy.",
+      "swahili": "Kaa na positive, fikiria afya.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256825"
+    },
+    {
+      "english": "You've got this, believe it.",
+      "swahili": "Unaweza, amini hilo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256828"
+    },
+    {
+      "english": "Every breath, is a new chance.",
+      "swahili": "Kila pumzi, ni nafasi mpya.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256831"
+    },
+    {
+      "english": "You are getting better, slowly.",
+      "swahili": "Unapata afueni, taratibu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256833"
+    },
+    {
+      "english": "Keep hope alive, always.",
+      "swahili": "Weka matumaini hai, daima.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256836"
+    },
+    {
+      "english": "You are cared for, very much.",
+      "swahili": "Unatunzwa, sana.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256839"
+    },
+    {
+      "english": "Your recovery, is our priority.",
+      "swahili": "Kupona kwako, ni kipaumbele chetu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256842"
+    },
+    {
+      "english": "Stay strong, for yourself.",
+      "swahili": "Kaa hodari, kwa ajili yako.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256845"
+    },
+    {
+      "english": "We are rooting, for you.",
+      "swahili": "Tunakutakia kila la kheri.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256852"
+    },
+    {
+      "english": "Good job, you are healing.",
+      "swahili": "Kazi nzuri, unaendelea kupona.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256855"
+    },
+    {
+      "english": "Peace of mind, is essential.",
+      "swahili": "Amani ya akili, ni muhimu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256858"
+    },
+    {
+      "english": "I am reflecting, on my health choices.",
+      "swahili": "Ninafikiria, juu ya uchaguzi wangu kiafya.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256860"
+    },
+    {
+      "english": "It's important, to be honest about pain.",
+      "swahili": "Ni muhimu, kusema ukweli kuhusu maumivu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256865"
+    },
+    {
+      "english": "Patience is key, in healing.",
+      "swahili": "Uvumilivu ni muhimu, katika kupona.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256868"
+    },
+    {
+      "english": "I need time, to process this.",
+      "swahili": "Nahisi nahita_ji muda, wa kuchakata hili.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256871"
+    },
+    {
+      "english": "How am I feeling, truly?",
+      "swahili": "Nahisi vipi, kweli kabisa?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256874"
+    },
+    {
+      "english": "My inner strength, is being tested.",
+      "swahili": "Nguvu yangu ya ndani, inajaribiwa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256877"
+    },
+    {
+      "english": "I am learning, to listen to my body.",
+      "swahili": "Ninajifunza, kusikiliza mwili wangu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256879"
+    },
+    {
+      "english": "Letting go, is part of healing.",
+      "swahili": "Kusamehe, ni sehemu ya kupona.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256882"
+    },
+    {
+      "english": "I accept, how I feel now.",
+      "swahili": "Nakubali, ninavyohisi sasa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256885"
+    },
+    {
+      "english": "This experience, changed my perspective.",
+      "swahili": "Uzoefu huu, umebadilisha mtazamo wangu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256888"
+    },
+    {
+      "english": "I am grateful, for small improvements.",
+      "swahili": "Nawashukuru, kwa maboresho madogo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256890"
+    },
+    {
+      "english": "Emotional honesty, aids recovery.",
+      "swahili": "Ukweli wa kihisia, husaidia kupona.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256893"
+    },
+    {
+      "english": "I must be gentle, with myself.",
+      "swahili": "Lazima niwe mpole, na mimi mwenyewe.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256896"
+    },
+    {
+      "english": "My thoughts, affect my well-being.",
+      "swahili": "Mawazo yangu, huathiri afya yangu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256899"
+    },
+    {
+      "english": "I am finding, inner peace now.",
+      "swahili": "Ninapata, amani ya ndani sasa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256902"
+    },
+    {
+      "english": "This is a moment, for introspection.",
+      "swahili": "Huu ni wakati, wa kutafakari.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256905"
+    },
+    {
+      "english": "I am focusing, on what I can control.",
+      "swahili": "Ninaangazia, kile ninachoweza kudhibiti.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256907"
+    },
+    {
+      "english": "Self-compassion, is vital.",
+      "swahili": "Huruma binafsi, ni muhimu sana.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256910"
+    },
+    {
+      "english": "I release, old worries now.",
+      "swahili": "Ninaachilia, hofu za zamani sasa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256915"
+    },
+    {
+      "english": "My spirit, is healing too.",
+      "swahili": "Roho yangu, inaponya pia.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256917"
+    },
+    {
+      "english": "I am trusting, the healing process.",
+      "swahili": "Ninaamini, mchakato wa kupona.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256920"
+    },
+    {
+      "english": "This setback, is temporary.",
+      "swahili": "Huu kurudi nyuma, ni wa muda mfupi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256923"
+    },
+    {
+      "english": "I choose, to see the good.",
+      "swahili": "Nachagua, kuona mema.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256925"
+    },
+    {
+      "english": "My resilience, grows stronger.",
+      "swahili": "Uimara wangu, unakua zaidi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256928"
+    },
+    {
+      "english": "I am allowing, myself to feel.",
+      "swahili": "Ninaruhusu, mimi mwenyewe kuhisi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256931"
+    },
+    {
+      "english": "This is a chance, for growth.",
+      "swahili": "Hii ni fursa, ya kukua.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256934"
+    },
+    {
+      "english": "I embrace, vulnerability.",
+      "swahili": "Nakumbatia, udhaifu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256937"
+    },
+    {
+      "english": "My inner voice, guides me.",
+      "swahili": "Sauti yangu ya ndani, inaniongoza.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256939"
+    },
+    {
+      "english": "I release fear, embrace calm.",
+      "swahili": "Ninaachilia hofu, nakumbatia utulivu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256942"
+    },
+    {
+      "english": "Wash hands, often, please.",
+      "swahili": "Osha mikono, mara nyingi, tafadhali.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256946"
+    },
+    {
+      "english": "Drink water, stay hydrated.",
+      "swahili": "Kunywa maji, kaa na maji.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256949"
+    },
+    {
+      "english": "Eat healthy, feel good.",
+      "swahili": "Kula vizuri, jiskie vizuri.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256952"
+    },
+    {
+      "english": "Get enough, sleep daily.",
+      "swahili": "Pata usingizi, wa kutosha kila siku.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256955"
+    },
+    {
+      "english": "Avoid crowds, if possible.",
+      "swahili": "Epuka misongamano, ikiwezekana.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256958"
+    },
+    {
+      "english": "Cover mouth, when coughing.",
+      "swahili": "Funika mdomo, unapokohoa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256961"
+    },
+    {
+      "english": "Is there a clinic, nearby?",
+      "swahili": "Kuna kliniki, karibu?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256964"
+    },
+    {
+      "english": "I need a doctor, urgently.",
+      "swahili": "Nahihitaji daktari, haraka sana.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256966"
+    },
+    {
+      "english": "Call an ambulance, please.",
+      "swahili": "Pigwa simu kwa ambulensi, tafadhali.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-23T08:27:14.256969"
     }
   ],
-  "last_updated": "2026-10-22T09:09:41.210160"
+  "last_updated": "2026-10-23T08:27:14.256971"
 }
