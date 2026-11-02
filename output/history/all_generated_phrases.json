@@ -5759,7 +5759,727 @@
       "swahili": "Tafuta maoni, kwa kujenga.",
       "category": "Creativity",
       "generated_at": "2026-11-01T10:17:51.272186"
+    },
+    {
+      "english": "I like to relax, at home.",
+      "swahili": "Napenda kupumzika, nyumbani.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317623"
+    },
+    {
+      "english": "Do you have, any hobbies?",
+      "swahili": "Una mapenzi, ya aina yoyote?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317637"
+    },
+    {
+      "english": "My hobby is, reading books.",
+      "swahili": "Hobi yangu ni, kusoma vitabu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317641"
+    },
+    {
+      "english": "I enjoy, watching movies.",
+      "swahili": "Nafurahi, kutazama filamu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317646"
+    },
+    {
+      "english": "Let's go, for a walk.",
+      "swahili": "Twende, matembezi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317649"
+    },
+    {
+      "english": "Music is my, passion.",
+      "swahili": "Muziki ni, shauku yangu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317651"
+    },
+    {
+      "english": "I love, cooking meals.",
+      "swahili": "Ninapenda, kupika chakula.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317654"
+    },
+    {
+      "english": "Gardening, makes me happy.",
+      "swahili": "Kulima bustani, hunifurahisha.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317659"
+    },
+    {
+      "english": "I like, playing sports.",
+      "swahili": "Ninapenda, kucheza michezo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317665"
+    },
+    {
+      "english": "Are you busy, this weekend?",
+      "swahili": "Umejikubali, mwishoni mwa wiki?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317669"
+    },
+    {
+      "english": "Let's hang out, soon.",
+      "swahili": "Tukutane, karibuni.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317672"
+    },
+    {
+      "english": "I need, some downtime.",
+      "swahili": "Nahihitaji, muda wa kupumzika.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317674"
+    },
+    {
+      "english": "What are, your plans?",
+      "swahili": "Ni mipango gani, yako?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317677"
+    },
+    {
+      "english": "I enjoy, painting.",
+      "swahili": "Nafurahia, kupaka rangi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317681"
+    },
+    {
+      "english": "Hiking, is great exercise.",
+      "swahili": "Kupanda milima, ni mazoezi mazuri.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317684"
+    },
+    {
+      "english": "I like, photography.",
+      "swahili": "Ninapenda, upigaji picha.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317687"
+    },
+    {
+      "english": "Spending time, with friends.",
+      "swahili": "Kutumia muda, na marafiki.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317689"
+    },
+    {
+      "english": "What a, beautiful day!",
+      "swahili": "Siku njema, sana!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317692"
+    },
+    {
+      "english": "I love, traveling.",
+      "swahili": "Ninapenda, kusafiri.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317694"
+    },
+    {
+      "english": "Any recommendations, for activities?",
+      "swahili": "Mapendekezo yoyote, kwa shughuli?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317697"
+    },
+    {
+      "english": "I enjoy, playing guitar.",
+      "swahili": "Nafurahia, kucheza gitaa.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317700"
+    },
+    {
+      "english": "Volunteering, feels good.",
+      "swahili": "Kujitolea, kunajisikia vizuri.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317703"
+    },
+    {
+      "english": "I'm learning, Swahili.",
+      "swahili": "Ninajifunza, Kiswahili.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317705"
+    },
+    {
+      "english": "That sounds, interesting.",
+      "swahili": "Hiyo inaonekana, kuvutia.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317708"
+    },
+    {
+      "english": "I like, bird watching.",
+      "swahili": "Napenda, kuangalia ndege.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317710"
+    },
+    {
+      "english": "Let's relax, together.",
+      "swahili": "Tupumzike, pamoja.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317713"
+    },
+    {
+      "english": "This is, my free time.",
+      "swahili": "Huu ni, muda wangu wa bure.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317716"
+    },
+    {
+      "english": "What do you do, in your free time?",
+      "swahili": "Unafanya nini, wakati wako wa bure?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317719"
+    },
+    {
+      "english": "How do you like, to unwind?",
+      "swahili": "Unapendeaje, kupumzika?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317722"
+    },
+    {
+      "english": "What are your, favorite activities?",
+      "swahili": "Ni shughuli gani, unazopenda zaidi?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317725"
+    },
+    {
+      "english": "Tell me about, your interests.",
+      "swahili": "Niambie kuhusu, mambo yanayokuvutia.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317729"
+    },
+    {
+      "english": "Are you free, this evening?",
+      "swahili": "Uko huru, leo jioni?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317732"
+    },
+    {
+      "english": "What's on your, agenda today?",
+      "swahili": "Kuna nini kwenye, ratiba yako leo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317735"
+    },
+    {
+      "english": "Could you recommend, something fun?",
+      "swahili": "Unaweza kupendekeza, kitu cha kufurahisha?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317738"
+    },
+    {
+      "english": "Where do you, usually go?",
+      "swahili": "Unaenda wapi, kwa kawaida?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317741"
+    },
+    {
+      "english": "Do you like, to explore new places?",
+      "swahili": "Unapenda, kuchunguza sehemu mpya?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317743"
+    },
+    {
+      "english": "What kind of, music do you listen to?",
+      "swahili": "Unasikiliza aina gani, ya muziki?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317746"
+    },
+    {
+      "english": "Do you play, any musical instruments?",
+      "swahili": "Unacheza, ala zozote za muziki?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317749"
+    },
+    {
+      "english": "Have you tried, any new recipes?",
+      "swahili": "Umejaribu, mapishi yoyote mapya?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317752"
+    },
+    {
+      "english": "Do you prefer, indoor or outdoor activities?",
+      "swahili": "Unapendelea, shughuli za ndani au nje?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317754"
+    },
+    {
+      "english": "How do you, spend your weekends?",
+      "swahili": "Unatumiaje, wikendi zako?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317759"
+    },
+    {
+      "english": "Are you looking, for something to do?",
+      "swahili": "Unatafuta, kitu cha kufanya?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317762"
+    },
+    {
+      "english": "What's your idea, of a perfect day?",
+      "swahili": "Ni ipi dhana yako, ya siku kamili?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317764"
+    },
+    {
+      "english": "Do you enjoy, learning new skills?",
+      "swahili": "Unafurahia, kujifunza ujuzi mpya?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317767"
+    },
+    {
+      "english": "Do you prefer, quiet time or social events?",
+      "swahili": "Unapendelea, muda wa utulivu au matukio ya kijamii?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317770"
+    },
+    {
+      "english": "What are you, passionate about?",
+      "swahili": "Una shauku gani, nayo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317772"
+    },
+    {
+      "english": "Do you like, to volunteer your time?",
+      "swahili": "Unapenda, kujitolea muda wako?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317775"
+    },
+    {
+      "english": "What's your favorite, way to relax?",
+      "swahili": "Ni njia gani, unayopenda zaidi kupumzika?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317778"
+    },
+    {
+      "english": "Do you enjoy, spending time outdoors?",
+      "swahili": "Unafurahia, kutumia muda nje?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317780"
+    },
+    {
+      "english": "What are your, favorite types of movies?",
+      "swahili": "Ni aina gani, za filamu unazopenda?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317785"
+    },
+    {
+      "english": "Do you like, to go hiking?",
+      "swahili": "Unapenda, kupanda milima?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317788"
+    },
+    {
+      "english": "How do you, stay active?",
+      "swahili": "Unakaaje, mwili wako hai?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317790"
+    },
+    {
+      "english": "Believe in your, creative process.",
+      "swahili": "Amini mchakato wako, wa ubunifu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317793"
+    },
+    {
+      "english": "Your hobby brings, so much joy.",
+      "swahili": "Hobi yako inaleta, furaha nyingi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317798"
+    },
+    {
+      "english": "Embrace the journey, not just the destination.",
+      "swahili": "Kubali safari, sio tu mwishilio.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317801"
+    },
+    {
+      "english": "Every small step, counts.",
+      "swahili": "Kila hatua ndogo, ina thamani.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317804"
+    },
+    {
+      "english": "You have a real, talent.",
+      "swahili": "Una kipaji, cha kweli.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317806"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "swahili": "Zingatia maendeleo, sio ukamilifu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317809"
+    },
+    {
+      "english": "This activity is, good for your soul.",
+      "swahili": "Shughuli hii ni, nzuri kwa roho yako.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317812"
+    },
+    {
+      "english": "Your passion is, inspiring.",
+      "swahili": "Shauku yako ni, ya kuhamasisha.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317815"
+    },
+    {
+      "english": "Relax and recharge, your batteries.",
+      "swahili": "Pumzika na uchaji, betri zako.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317818"
+    },
+    {
+      "english": "Find your flow state, often.",
+      "swahili": "Tafuta hali yako ya mtiririko, mara nyingi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317821"
+    },
+    {
+      "english": "You're learning, so fast!",
+      "swahili": "Unajifunza, haraka sana!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317824"
+    },
+    {
+      "english": "Let your imagination, run wild.",
+      "swahili": "Ruhusu mawazo yako, yaende kichaa.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317827"
+    },
+    {
+      "english": "This is your time, to shine.",
+      "swahili": "Huu ni wakati wako, wa kung'aa.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317836"
+    },
+    {
+      "english": "What a great, idea!",
+      "swahili": "Ni wazo, zuri sana!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317838"
+    },
+    {
+      "english": "Your effort is, truly appreciated.",
+      "swahili": "Juhudi zako, zinathaminiwa sana.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317841"
+    },
+    {
+      "english": "Stay curious, and keep exploring.",
+      "swahili": "Kaa na udadisi, na endelea kuchunguza.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317844"
+    },
+    {
+      "english": "You've got this, totally.",
+      "swahili": "Unaweza, kabisa.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317847"
+    },
+    {
+      "english": "Enjoy this moment, fully.",
+      "swahili": "Furahia wakati huu, kikamilifu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317849"
+    },
+    {
+      "english": "Your dedication, is admirable.",
+      "swahili": "Dhamira yako, inavutia sana.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317852"
+    },
+    {
+      "english": "It's okay, to make mistakes.",
+      "swahili": "Ni sawa, kufanya makosa.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317857"
+    },
+    {
+      "english": "Never stop, learning.",
+      "swahili": "Usikome, kujifunza.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317860"
+    },
+    {
+      "english": "That's a wonderful, skill.",
+      "swahili": "Hiyo ni ujuzi, mzuri sana.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317863"
+    },
+    {
+      "english": "You're doing, a fantastic job.",
+      "swahili": "Unafanya, kazi nzuri ajabu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317866"
+    },
+    {
+      "english": "Embrace your unique, style.",
+      "swahili": "Kubali mtindo, wako wa kipekee.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317868"
+    },
+    {
+      "english": "This brings you, happiness.",
+      "swahili": "Hii inakuletea, furaha.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317871"
+    },
+    {
+      "english": "You're growing, so much.",
+      "swahili": "Unakua, sana sana.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317874"
+    },
+    {
+      "english": "Keep nurturing, your interests.",
+      "swahili": "Endelea kutunza, mambo yanayokupendeza.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317876"
+    },
+    {
+      "english": "What a creative, mind!",
+      "swahili": "Akili, yenye ubunifu sana!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317879"
+    },
+    {
+      "english": "This hobby, calms my mind.",
+      "swahili": "Hii hobby, inanituliza akili.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317882"
+    },
+    {
+      "english": "I find peace, in simple things.",
+      "swahili": "Hutafuta amani, kwa vitu rahisi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317884"
+    },
+    {
+      "english": "I reflect, on my progress.",
+      "swahili": "Ninafikiria, juu ya maendeleo yangu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317887"
+    },
+    {
+      "english": "Patience, is key with new skills.",
+      "swahili": "Uvumilivu, ni muhimu kwa ujuzi mpya.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317890"
+    },
+    {
+      "english": "This makes me, feel truly happy.",
+      "swahili": "Hii inanifanya, nijisikie furaha kweli.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317892"
+    },
+    {
+      "english": "I am discovering, more about myself.",
+      "swahili": "Ninajifunza, zaidi kuhusu mimi mwenyewe.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317895"
+    },
+    {
+      "english": "Deep thoughts, arise during this.",
+      "swahili": "Mawazo mazito, huibuka wakati huu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317898"
+    },
+    {
+      "english": "I need this, quiet solitude.",
+      "swahili": "Nahihitaji, utulivu huu wa faragha.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317900"
+    },
+    {
+      "english": "It's a moment, for honest reflection.",
+      "swahili": "Ni wakati, wa kutafakari kwa uaminifu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317903"
+    },
+    {
+      "english": "I appreciate, the small wins.",
+      "swahili": "Ninathamini, ushindi mdogo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317906"
+    },
+    {
+      "english": "This activity, nourishes my spirit.",
+      "swahili": "Shughuli hii, inalisha roho yangu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317908"
+    },
+    {
+      "english": "I feel a, sense of calm.",
+      "swahili": "Ninajisikia, utulivu fulani.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317911"
+    },
+    {
+      "english": "My worries, seem to fade.",
+      "swahili": "Wasiwasi wangu, huonekana kufifia.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317916"
+    },
+    {
+      "english": "I am growing, internally.",
+      "swahili": "Ninakuwa, ndani kwa ndani.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317919"
+    },
+    {
+      "english": "This brings me, genuine contentment.",
+      "swahili": "Hii inaniletea, furaha ya kweli.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317921"
+    },
+    {
+      "english": "I embrace, this peaceful time.",
+      "swahili": "Ninapokea, wakati huu wa amani.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317924"
+    },
+    {
+      "english": "My mind, is at ease.",
+      "swahili": "Akili yangu, imetulia.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317927"
+    },
+    {
+      "english": "This helps me, to breathe deeper.",
+      "swahili": "Hii hunisaidia, kupumua kwa ndani zaidi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317929"
+    },
+    {
+      "english": "I cherish, these quiet moments.",
+      "swahili": "Ninathamini, nyakati hizi za utulivu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317932"
+    },
+    {
+      "english": "My perspective, is broadening.",
+      "swahili": "Mtazamo wangu, unapanuka.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317934"
+    },
+    {
+      "english": "I find solace, in this.",
+      "swahili": "Hupata faraja, katika hili.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317937"
+    },
+    {
+      "english": "This activity, centers me.",
+      "swahili": "Shughuli hii, inanipa utulivu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317939"
+    },
+    {
+      "english": "I am learning, patience today.",
+      "swahili": "Ninajifunza, uvumilivu leo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317942"
+    },
+    {
+      "english": "My spirit, feels refreshed.",
+      "swahili": "Roho yangu, inajisikia imeimarika.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317946"
+    },
+    {
+      "english": "I connect, with my inner self.",
+      "swahili": "Ninaungana, na nafsi yangu ya ndani.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317949"
+    },
+    {
+      "english": "This is my, mindful escape.",
+      "swahili": "Huu ni mkwepa, wangu wa makini.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317951"
+    },
+    {
+      "english": "I feel more, grounded now.",
+      "swahili": "Ninajisikia, nimetulia zaidi sasa.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317954"
+    },
+    {
+      "english": "This allows, for true peace.",
+      "swahili": "Hii inaruhusu, amani ya kweli.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317957"
+    },
+    {
+      "english": "Let's share our weekend plans, okay?",
+      "swahili": "Tushiriki mipango yetu ya wikendi, sawa?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317960"
+    },
+    {
+      "english": "I usually read, before sleeping.",
+      "swahili": "Mimi hucheza, kabla ya kulala.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317963"
+    },
+    {
+      "english": "My favorite pastime, is cooking.",
+      "swahili": "Burudani yangu pendwa, ni kupika.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317966"
+    },
+    {
+      "english": "Do you like, playing sports?",
+      "swahili": "Unapenda, kucheza michezo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317968"
+    },
+    {
+      "english": "We can go hiking, this Saturday.",
+      "swahili": "Tunaweza kwenda kupanda mlima, Jumamosi hii.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317971"
+    },
+    {
+      "english": "I prefer quiet hobbies, like gardening.",
+      "swahili": "Napendelea burudani tulivu, kama bustani.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317973"
+    },
+    {
+      "english": "Let's try a new restaurant, tonight.",
+      "swahili": "Tujaribu mgahawa mpya, leo usiku.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317976"
+    },
+    {
+      "english": "My hobby is, painting with watercolors.",
+      "swahili": "Kazi yangu ya kupenda ni, kuchora maji.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317979"
+    },
+    {
+      "english": "Can you teach me, that game?",
+      "swahili": "Unaweza nifundishe, mchezo huo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317982"
+    },
+    {
+      "english": "I love exploring, new places.",
+      "swahili": "Napenda kuchunguza, maeneo mapya.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317986"
+    },
+    {
+      "english": "What are you doing, this evening?",
+      "swahili": "Unafanya nini, leo jioni?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317989"
+    },
+    {
+      "english": "I enjoy listening, to podcasts.",
+      "swahili": "Nafurahia kusikiliza, podcasts.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-02T10:49:19.317993"
     }
   ],
-  "last_updated": "2026-11-01T10:17:51.272188"
+  "last_updated": "2026-11-02T10:49:19.317995"
 }
