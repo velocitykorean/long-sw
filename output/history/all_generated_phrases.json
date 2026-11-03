@@ -6479,7 +6479,727 @@
       "swahili": "Nafurahia kusikiliza, podcasts.",
       "category": "Hobbies & Free Time",
       "generated_at": "2026-11-02T10:49:19.317993"
+    },
+    {
+      "english": "Okay, polepole, wacha nikuonee tu",
+      "swahili": "Sawa, polepole, wacha nikuonyeshe tu",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092105"
+    },
+    {
+      "english": "Take your time, hakuna haraka hapa",
+      "swahili": "Chukua muda wako, hakuna haraka hapa",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092119"
+    },
+    {
+      "english": "Wait a moment, naenda sasa hivi",
+      "swahili": "Ngoja kidogo, naenda sasa hivi",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092123"
+    },
+    {
+      "english": "I’ll be right back, subiri kidogo",
+      "swahili": "Nitarudi mara moja, subiri kidogo",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092128"
+    },
+    {
+      "english": "Slow down, nitakuelewa vizuri",
+      "swahili": "Polepole, nitakuelewa vizuri",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092131"
+    },
+    {
+      "english": "Please, tushuke tuache wasiwasi",
+      "swahili": "Tafadhali, tujue tuache wasiwasi",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092135"
+    },
+    {
+      "english": "Don’t rush me, naelewa taratibu",
+      "swahili": "Usinikimbize, naelewa taratibu",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092139"
+    },
+    {
+      "english": "Give me a second, nitamaliza",
+      "swahili": "Nipe sekunde moja, nitamaliza",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092145"
+    },
+    {
+      "english": "We’ll handle it, subiri tu",
+      "swahili": "Tutashughulikia, subiri tu",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092149"
+    },
+    {
+      "english": "It’s okay, taratibu, tutaendelea",
+      "swahili": "Sawa tu, taratibu, tutaendelea",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092153"
+    },
+    {
+      "english": "Wait, let me check first",
+      "swahili": "Ngoja, naangalie kwanza",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092156"
+    },
+    {
+      "english": "Please repeat, polepole kidogo",
+      "swahili": "Tafadhali, sema tena, kidogo kidogo",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092159"
+    },
+    {
+      "english": "No stress, tutarudia baadaye",
+      "swahili": "Hakuna shida, tutarudi baadaye",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092161"
+    },
+    {
+      "english": "Hold on, naipanga vizuri sasa",
+      "swahili": "Subiri, naipanga vizuri sasa",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092164"
+    },
+    {
+      "english": "I’m trying, mpe muda kidogo",
+      "swahili": "Na jaribu, nipatie muda kidogo",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092167"
+    },
+    {
+      "english": "Let’s go step by step, sawa",
+      "swahili": "Tuende hatua kwa hatua, sawa",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092170"
+    },
+    {
+      "english": "Stay calm, itakuja tu",
+      "swahili": "Tuliza roho, itakuja tu",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092172"
+    },
+    {
+      "english": "I’m on it, subiri nitamaliza",
+      "swahili": "Niko kazini, subiri nitamaliza",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092176"
+    },
+    {
+      "english": "Be patient, hatua ndogo si mwisho",
+      "swahili": "Uvumilivu, hatua ndogo si mwisho",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092178"
+    },
+    {
+      "english": "Let’s pause, wacha niwazie",
+      "swahili": "Tuache kidogo, wacha niwazie",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092181"
+    },
+    {
+      "english": "Just a little more, karibu",
+      "swahili": "Kidogo tu, karibu",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092184"
+    },
+    {
+      "english": "It’s not late, bado tuna muda",
+      "swahili": "Haijachelewa, bado tuna muda",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092189"
+    },
+    {
+      "english": "Okay, nimepata, nitaendelea",
+      "swahili": "Sawa, nimepata, nitaendelea",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092192"
+    },
+    {
+      "english": "Wait, si hivyo, polepole tu",
+      "swahili": "Ngoja, si hivyo, polepole tu",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092195"
+    },
+    {
+      "english": "Give me the details, taratibu",
+      "swahili": "Nipe maelezo, taratibu",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092199"
+    },
+    {
+      "english": "I can’t now, kesho tu sawa?",
+      "swahili": "Siwezi sasa, kesho tu sawa?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092203"
+    },
+    {
+      "english": "Okay, subiri, tutapata njia",
+      "swahili": "Sawa, subiri, tutapata njia",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092205"
+    },
+    {
+      "english": "Don’t worry, tutashughulika taratibu",
+      "swahili": "Usijali, tutashughulika taratibu",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092209"
+    },
+    {
+      "english": "Keep going slowly, utafika",
+      "swahili": "Endelea polepole, utafika",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092212"
+    },
+    {
+      "english": "Thank you, naendelea hatua kwa hatua",
+      "swahili": "Asante, naendelea hatua kwa hatua",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092214"
+    },
+    {
+      "english": "How can I help you, step by step?",
+      "swahili": "Ninawezaje kukusaidia, kwa hatua?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092217"
+    },
+    {
+      "english": "What should we do first, pole?",
+      "swahili": "Tutaanza na nini kwanza, pole?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092221"
+    },
+    {
+      "english": "Can you explain slowly, kwa mfano?",
+      "swahili": "Unaweza kueleza taratibu, kwa mfano?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092223"
+    },
+    {
+      "english": "Do you need more time, tafadhali?",
+      "swahili": "Unahitaji muda zaidi, tafadhali?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092226"
+    },
+    {
+      "english": "Where are you stuck, niambie?",
+      "swahili": "Umejikwama wapi, niambie?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092229"
+    },
+    {
+      "english": "I’m listening, continue, usikate tamaa.",
+      "swahili": "Nakusikiliza, endelea, usikate tamaa.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092233"
+    },
+    {
+      "english": "Let’s talk calmly, what’s your concern?",
+      "swahili": "Tuongee kwa utulivu, tatizo ni lipi?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092236"
+    },
+    {
+      "english": "What do you suggest, ili tuisogee?",
+      "swahili": "Unashauri nini, ili tuisogee?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092241"
+    },
+    {
+      "english": "How long will it take, approximately?",
+      "swahili": "Inachukua muda gani, kwa takriban?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092244"
+    },
+    {
+      "english": "Can we try again, kwa subira?",
+      "swahili": "Tujaribu tena, kwa subira?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092247"
+    },
+    {
+      "english": "Is this the best time to ask?",
+      "swahili": "Huu ndio wakati mzuri kuuliza?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092249"
+    },
+    {
+      "english": "Which part is confusing, niite?",
+      "swahili": "Ni sehemu gani inachanganya, niambie?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092252"
+    },
+    {
+      "english": "Tell me what you already tried.",
+      "swahili": "Niambie uliwahi kujaribu nini.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092255"
+    },
+    {
+      "english": "Should I wait here, au tuende?",
+      "swahili": "Nisubiri hapa, au tuende?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092258"
+    },
+    {
+      "english": "When you’re ready, tuongee vizuri.",
+      "swahili": "Ukijiwa tayari, tuongee vizuri.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092261"
+    },
+    {
+      "english": "May I ask, unahitaji msaada gani?",
+      "swahili": "Naweza kuuliza, unahitaji msaada gani?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092264"
+    },
+    {
+      "english": "Give me your plan, step by step.",
+      "swahili": "Nipe mpango wako, kwa hatua.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092266"
+    },
+    {
+      "english": "What’s the next step, baada ya hapo?",
+      "swahili": "Hatua inayofuata ni ipi, baada ya hapo?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092269"
+    },
+    {
+      "english": "Let’s not panic, tuweke akili sawa.",
+      "swahili": "Tusiwe na hofu, tuweke akili sawa.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092273"
+    },
+    {
+      "english": "Can we review it slowly together?",
+      "swahili": "Tukikague pamoja, taratibu?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092275"
+    },
+    {
+      "english": "I understand, endelea, niko pamoja.",
+      "swahili": "Naelewa, endelea, nipo pamoja.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092283"
+    },
+    {
+      "english": "Do you want advice, au kusikilizwa tu?",
+      "swahili": "Unataka ushauri, au usikilizaji tu?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092286"
+    },
+    {
+      "english": "Please answer when you can, sawa?",
+      "swahili": "Jibu ukipata nafasi, sawa?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092289"
+    },
+    {
+      "english": "What’s your pace today, niambie?",
+      "swahili": "Leo unatembea kwa kasi gani, niambie?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092292"
+    },
+    {
+      "english": "We’ll get there, kwa subira kidogo.",
+      "swahili": "Tutafika huko, kwa subira kidogo.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092295"
+    },
+    {
+      "english": "Would you like me to wait, sawa?",
+      "swahili": "Ungependa nikusubiri, sawa?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092298"
+    },
+    {
+      "english": "How are things going, hatua baada ya hatua?",
+      "swahili": "Mambo yanaendaje, hatua baada ya hatua?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092300"
+    },
+    {
+      "english": "Let’s clear the confusion, kwa upole.",
+      "swahili": "Tueleze vizuri, kwa upole.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092304"
+    },
+    {
+      "english": "Can we slow down, then continue?",
+      "swahili": "Tupunguze mwendo, kisha tuendelee?",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092308"
+    },
+    {
+      "english": "I’ll follow your direction, taratibu.",
+      "swahili": "Nitafuata maelekezo yako, taratibu.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092312"
+    },
+    {
+      "english": "Pole na mapema, subira italipa",
+      "swahili": "Pole na mapema, subira italipa",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092316"
+    },
+    {
+      "english": "Subira yako, mafanikio yatarudi",
+      "swahili": "Subira yako, mafanikio yatarudi",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092319"
+    },
+    {
+      "english": "Wakati unaruhusu, mambo yataweka sawa",
+      "swahili": "Wakati unaruhusu, mambo yataweka sawa",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092321"
+    },
+    {
+      "english": "Ukiweka subira, njia itajulikana",
+      "swahili": "Ukiweka subira, njia itajulikana",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092324"
+    },
+    {
+      "english": "Tutaona leo, utafika kwa wakati",
+      "swahili": "Tutaona leo, utafika kwa wakati",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092327"
+    },
+    {
+      "english": "Haraka haraka haina baraka, subiri kwanza",
+      "swahili": "Haraka haraka haina baraka, subiri kwanza",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092330"
+    },
+    {
+      "english": "Maji yakishuka, ardhi huonekana",
+      "swahili": "Maji yakishuka, ardhi huonekana",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092333"
+    },
+    {
+      "english": "Pumua, mambo yatapoa polepole",
+      "swahili": "Pumua, mambo yatapoa polepole",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092335"
+    },
+    {
+      "english": "Usilie mapema, subira huponya",
+      "swahili": "Usilie mapema, subira huponya",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092340"
+    },
+    {
+      "english": "Kitu kikika, moyo utulie taratibu",
+      "swahili": "Kitu kikika, moyo utulie taratibu",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092343"
+    },
+    {
+      "english": "Polepole ndiyo mwendo, sio kukimbia",
+      "swahili": "Polepole ndiyo mwendo, sio kukimbia",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092345"
+    },
+    {
+      "english": "Tayarisha leo, subiri jawabu kesho",
+      "swahili": "Tayarisha leo, subiri jawabu kesho",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092348"
+    },
+    {
+      "english": "Mungu akipanga, subira huleta amani",
+      "swahili": "Mungu akipanga, subira huleta amani",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092350"
+    },
+    {
+      "english": "Usikate tamaa, bado kuna hatua",
+      "swahili": "Usikate tamaa, bado kuna hatua",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092353"
+    },
+    {
+      "english": "Pole ni dawa, subira ni kinga",
+      "swahili": "Pole ni dawa, subira ni kinga",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092355"
+    },
+    {
+      "english": "Mpaka mwisho, subira itashinda",
+      "swahili": "Mpaka mwisho, subira itashinda",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092358"
+    },
+    {
+      "english": "Ngoja kidogo, upepo utabadilika",
+      "swahili": "Ngoja kidogo, upepo utabadilika",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092361"
+    },
+    {
+      "english": "Subiri wakati wake, usiukimbie",
+      "swahili": "Subiri wakati wake, usiukimbie",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092363"
+    },
+    {
+      "english": "Ukikaa kimya, sauti itajitokeza",
+      "swahili": "Ukikaa kimya, sauti itajitokeza",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092365"
+    },
+    {
+      "english": "Kila kitu kina wakati wake, subiri",
+      "swahili": "Kila kitu kina wakati wake, subiri",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092368"
+    },
+    {
+      "english": "Ukitulia, utapata ufafanuzi",
+      "swahili": "Ukitulia, utapata ufafanuzi",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092371"
+    },
+    {
+      "english": "Siku ikienda, changamoto hupungua",
+      "swahili": "Siku ikienda, changamoto hupungua",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092373"
+    },
+    {
+      "english": "Pengo la kungoja lina matokeo",
+      "swahili": "Pengo la kungoja lina matokeo",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092376"
+    },
+    {
+      "english": "Tumbili huvunjika, mtu hupata akili",
+      "swahili": "Tumbili huvunjika, mtu hupata akili",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092378"
+    },
+    {
+      "english": "Kelele zikipungua, mawazo hujaa",
+      "swahili": "Kelele zikipungua, mawazo hujaa",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092381"
+    },
+    {
+      "english": "Subira usiku na mchana, itakusaidia",
+      "swahili": "Subira usiku na mchana, itakusaidia",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092383"
+    },
+    {
+      "english": "Usijenge haraka, subiri msingi",
+      "swahili": "Usijenge haraka, subiri msingi",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092386"
+    },
+    {
+      "english": "Mti mkubwa ulianza kama tawi",
+      "swahili": "Mti mkubwa ulianza kama tawi",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092388"
+    },
+    {
+      "english": "Heri kungoja kuliko kulazimisha",
+      "swahili": "Heri kungoja kuliko kulazimisha",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092390"
+    },
+    {
+      "english": "Subira, kibarua kidogo kinaisha",
+      "swahili": "Subira, kibarua kidogo kinaisha",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092395"
+    },
+    {
+      "english": "I feel it’s slow, but I’m staying.",
+      "swahili": "Ninahisi ni polepole, lakini naendelea.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092398"
+    },
+    {
+      "english": "My heart wants speed, my mind chooses calm.",
+      "swahili": "Moyo wangu hutaka haraka, akili yangu chagua utulivu.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092401"
+    },
+    {
+      "english": "I’ll wait, because honesty also needs time.",
+      "swahili": "Nitangoja, kwa sababu uaminifu nao unahitaji muda.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092405"
+    },
+    {
+      "english": "Let my feelings pass, not control me.",
+      "swahili": "Acha hisia zipite, zisinitawale.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092410"
+    },
+    {
+      "english": "When I breathe, I think clearer.",
+      "swahili": "Nikivuta pumzi, naanza kufikiri vizuri zaidi.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092413"
+    },
+    {
+      "english": "I pause, then I answer with care.",
+      "swahili": "Nahema kidogo, kisha najibu kwa makini.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092415"
+    },
+    {
+      "english": "Some days hurt, so I go gently.",
+      "swahili": "Siku nyingine zinauma, kwa hiyo naenda taratibu.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092418"
+    },
+    {
+      "english": "I’m learning to trust the process.",
+      "swahili": "Na-jifunza kuamini mchakato.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092421"
+    },
+    {
+      "english": "I won’t force it, I’ll keep faith.",
+      "swahili": "Sita-lazimisha, nitaendelea kuamini.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092424"
+    },
+    {
+      "english": "Slow progress is still progress, trust me.",
+      "swahili": "Maendeleo ya taratibu bado ni maendeleo, niamini.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092427"
+    },
+    {
+      "english": "I allow emotions, then I choose action.",
+      "swahili": "Na-ruhusu hisia, kisha na-uchagua hatua.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092432"
+    },
+    {
+      "english": "Truth comes out better when I wait.",
+      "swahili": "Ukweli hujitokeza vizuri zaidi niki-subiri.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092434"
+    },
+    {
+      "english": "My ego wants victory, patience wants peace.",
+      "swahili": "Ego yangu hutaka ushindi, subira hutaka amani.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092437"
+    },
+    {
+      "english": "I’m not behind, I’m just pacing.",
+      "swahili": "Siko nyuma, tu na-endana na muda.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092441"
+    },
+    {
+      "english": "I keep showing up, even when uncertain.",
+      "swahili": "Naendelea kujitokeza, hata nikiwa na shaka.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092444"
+    },
+    {
+      "english": "Anger fades faster when I stay patient.",
+      "swahili": "Hasira hupungua haraka nikikaa na subira.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092447"
+    },
+    {
+      "english": "I tell myself, breathe, then decide.",
+      "swahili": "Najipa moyo, pumua, kisha uamue.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092450"
+    },
+    {
+      "english": "I can’t rush healing, I just support it.",
+      "swahili": "Siwezi kukimbiza uponyaji, nausaidia tu.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092454"
+    },
+    {
+      "english": "Even silence can be respectful waiting.",
+      "swahili": "Hata kimya kinaweza kuwa kungoja kwa heshima.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092456"
+    },
+    {
+      "english": "I choose patience, because stress isn’t helpful.",
+      "swahili": "Naichagua subira, kwa sababu msongo si msaada.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092460"
+    },
+    {
+      "english": "What I need will arrive, not sooner.",
+      "swahili": "Kinachonihitaji kitarudi, si mapema.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092463"
+    },
+    {
+      "english": "I’m honest: I’m tired, but I continue.",
+      "swahili": "Ninasema ukweli, na-choka, lakini naendelea.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092469"
+    },
+    {
+      "english": "I let the moment teach me quietly.",
+      "swahili": "Naacha wakati unifundishe kimya kimya.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092471"
+    },
+    {
+      "english": "Patience is my promise to my future self.",
+      "swahili": "Subira ni ahadi yangu kwa mimi wa baadaye.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092474"
+    },
+    {
+      "english": "If it’s meant, it will happen with calm.",
+      "swahili": "Kikimaanishwa, kitatokea kwa utulivu.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092477"
+    },
+    {
+      "english": "I keep my standards, not my panic.",
+      "swahili": "Naweka viwango, si hofu.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092480"
+    },
+    {
+      "english": "I’m switching from rushing to listening.",
+      "swahili": "Nageuza kutoka kukimbilia hadi kusikiliza.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092483"
+    },
+    {
+      "english": "I respect the delay, it has lessons.",
+      "swahili": "Na-heshimu kuchelewa, ina masomo.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092485"
+    },
+    {
+      "english": "Even small steps can rebuild my hope.",
+      "swahili": "Hatua ndogo zinarudisha tumaini.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092488"
+    },
+    {
+      "english": "My plan is simple, wait, then move.",
+      "swahili": "Mpango wangu ni rahisi, subiri, kisha songa.",
+      "category": "Patience",
+      "generated_at": "2026-11-03T10:41:31.092491"
     }
   ],
-  "last_updated": "2026-11-02T10:49:19.317995"
+  "last_updated": "2026-11-03T10:41:31.092493"
 }
