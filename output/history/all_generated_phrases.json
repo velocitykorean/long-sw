@@ -7199,7 +7199,727 @@
       "swahili": "Mpango wangu ni rahisi, subiri, kisha songa.",
       "category": "Patience",
       "generated_at": "2026-11-03T10:41:31.092491"
+    },
+    {
+      "english": "Hi, I have a reservation, please.",
+      "swahili": "Hujambo, nina uhifadhi, tafadhali.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024010"
+    },
+    {
+      "english": "How much is the room per night?",
+      "swahili": "Chumba ni cha bei gani kwa usiku?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024024"
+    },
+    {
+      "english": "Do you have a free room available?",
+      "swahili": "Mna chumba kilicho wazi, kipo sasa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024027"
+    },
+    {
+      "english": "Can I check in now, please?",
+      "swahili": "Naweza kuingia sasa, tafadhali?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024030"
+    },
+    {
+      "english": "Where is the reception desk?",
+      "swahili": "Dawati la mapokezi liko wapi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024033"
+    },
+    {
+      "english": "Could I get a key card, please?",
+      "swahili": "Naomba nipate kadi ya funguo, tafadhali.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024038"
+    },
+    {
+      "english": "Is breakfast included in the price?",
+      "swahili": "Chakula cha asubuhi kimejumuishwa kwenye bei?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024041"
+    },
+    {
+      "english": "What time is breakfast served?",
+      "swahili": "Chakula cha asubuhi hutolewa saa ngapi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024046"
+    },
+    {
+      "english": "Where do I go for towels?",
+      "swahili": "Ninaenda wapi kupata taulo?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024050"
+    },
+    {
+      "english": "Do you offer Wi‑Fi in the rooms?",
+      "swahili": "Mnatoa Wi‑Fi kwenye vyumba?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024053"
+    },
+    {
+      "english": "What is the Wi‑Fi password?",
+      "swahili": "Nenosiri la Wi‑Fi ni gani?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024056"
+    },
+    {
+      "english": "Is there hot water, right now?",
+      "swahili": "Kuna maji ya moto, sasa hivi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024059"
+    },
+    {
+      "english": "My room smells bad, please help.",
+      "swahili": "Chumba changu kina harufu mbaya, tafadhali.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024062"
+    },
+    {
+      "english": "The air conditioner is not working.",
+      "swahili": "Kiyoyozi hakifanyi kazi.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024065"
+    },
+    {
+      "english": "Can you send someone to fix it?",
+      "swahili": "Mnaweza kumtuma mtu akarekebishe?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024067"
+    },
+    {
+      "english": "I need extra towels, please.",
+      "swahili": "Ninahitajia taulo za ziada, tafadhali.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024070"
+    },
+    {
+      "english": "Room service, please. What’s the menu?",
+      "swahili": "Huduma ya chumba, tafadhali. Menyu ni ipi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024073"
+    },
+    {
+      "english": "I’d like to order water, please.",
+      "swahili": "Ningependa kuagiza maji, tafadhali.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024076"
+    },
+    {
+      "english": "Sorry, I got lost, where am I?",
+      "swahili": "Samahani, nimepotea, niko wapi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024079"
+    },
+    {
+      "english": "Is there a lift here, please?",
+      "swahili": "Kuna lifti hapa, tafadhali?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024081"
+    },
+    {
+      "english": "Where is the elevator, exactly?",
+      "swahili": "Lift iko wapi hasa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024084"
+    },
+    {
+      "english": "It’s too noisy, can you help?",
+      "swahili": "Ni kelele nyingi, mnaweza kusaidia?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024087"
+    },
+    {
+      "english": "My key isn’t working, please.",
+      "swahili": "Funguo yangu haifanyi kazi, tafadhali.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024092"
+    },
+    {
+      "english": "Can I get late checkout?",
+      "swahili": "Naweza kupata kuondoka kuchelewa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024094"
+    },
+    {
+      "english": "What time is checkout, exactly?",
+      "swahili": "Muda wa kuondoka ni saa ngapi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024097"
+    },
+    {
+      "english": "Could I store my luggage here?",
+      "swahili": "Naweza kuacha mizigo hapa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024099"
+    },
+    {
+      "english": "Is parking available for guests?",
+      "swahili": "Maegesho yako kwa wageni?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024102"
+    },
+    {
+      "english": "Thanks, everything is perfect now!",
+      "swahili": "Asante, kila kitu kiko sawa sasa!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024105"
+    },
+    {
+      "english": "Excuse me, is this room still available?",
+      "swahili": "Samahani, chumba hiki bado kinapatikana?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024136"
+    },
+    {
+      "english": "Do you have rooms with a city view?",
+      "swahili": "Mnazo vyumba vinavyoangalia jiji?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024140"
+    },
+    {
+      "english": "What’s included, besides breakfast and towels?",
+      "swahili": "Imejumuishwa nini, zaidi ya kiamsha kinywa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024144"
+    },
+    {
+      "english": "Is there a quiet floor for guests?",
+      "swahili": "Kuna sakafu tulivu kwa wageni?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024147"
+    },
+    {
+      "english": "Can I get a fan, if it’s warm?",
+      "swahili": "Naomba nipate shabiki, kama ni moto?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024150"
+    },
+    {
+      "english": "How do I reach the gym from here?",
+      "swahili": "Ninafikia wapi ukumbi wa mazoezi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024153"
+    },
+    {
+      "english": "Is there an ATM nearby, please?",
+      "swahili": "Kuna ATM karibu na hapa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024157"
+    },
+    {
+      "english": "Do you arrange airport pickup for guests?",
+      "swahili": "Mnakusudia kupanga safari ya uwanja wa ndege?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024160"
+    },
+    {
+      "english": "What time do the staff usually assist?",
+      "swahili": "Wafanyakazi husaidia saa ngapi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024162"
+    },
+    {
+      "english": "Can I pay by card here, or cash?",
+      "swahili": "Naweza kulipa kwa kadi hapa, au pesa taslimu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024165"
+    },
+    {
+      "english": "Do you have parking slots for late arrivals?",
+      "swahili": "Mna maeneo ya maegesho kwa wanaochelewa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024167"
+    },
+    {
+      "english": "Is there a shop downstairs for snacks?",
+      "swahili": "Kuna duka chini kwa vitafunwa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024170"
+    },
+    {
+      "english": "What’s the Wi‑Fi policy here, exactly?",
+      "swahili": "Sera ya Wi‑Fi hapa ni ipi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024173"
+    },
+    {
+      "english": "Is Wi‑Fi free for all guests?",
+      "swahili": "Wi‑Fi ni bure kwa wageni wote?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024176"
+    },
+    {
+      "english": "Could you recommend a good local restaurant?",
+      "swahili": "Unaweza kupendekeza mkahawa mzuri karibu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024179"
+    },
+    {
+      "english": "How far is the beach from the hotel?",
+      "swahili": "Pwani iko umbali gani kutoka hoteli?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024181"
+    },
+    {
+      "english": "What’s the fastest way to downtown?",
+      "swahili": "Njia gani ni ya haraka kuelekea mjini?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024184"
+    },
+    {
+      "english": "Do you have laundry service for guests?",
+      "swahili": "Mna huduma ya kufua nguo kwa wageni?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024188"
+    },
+    {
+      "english": "How long does laundry usually take?",
+      "swahili": "Kufua kunachukua muda gani kwa kawaida?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024190"
+    },
+    {
+      "english": "Can I request an extra pillow, please?",
+      "swahili": "Naomba nitunukiwe mto wa ziada, tafadhali?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024193"
+    },
+    {
+      "english": "Where can I sit, if it’s raining?",
+      "swahili": "Nikae wapi nikiona inanyesha?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024198"
+    },
+    {
+      "english": "Is the breakfast buffet or plated?",
+      "swahili": "Kiamsha kinywa ni buffet au kinahudumiwa?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024200"
+    },
+    {
+      "english": "Do you have vegetarian options for meals?",
+      "swahili": "Mna vyakula vya mboga kwa wageni?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024202"
+    },
+    {
+      "english": "What do I do if my card doesn’t work?",
+      "swahili": "Nifanye nini kadi ikikataa kufanya kazi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024205"
+    },
+    {
+      "english": "Can I borrow an iron, just for tonight?",
+      "swahili": "Naweza kukopa pasi, usiku huu tu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024208"
+    },
+    {
+      "english": "Do you have elevators, or only stairs?",
+      "swahili": "Mnayo lifti, au ngazi tu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024214"
+    },
+    {
+      "english": "Is there a safe deposit box in my room?",
+      "swahili": "Kuna sanduku la kuweka vitu salama?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024218"
+    },
+    {
+      "english": "How does the payment for extra services work?",
+      "swahili": "Malipo ya huduma za ziada yanafanyikaje?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024220"
+    },
+    {
+      "english": "If I leave early, is checkout still possible?",
+      "swahili": "Nikiondoka mapema, naweza kufanya checkout?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024223"
+    },
+    {
+      "english": "Thanks, what’s the Wi‑Fi name here?",
+      "swahili": "Asante, jina la Wi‑Fi hapa ni nini?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024226"
+    },
+    {
+      "english": "Today, I’m settling in, comfortably.",
+      "swahili": "Leo, nakaa, vizuri na raha.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024230"
+    },
+    {
+      "english": "Breathe in, you’re safe, you’re home.",
+      "swahili": "Pumua ndani, uko salama, uko nyumbani.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024233"
+    },
+    {
+      "english": "Small steps, big comfort, you’ve got this.",
+      "swahili": "Hatua ndogo, faraja kubwa, unaweza.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024237"
+    },
+    {
+      "english": "Say thank you, kindness opens doors.",
+      "swahili": "Sema asante, fadhili hufungua milango.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024240"
+    },
+    {
+      "english": "I’m proud of myself, I booked smart.",
+      "swahili": "Nina kiburi, nimepanga vizuri.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024243"
+    },
+    {
+      "english": "Enjoy the moment, rest is part of travel.",
+      "swahili": "Furahia wakati, kupumzika ni safari pia.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024245"
+    },
+    {
+      "english": "Keep it calm, staff will help quickly.",
+      "swahili": "Shikilia utulivu, wafanyakazi watahudumia haraka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024248"
+    },
+    {
+      "english": "I’m ready, my room will feel great.",
+      "swahili": "Niko tayari, chumba changu kitakuwa kizuri.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024251"
+    },
+    {
+      "english": "No rush, tomorrow can handle the rest.",
+      "swahili": "Hakuna haraka, kesho itashughulikia vingine.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024254"
+    },
+    {
+      "english": "I deserve comfort, I’m traveling with confidence.",
+      "swahili": "Nastahili faraja, naenda kwa ujasiri.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024258"
+    },
+    {
+      "english": "Ask kindly, you’ll get better results.",
+      "swahili": "Uliza kwa adabu, utapata matokeo mazuri.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024261"
+    },
+    {
+      "english": "Today’s goal, sleep well and recharge.",
+      "swahili": "Lengo la leo, lala vizuri, jipange upya.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024264"
+    },
+    {
+      "english": "I’ll take one step at a time.",
+      "swahili": "Nitafanya hatua moja baada ya nyingine.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024267"
+    },
+    {
+      "english": "You got this, enjoy your stay, seriously.",
+      "swahili": "Unaweza, furahia ukaaji wako, kwa dhati.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024269"
+    },
+    {
+      "english": "Consistency wins, I’ll be organized on arrival.",
+      "swahili": "Uthabiti hushinda, nitaandaa nilipofika.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024273"
+    },
+    {
+      "english": "Relax, I’ll figure it out, no stress.",
+      "swahili": "Tuliza akili, nitapata tu njia, bila mkazo.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024276"
+    },
+    {
+      "english": "Positive energy, good vibes, great vacation.",
+      "swahili": "Nishati chanya, furaha njema, likizo nzuri.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024279"
+    },
+    {
+      "english": "Thank you in advance, I appreciate you.",
+      "swahili": "Asante mapema, nina kuthamini.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024281"
+    },
+    {
+      "english": "I’m grateful, my stay is already improving.",
+      "swahili": "Nina shukrani, ukaaji wangu unaendelea kuboreka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024285"
+    },
+    {
+      "english": "Settle in, today feels lighter already.",
+      "swahili": "Tuliza, leo naanza kujisikia mepesi.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024288"
+    },
+    {
+      "english": "I’ll stay flexible, surprises can be nice.",
+      "swahili": "Nitaendana na hali, mshangao unaweza kuwa mzuri.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024291"
+    },
+    {
+      "english": "Confidence looks like asking, clearly and politely.",
+      "swahili": "Ujasiri unaonekana kwa kuuliza, kwa adabu.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024294"
+    },
+    {
+      "english": "Rest now, you’ll enjoy tomorrow more.",
+      "swahili": "Pumzika sasa, kesho utajifurahisha zaidi.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024297"
+    },
+    {
+      "english": "I’m choosing calm, my trip stays smooth.",
+      "swahili": "Nina chagua utulivu, safari yangu inakwenda vizuri.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024302"
+    },
+    {
+      "english": "Make it easy, I’ll handle the small things.",
+      "swahili": "Irahisishe, nitashughulikia vitu vidogo.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024305"
+    },
+    {
+      "english": "I’ll keep a good attitude, always.",
+      "swahili": "Nitadumisha tabia njema, daima.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024308"
+    },
+    {
+      "english": "Let’s make today count, one comfortable night.",
+      "swahili": "Hebu tufanye leo iwe na maana, usiku mmoja mzuri.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024311"
+    },
+    {
+      "english": "I’m excited, this place feels welcoming.",
+      "swahili": "Nina furaha, mahali hapa yanakaribisha.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024316"
+    },
+    {
+      "english": "You’re doing great, enjoy every detail.",
+      "swahili": "Unafanya vizuri, furahia kila undani.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024320"
+    },
+    {
+      "english": "Trust the process, check-in will be smooth.",
+      "swahili": "Amini mchakato, kuingia kutakuwa rahisi.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024322"
+    },
+    {
+      "english": "Honestly, I feel calmer in this room.",
+      "swahili": "Kwa uaminifu, najisikia mtulivu kwenye chumba hiki.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024325"
+    },
+    {
+      "english": "I’m learning to relax, even on busy days.",
+      "swahili": "Ninajifunza kupumzika, hata siku zenye shughuli.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024328"
+    },
+    {
+      "english": "Before sleep, I check the room quietly.",
+      "swahili": "Kabla ya kulala, naangalia chumba kwa utulivu.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024331"
+    },
+    {
+      "english": "I don’t rush, I just let things settle.",
+      "swahili": "Sikimbili, naacha mambo ya-tulie tu.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024334"
+    },
+    {
+      "english": "It feels good, I’m finally where I belong.",
+      "swahili": "Ina-fe-na vyema, hatimaye nipo mahali pangu.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024337"
+    },
+    {
+      "english": "I’m grateful, the staff noticed my needs.",
+      "swahili": "Na-shukuru, wafanyakazi wali-gundua mahitaji yangu.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024340"
+    },
+    {
+      "english": "Even if it’s small, comfort matters to me.",
+      "swahili": "Hata kama ni kidogo, faraja ina maana kwangu.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024343"
+    },
+    {
+      "english": "I’m okay waiting, help is worth it.",
+      "swahili": "Niko sawa kusubiri, msaada unafaa.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024346"
+    },
+    {
+      "english": "Tonight, I want peace more than anything.",
+      "swahili": "Usiku wa leo, nataka amani kuliko chochote.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024349"
+    },
+    {
+      "english": "I just want a clean space, no stress.",
+      "swahili": "Nataka nafasi safi, bila msongo wa mawazo.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024351"
+    },
+    {
+      "english": "My heart feels light when service is kind.",
+      "swahili": "Moyo wangu unakuwa mwepesi huduma ikiwa ya fadhili.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024356"
+    },
+    {
+      "english": "I’d rather ask than guess, really.",
+      "swahili": "Ningependa kuuliza kuliko kukisia, kweli.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024359"
+    },
+    {
+      "english": "I’m trying to be patient with delays.",
+      "swahili": "Na-jitahidi kuwa na subira kwa kuchelewa.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024362"
+    },
+    {
+      "english": "I notice details, they make me feel safe.",
+      "swahili": "Ninaona maelezo madogo, yananionyesha usalama.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024365"
+    },
+    {
+      "english": "If something’s unclear, I’ll speak up gently.",
+      "swahili": "Kama kuna kitu cha kutatanisha, nitaongea kwa upole.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024368"
+    },
+    {
+      "english": "I’m choosing calm, even with a packed schedule.",
+      "swahili": "Nina-chagua utulivu, hata ratiba ikiwa imejaa.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024371"
+    },
+    {
+      "english": "Honestly, I needed a quiet corner.",
+      "swahili": "Kwa uaminifu, nilihitaji sehemu tulivu.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024374"
+    },
+    {
+      "english": "I feel better when check-in is smooth.",
+      "swahili": "Najisikia vizuri wakati kuingia ni laini.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024377"
+    },
+    {
+      "english": "I’m not perfect, I just communicate clearly.",
+      "swahili": "Sijakamilika, na-mawasiliano yangu tu yawe wazi.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024380"
+    },
+    {
+      "english": "Please be patient, I’m still settling in.",
+      "swahili": "Tafadhali niwe wavumilivu, bado naweka vitu sawa.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024383"
+    },
+    {
+      "english": "I want my room to feel personal.",
+      "swahili": "Nataka chumba changu kihisiwe cha kwangu.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024385"
+    },
+    {
+      "english": "I won’t pretend, I need extra towels today.",
+      "swahili": "Si-tagusi tu, ninahitaji taulo za ziada leo.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024388"
+    },
+    {
+      "english": "I’m learning gratitude, even for small comforts.",
+      "swahili": "Ninajifunza kushukuru, hata kwa faraja ndogo.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024391"
+    },
+    {
+      "english": "If I’m nervous, it helps when staff explain.",
+      "swahili": "Nikiwa na wasiwasi, hunisaidia wafanyakazi kueleza.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024396"
+    },
+    {
+      "english": "I’d like to rest first, then I’ll explore.",
+      "swahili": "Ningependa kupumzika kwanza, kisha nitatafuta kuona.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024400"
+    },
+    {
+      "english": "I don’t mind waiting, I mind unclear answers.",
+      "swahili": "Si-nami-nda kusubiri, na-nami-nda majibu yasiyoeleweka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024403"
+    },
+    {
+      "english": "Today I choose honesty, my needs are simple.",
+      "swahili": "Leo na-chagua u-u-kweli, mahitaji yangu ni rahisi.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024406"
+    },
+    {
+      "english": "I feel respected when rules are explained kindly.",
+      "swahili": "Najihisi heshima sheria zikielezwa kwa fadhili.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024408"
+    },
+    {
+      "english": "Even my mood improves when the room is quiet.",
+      "swahili": "Hata hali yangu ya moyo huboreka chumba kikituliza.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024411"
+    },
+    {
+      "english": "I’m okay with delays, as long as I’m informed.",
+      "swahili": "Niko sawa na kuchelewa, mradi ni-arifi-we.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024416"
+    },
+    {
+      "english": "Where’s the Wi‑Fi password, please?",
+      "swahili": "Nenosiri la Wi‑Fi liko wapi, tafadhali?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024419"
+    },
+    {
+      "english": "I need a late checkout, is that possible?",
+      "swahili": "Nahitaji kutoka baadaye, inawezekana?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-04T10:44:30.024421"
     }
   ],
-  "last_updated": "2026-11-03T10:41:31.092493"
+  "last_updated": "2026-11-04T10:44:30.024423"
 }
