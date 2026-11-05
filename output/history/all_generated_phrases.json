@@ -7919,7 +7919,727 @@
       "swahili": "Nahitaji kutoka baadaye, inawezekana?",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-11-04T10:44:30.024421"
+    },
+    {
+      "english": "Hi, how’s the weather today, anyway?",
+      "swahili": "Habari, hali ya hewa leo, vipi?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227398"
+    },
+    {
+      "english": "Is it raining right now, or sunny?",
+      "swahili": "Je, kunanyesha sasa hivi, au kunameta?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227413"
+    },
+    {
+      "english": "Looks like it’ll rain soon, be ready.",
+      "swahili": "Inaonekana mvua itanyesha mapema, jiandae.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227417"
+    },
+    {
+      "english": "Wow, it’s so hot today, huh!",
+      "swahili": "Umeona, ni moto sana leo, kweli!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227422"
+    },
+    {
+      "english": "It’s cloudy, so bring a small umbrella.",
+      "swahili": "Ni na mawingu, chukua mwavuli mdogo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227425"
+    },
+    {
+      "english": "Do you feel the cold, or just me?",
+      "swahili": "Unahisi baridi, au mimi tu?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227428"
+    },
+    {
+      "english": "The wind is strong today, stay close.",
+      "swahili": "Upepo ni mkali leo, kaa karibu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227431"
+    },
+    {
+      "english": "Is the forecast good, or should we wait?",
+      "swahili": "Utabiri uko poa, au tuchelewe?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227440"
+    },
+    {
+      "english": "It smells like rain, doesn’t it?",
+      "swahili": "Inanuka kama mvua, si kweli?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227445"
+    },
+    {
+      "english": "I think it’s going to drizzle, watch out.",
+      "swahili": "Nadhani inanyesha kidogo, jihadhari.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227448"
+    },
+    {
+      "english": "So, are we staying indoors today?",
+      "swahili": "Kwa hiyo, leo tunakaa ndani?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227452"
+    },
+    {
+      "english": "Don’t forget sunscreen, it’s bright out.",
+      "swahili": "Usisahau mafuta ya jua, ni mkali.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227455"
+    },
+    {
+      "english": "Oh no, it’s raining hard again.",
+      "swahili": "Ole, inanyesha sana tena.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227458"
+    },
+    {
+      "english": "The sun just came out, quickly now!",
+      "swahili": "Jua limejitokeza, haraka sasa!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227461"
+    },
+    {
+      "english": "Are you feeling okay, with this weather?",
+      "swahili": "Unaendelea vipi, na hali hii ya hewa?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227464"
+    },
+    {
+      "english": "It’s humid today, I’m sweating already.",
+      "swahili": "Leo ni unyevunyevu, naanza kutoa jasho.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227467"
+    },
+    {
+      "english": "Let’s check the clouds before we go.",
+      "swahili": "Tuangalie mawingu kabla hatujaenda.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227470"
+    },
+    {
+      "english": "Is it windy near your place too?",
+      "swahili": "Ni upepo pia karibu kwenu?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227473"
+    },
+    {
+      "english": "I love this cool breeze, finally.",
+      "swahili": "Ninapenda upepo wa baridi, hatimaye.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227476"
+    },
+    {
+      "english": "That thunder was loud, are you scared?",
+      "swahili": "Ngurumo ilikuwa kubwa, unaogopa?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227478"
+    },
+    {
+      "english": "No worries, we’ll wait five minutes.",
+      "swahili": "Hakuna shida, tusubiri dakika tano.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227503"
+    },
+    {
+      "english": "It’s muggy, wear something light.",
+      "swahili": "Ni joto lenye unyevunyevu, vaa kitu chepesi.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227516"
+    },
+    {
+      "english": "So, what’s your plan for today?",
+      "swahili": "Sasa, mipango yako ya leo ni ipi?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227520"
+    },
+    {
+      "english": "How’s your day going, weather-wise?",
+      "swahili": "Siku yako inaendeleaje, kwa hali ya hewa?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227524"
+    },
+    {
+      "english": "It feels warmer than yesterday, right?",
+      "swahili": "Inaonekana ni joto kuliko jana, sawa?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227527"
+    },
+    {
+      "english": "I can hear rain, do you too?",
+      "swahili": "Ninasikia mvua, wewe pia?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227530"
+    },
+    {
+      "english": "It cleared up fast, good timing!",
+      "swahili": "Imeacha haraka, wakati mzuri!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227532"
+    },
+    {
+      "english": "Is the air quality okay today?",
+      "swahili": "Ubora wa hewa uko sawa leo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227537"
+    },
+    {
+      "english": "I’m not going out if it storms.",
+      "swahili": "Sipotoka kama kunatokea dhoruba.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227540"
+    },
+    {
+      "english": "Anyway, the weather’s changing quickly, huh?",
+      "swahili": "Kwa vyovyote, hali ya hewa inabadilika haraka, sivyo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227544"
+    },
+    {
+      "english": "Take a light jacket, just in case.",
+      "swahili": "Chukua koti jepesi, kwa tahadhari.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227547"
+    },
+    {
+      "english": "Tell me, what’s the sky doing now?",
+      "swahili": "Niambie, anga linafanya nini sasa?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227550"
+    },
+    {
+      "english": "How cold is it by you, exactly?",
+      "swahili": "Ni baridi kiasi gani kwenu, hasa?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227553"
+    },
+    {
+      "english": "Is the rain coming from that side?",
+      "swahili": "Mvua inaingia upande ule, kweli?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227556"
+    },
+    {
+      "english": "Should I bring a hoodie, just in case?",
+      "swahili": "Nilete hoodie, kwa tahadhari?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227559"
+    },
+    {
+      "english": "Where did you get that weather app?",
+      "swahili": "Ulipata hiyo app ya hali ya hewa wapi?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227561"
+    },
+    {
+      "english": "What time do you think it’ll clear?",
+      "swahili": "Unaona inaondoka saa ngapi?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227564"
+    },
+    {
+      "english": "Do you prefer mornings when it’s breezy?",
+      "swahili": "Unapenda asubuhi zenye upepo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227567"
+    },
+    {
+      "english": "I’m planning to walk, is it safe?",
+      "swahili": "Nina mpango wa kutembea, ni salama?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227571"
+    },
+    {
+      "english": "Is it going to feel different later?",
+      "swahili": "Baadaye itahisi tofauti, sivyo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227573"
+    },
+    {
+      "english": "What’s your go-to drink when it’s hot?",
+      "swahili": "Unakunywa nini ukikaa moto?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227577"
+    },
+    {
+      "english": "Any tips for staying comfortable outside?",
+      "swahili": "Ukiwa nje, una vidokezo gani?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227579"
+    },
+    {
+      "english": "Do you think there’ll be storms tonight?",
+      "swahili": "Unaona kutakuwa na dhoruba usiku?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227582"
+    },
+    {
+      "english": "Should we carry water bottles with us?",
+      "swahili": "Tutembeze chupa za maji pamoja?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227585"
+    },
+    {
+      "english": "The air feels weird, are you noticing too?",
+      "swahili": "Hewa inanijia ajabu, na wewe unahisi?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227588"
+    },
+    {
+      "english": "Is it better to drive or walk today?",
+      "swahili": "Leo ni bora kuendesha au kutembea?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227590"
+    },
+    {
+      "english": "Do you think it’ll get worse after lunch?",
+      "swahili": "Unaona itakuwa mbaya baada ya chakula cha mchana?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227593"
+    },
+    {
+      "english": "Where I’m at, it’s getting quieter.",
+      "swahili": "Kwangu, inazidi kuwa tulivu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227596"
+    },
+    {
+      "english": "Can you check the temperature for me?",
+      "swahili": "Unaweza kuangalia joto kwa ajili yangu?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227599"
+    },
+    {
+      "english": "What do you wear when it’s raining?",
+      "swahili": "Unavaa nini mvua ikinyesha?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227602"
+    },
+    {
+      "english": "Do you hear thunder, or is that me?",
+      "swahili": "Unasikia radi, ama ni mimi tu?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227604"
+    },
+    {
+      "english": "If it stops, are we still going out?",
+      "swahili": "Kikisimama, bado tunatoka?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227607"
+    },
+    {
+      "english": "I’m stuck at home, what’s it like outside?",
+      "swahili": "Nimeshika nyumbani, nje kunaonekanaje?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227610"
+    },
+    {
+      "english": "Should I close the windows now?",
+      "swahili": "Nifunge madirisha sasa?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227615"
+    },
+    {
+      "english": "Which neighborhood usually gets more rain?",
+      "swahili": "Ni eneo gani hupata mvua zaidi?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227617"
+    },
+    {
+      "english": "Let’s be smart, what time is peak heat?",
+      "swahili": "Tuwe wa busara, joto kubwa ni saa ngapi?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227620"
+    },
+    {
+      "english": "Do you want to wait, or go now?",
+      "swahili": "Unataka kungojea, au tuende sasa?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227623"
+    },
+    {
+      "english": "That breeze is nice, where are you from?",
+      "swahili": "Upepo huo ni mzuri, unatoka wapi?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227626"
+    },
+    {
+      "english": "Are the roads okay for bikes today?",
+      "swahili": "Barabara ziko sawa kwa baiskeli leo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227628"
+    },
+    {
+      "english": "What’s your plan, if it rains again?",
+      "swahili": "Mipango yako ni gani, mvua ikirudia?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227631"
+    },
+    {
+      "english": "Can we talk later, after the weather settles?",
+      "swahili": "Tunaweza kuongea baadaye, hali ikitulie?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227634"
+    },
+    {
+      "english": "Hali ya hewa ni habari ya leo, tuone tu.",
+      "swahili": "Hali ya hewa ni habari ya leo, tuone tu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227637"
+    },
+    {
+      "english": "Leo jua linapiga, pole pole tu.",
+      "swahili": "Leo jua linapiga, pole pole tu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227639"
+    },
+    {
+      "english": "Upepo umekunywa nguvu, ndivyo hali ilivyo.",
+      "swahili": "Upepo umekunywa nguvu, ndivyo hali ilivyo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227644"
+    },
+    {
+      "english": "Mawingu yamefika, kesho Mungu atapanga.",
+      "swahili": "Mawingu yamefika, kesho Mungu atapanga.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227649"
+    },
+    {
+      "english": "Ukiwa na jasho, ujue jua linahusika.",
+      "swahili": "Ukiwa na jasho, ujue jua linahusika.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227651"
+    },
+    {
+      "english": "Ukiona ukungu, kaa karibu na nyumba.",
+      "swahili": "Ukiona ukungu, kaa karibu na nyumba.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227654"
+    },
+    {
+      "english": "Mvua ya ghafla, watu hujikaza tu.",
+      "swahili": "Mvua ya ghafla, watu hujikaza tu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227658"
+    },
+    {
+      "english": "Mchele na mvua, nasikia vita vimeisha.",
+      "swahili": "Mchele na mvua, nasikia vita vimeisha.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227661"
+    },
+    {
+      "english": "Leo hewa imekaa sawa, asante.",
+      "swahili": "Leo hewa imekaa sawa, asante.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227664"
+    },
+    {
+      "english": "Kila kitu kina piga, lakini leo tuangalie.",
+      "swahili": "Kila kitu kina piga, lakini leo tuangalie.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227666"
+    },
+    {
+      "english": "Mvua ikishika, usichelewe kufua.",
+      "swahili": "Mvua ikishika, usichelewe kufua.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227669"
+    },
+    {
+      "english": "Hewa ina harufu, labda utabiri unaenda.",
+      "swahili": "Hewa ina harufu, labda utabiri unaenda.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227672"
+    },
+    {
+      "english": "Sijui leo, lakini msimu una mpangilio wake.",
+      "swahili": "Sijui leo, lakini msimu una mpangilio wake.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227675"
+    },
+    {
+      "english": "Ukiwa tayari, hata mvua inakulazimisha kucheka.",
+      "swahili": "Ukiwa tayari, hata mvua inakulazimisha kucheka.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227677"
+    },
+    {
+      "english": "Jua likikaza, maji ya kunywa yatasema.",
+      "swahili": "Jua likikaza, maji ya kunywa yatasema.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227680"
+    },
+    {
+      "english": "Leo si muda wa kuchoka, hewa ipo.",
+      "swahili": "Leo si muda wa kuchoka, hewa ipo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227683"
+    },
+    {
+      "english": "Angalia mawingu, yanacheza kama wachezaji.",
+      "swahili": "Angalia mawingu, yanacheza kama wachezaji.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227685"
+    },
+    {
+      "english": "Wakati wa joto, kila mtu hupata visingizio.",
+      "swahili": "Wakati wa joto, kila mtu hupata visingizio.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227688"
+    },
+    {
+      "english": "Mvua inakuja, lakini usikate tamaa.",
+      "swahili": "Mvua inakuja, lakini usikate tamaa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227691"
+    },
+    {
+      "english": "Ukungu wa asubuhi, huongea kwa kimya.",
+      "swahili": "Ukungu wa asubuhi, huongea kwa kimya.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227694"
+    },
+    {
+      "english": "Jioni hii, hewa ya baharini imenikumbusha.",
+      "swahili": "Jioni hii, hewa ya baharini imenikumbusha.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227696"
+    },
+    {
+      "english": "Leo kuna ukali wa jua, jipange mapema.",
+      "swahili": "Leo kuna ukali wa jua, jipange mapema.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227699"
+    },
+    {
+      "english": "Ukimya wa mawingu, mvua huchelewa kidogo.",
+      "swahili": "Ukimya wa mawingu, mvua huchelewa kidogo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227702"
+    },
+    {
+      "english": "Kama upepo unaongea, sikiliza tu.",
+      "swahili": "Kama upepo unaongea, sikiliza tu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227706"
+    },
+    {
+      "english": "Maji yakiwa mengi, barabara hucheza.",
+      "swahili": "Maji yakiwa mengi, barabara hucheza.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227710"
+    },
+    {
+      "english": "Hali ya hewa leo, usiipime kwa macho.",
+      "swahili": "Hali ya hewa leo, usiipime kwa macho.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227713"
+    },
+    {
+      "english": "Nikiangalia angani, naona mipango ya mvua.",
+      "swahili": "Nikiangalia angani, naona mipango ya mvua.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227715"
+    },
+    {
+      "english": "Leo ni siku ya kubahatisha, si lazima.",
+      "swahili": "Leo ni siku ya kubahatisha, si lazima.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227718"
+    },
+    {
+      "english": "Tusubiri kidogo, mvua ina ratiba yake.",
+      "swahili": "Tusubiri kidogo, mvua ina ratiba yake.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227720"
+    },
+    {
+      "english": "Leo hakuna maneno, hewa tu imesimama.",
+      "swahili": "Leo hakuna maneno, hewa tu imesimama.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227723"
+    },
+    {
+      "english": "I’m feeling cautious, the sky looks heavy.",
+      "swahili": "Nina tahadhari, mbingu inaonekana nzito.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227726"
+    },
+    {
+      "english": "Honestly, I enjoy calm weather, it helps me think.",
+      "swahili": "Kwa uaminifu, napenda hali tulivu, hunisaidia kufikiri.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227730"
+    },
+    {
+      "english": "If it clouds up, I’ll stay patient, slowly.",
+      "swahili": "Mawingu yakizidi, nitakuwa na subira, taratibu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227733"
+    },
+    {
+      "english": "Today’s air feels fresh, I needed this.",
+      "swahili": "Hewa ya leo inanipa ubaridi, nilihitaji.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227737"
+    },
+    {
+      "english": "The wind is cool, I feel lighter.",
+      "swahili": "Upepo ni baridi, naihisi mwanga moyoni.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227739"
+    },
+    {
+      "english": "I’m trying to breathe easy, even with humidity.",
+      "swahili": "Najaribu kupumua taratibu, hata kwa ukungu-hewa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227743"
+    },
+    {
+      "english": "Honestly, rain makes me slow down inside.",
+      "swahili": "Kweli, mvua hunifanya nipunguze mwendo moyoni.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227745"
+    },
+    {
+      "english": "If the heat climbs, I’ll take it step by step.",
+      "swahili": "Joto likipanda, nitachukua hatua moja moja.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227749"
+    },
+    {
+      "english": "That thunder sounds far, I’ll stay calm.",
+      "swahili": "Ngurumo ile inaonekana mbali, nitabaki tulivu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227752"
+    },
+    {
+      "english": "I don’t like rushing when clouds gather.",
+      "swahili": "Sipendi kukimbilia mawingu yanapokusanyika.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227755"
+    },
+    {
+      "english": "Let me be real, I’m waiting for better light.",
+      "swahili": "Wacha nizungumze kweli, nahitaji mwanga uboreshwe.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227758"
+    },
+    {
+      "english": "This mist makes me miss home, softly.",
+      "swahili": "Ukungu huu hunifanya nikikumbuka nyumbani, polepole.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227761"
+    },
+    {
+      "english": "I’m grateful, the breeze is not too strong.",
+      "swahili": "Ninashukuru, upepo hauji kwa nguvu sana.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227764"
+    },
+    {
+      "english": "When the sun returns, I feel hopeful again.",
+      "swahili": "Jua likirudi, naanza kupata matumaini.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227767"
+    },
+    {
+      "english": "I’m choosing patience, storms pass eventually.",
+      "swahili": "Nnachagua subira, dhoruba hupita tu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227770"
+    },
+    {
+      "english": "The sky is changing, so I’ll stay flexible.",
+      "swahili": "Mbingu ina badilika, nitaendelea kubadilika.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227774"
+    },
+    {
+      "english": "I’m not overthinking, just watching the wind.",
+      "swahili": "Sichangamani sana, naangalia tu upepo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227777"
+    },
+    {
+      "english": "Even small rain feels like a fresh start.",
+      "swahili": "Hata mvua ndogo inaonekana kama mwanzo mpya.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227779"
+    },
+    {
+      "english": "If the sky opens, I’ll go out later.",
+      "swahili": "Ikiwa mawingu yatapungua, nitakwenda baadae.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227783"
+    },
+    {
+      "english": "I can feel the season changing, slowly.",
+      "swahili": "Naona msimu unabadilika, taratibu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227785"
+    },
+    {
+      "english": "I’ll keep my plans light, just in case.",
+      "swahili": "Nitaweka mipango mepesi, kwa tahadhari.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227788"
+    },
+    {
+      "english": "Today I feel grounded, the weather helps.",
+      "swahili": "Leo nahisi utulivu, hali ya hewa inasaidia.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227798"
+    },
+    {
+      "english": "I don’t need perfect weather, just peace.",
+      "swahili": "Sihitaji hali nzuri kabisa, ninahitaji amani.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227801"
+    },
+    {
+      "english": "If the sun hides, I’ll still move forward.",
+      "swahili": "Jua likificha, nitakwenda mbele hata hivyo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227804"
+    },
+    {
+      "english": "I’m listening to the clouds, they speak quietly.",
+      "swahili": "Nawasikiliza mawingu, yanazungumza kwa upole.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227808"
+    },
+    {
+      "english": "This damp feeling makes me want to rest.",
+      "swahili": "Unyevunyevu huu hunifanya nitake kupumzika.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227812"
+    },
+    {
+      "english": "I’m okay waiting, weather changes our pace.",
+      "swahili": "Niko sawa kusubiri, hali ya hewa hubadilisha mwendo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227816"
+    },
+    {
+      "english": "When storms come, I remind myself to be safe.",
+      "swahili": "Dhoruba zikija, najiambia kuwa ni salama.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227818"
+    },
+    {
+      "english": "I hope the rain stays gentle, not harsh.",
+      "swahili": "Natumai mvua iwe laini, isiwe kali.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-05T10:39:16.227821"
     }
   ],
-  "last_updated": "2026-11-04T10:44:30.024423"
+  "last_updated": "2026-11-05T10:39:16.227823"
 }
