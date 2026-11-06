@@ -8639,7 +8639,727 @@
       "swahili": "Natumai mvua iwe laini, isiwe kali.",
       "category": "Weather & Small Talk",
       "generated_at": "2026-11-05T10:39:16.227821"
+    },
+    {
+      "english": "Hi, do you have a menu here?",
+      "swahili": "Habari, mna menyu hapa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.567982"
+    },
+    {
+      "english": "Excuse me, what do you recommend today?",
+      "swahili": "Samahani, mnashauri nini leo?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.567994"
+    },
+    {
+      "english": "How much is this meal, please?",
+      "swahili": "Bei ya chakula hiki ni kiasi gani, tafadhali?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.567998"
+    },
+    {
+      "english": "One portion for me, please.",
+      "swahili": "Nipe sehemu moja, tafadhali.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568001"
+    },
+    {
+      "english": "Can I get it to go?",
+      "swahili": "Naweza kukipata kwa kuchukua?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568004"
+    },
+    {
+      "english": "Is there vegetarian food available?",
+      "swahili": "Mna chakula cha mboga?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568007"
+    },
+    {
+      "english": "No spicy, please, I beg you.",
+      "swahili": "Siwezi pilipili, tafadhali.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568009"
+    },
+    {
+      "english": "Just mild flavor, please.",
+      "swahili": "Ladha ya upole tu, tafadhali.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568015"
+    },
+    {
+      "english": "Do you have it without onions?",
+      "swahili": "Mna bila kitunguu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568018"
+    },
+    {
+      "english": "Can I change it, any adjustments?",
+      "swahili": "Ninaweza kubadilisha, mnafanya marekebisho?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568022"
+    },
+    {
+      "english": "Wait, I’ll decide in a moment.",
+      "swahili": "Subiri kidogo, nitaamua sasa.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568027"
+    },
+    {
+      "english": "I’ll take this one, thanks.",
+      "swahili": "Nitaichukua hii, asante.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568030"
+    },
+    {
+      "english": "Please, I’m ready to order.",
+      "swahili": "Tafadhali, niko tayari kuagiza.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568033"
+    },
+    {
+      "english": "We’re hungry, what’s fast here?",
+      "swahili": "Tumejaa njaa, chakula cha haraka ni kipi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568037"
+    },
+    {
+      "english": "Is this fresh, right now?",
+      "swahili": "Hii ni mpya, sasa hivi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568040"
+    },
+    {
+      "english": "I’ll drink water, please.",
+      "swahili": "Nitajia maji, tafadhali.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568043"
+    },
+    {
+      "english": "Any free refills, do you have?",
+      "swahili": "Mnatoa kujaza tena bila malipo?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568048"
+    },
+    {
+      "english": "Do you accept card payments?",
+      "swahili": "Mnapokea malipo kwa kadi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568050"
+    },
+    {
+      "english": "Can I pay now, please?",
+      "swahili": "Naweza kulipa sasa, tafadhali?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568053"
+    },
+    {
+      "english": "That smells good, I’m impressed!",
+      "swahili": "Inanuka vizuri, nimevutiwa!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568056"
+    },
+    {
+      "english": "Wow, this is delicious!",
+      "swahili": "Mmm, hii ni kitamu sana!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568059"
+    },
+    {
+      "english": "It’s a bit salty, please.",
+      "swahili": "Ni chumvi kidogo, tafadhali.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568062"
+    },
+    {
+      "english": "I think it’s cold, can I fix it?",
+      "swahili": "Nadhani ni baridi, naweza kurudisha?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568066"
+    },
+    {
+      "english": "Sorry, I ordered the wrong thing.",
+      "swahili": "Samahani, nimeagiza kitu kibaya.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568069"
+    },
+    {
+      "english": "Can you bring it again, please?",
+      "swahili": "Mleta tena, tafadhali.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568071"
+    },
+    {
+      "english": "Great, thank you for the quick service.",
+      "swahili": "Nzuri, asante kwa huduma ya haraka.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568074"
+    },
+    {
+      "english": "Excuse me, is there a table available?",
+      "swahili": "Samahani, kuna meza?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568077"
+    },
+    {
+      "english": "Can we sit here, for two people?",
+      "swahili": "Tuketi hapa, kwa watu wawili?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568079"
+    },
+    {
+      "english": "Please bring the bill when ready.",
+      "swahili": "Tafadhali, lete bili ukiwa tayari.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568082"
+    },
+    {
+      "english": "Which dish is best for beginners, hapa?",
+      "swahili": "Ni sahani gani iliyo bora kwa wanaoanza, hapa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568084"
+    },
+    {
+      "english": "Can you explain the sauce, kidogo tu?",
+      "swahili": "Unaweza kunieleza mchuzi huo, kidogo tu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568087"
+    },
+    {
+      "english": "Do you have gluten-free options, tafadhali?",
+      "swahili": "Una vyakula bila gluteni, tafadhali?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568090"
+    },
+    {
+      "english": "What’s the waiting time, approximately, please?",
+      "swahili": "Inachukua muda gani, kwa makadirio, tafadhali?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568094"
+    },
+    {
+      "english": "Is the portion big, or normal size?",
+      "swahili": "Sehemu hiyo ni kubwa, au ni ya kawaida?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568097"
+    },
+    {
+      "english": "If I order now, will it be fast?",
+      "swahili": "Nikiagiza sasa, itakuwa haraka?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568099"
+    },
+    {
+      "english": "What do locals usually choose here, boss?",
+      "swahili": "Watu wa hapa huagiza nini kawaida, rafiki?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568102"
+    },
+    {
+      "english": "Do you have a kids’ meal, please?",
+      "swahili": "Mna chakula cha watoto, tafadhali?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568107"
+    },
+    {
+      "english": "Can I taste first, before deciding?",
+      "swahili": "Naweza kuonja kidogo, kabla sijachagua?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568110"
+    },
+    {
+      "english": "Which drink goes best with this meal?",
+      "swahili": "Kinywaji gani kinaendana vizuri na chakula hiki?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568112"
+    },
+    {
+      "english": "Any special today, like a chef’s pick?",
+      "swahili": "Kuna cha ziada leo, kama pendekezo la mpishi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568116"
+    },
+    {
+      "english": "Are there options without dairy, kabisa?",
+      "swahili": "Kuna vyakula bila maziwa, kabisa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568118"
+    },
+    {
+      "english": "What’s the difference between these two?",
+      "swahili": "Kuna tofauti gani kati ya hizi mbili?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568121"
+    },
+    {
+      "english": "Do you use fresh ingredients, siku hizi?",
+      "swahili": "Mnatumia viambato vipya, siku hizi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568124"
+    },
+    {
+      "english": "How spicy is it, on a scale?",
+      "swahili": "Unaweza kusema ukali wake, kwa kiwango?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568126"
+    },
+    {
+      "english": "If I don’t like it, can I swap?",
+      "swahili": "Nikipenda la, naweza kubadilisha?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568129"
+    },
+    {
+      "english": "Could we have the sauce on the side?",
+      "swahili": "Tunaweza kuomba mchuzi pembeni, tafadhali?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568132"
+    },
+    {
+      "english": "Is there a light option, not heavy?",
+      "swahili": "Kuna kitu cha upole, kisichochosha?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568134"
+    },
+    {
+      "english": "Which plate is filling, for a big appetite?",
+      "swahili": "Ni sahani gani inajaza, kwa tumbo kubwa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568137"
+    },
+    {
+      "english": "Do you have halal meat, right here?",
+      "swahili": "Mna nyama ya halal, hapa hapa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568140"
+    },
+    {
+      "english": "Can I see the portions before ordering?",
+      "swahili": "Naweza kuona ukubwa wa sehemu, kabla kuagiza?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568144"
+    },
+    {
+      "english": "Do you have takeout boxes, inafaa?",
+      "swahili": "Mna vikasha vya kuchukua, inafaa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568147"
+    },
+    {
+      "english": "What do you suggest for rainy days?",
+      "swahili": "Unashauri nini kwa siku za mvua?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568149"
+    },
+    {
+      "english": "Is there a combo deal for two people?",
+      "swahili": "Kuna ofa ya combo kwa wawili, sawa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568152"
+    },
+    {
+      "english": "If we wait, will it still be hot?",
+      "swahili": "Tukisubiri, itabaki moto?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568156"
+    },
+    {
+      "english": "Can you recommend something not too oily?",
+      "swahili": "Unaweza kupendekeza kitu kisicho na mafuta mengi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568159"
+    },
+    {
+      "english": "What comes with it, fries or rice?",
+      "swahili": "Inapokuja na nini, chips au wali?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568161"
+    },
+    {
+      "english": "Do you have a refund policy, just in case?",
+      "swahili": "Mna sera ya kurejesha pesa, kwa tahadhari?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568164"
+    },
+    {
+      "english": "We’re celebrating, can you add a candle?",
+      "swahili": "Tunasherehekea, mnaweza kuongeza mshumaa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568167"
+    },
+    {
+      "english": "Thanks, can we place the order now?",
+      "swahili": "Asante, tuanze kuweka agizo sasa, tafadhali?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568170"
+    },
+    {
+      "english": "Take a breath, choose what you like today",
+      "swahili": "Pumua, chagua kile unachopenda leo",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568172"
+    },
+    {
+      "english": "Confidence is key, order with your gut",
+      "swahili": "Ujasiri ni muhimu, amuru kwa hisia zako",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568175"
+    },
+    {
+      "english": "You’re doing great, let’s try something new",
+      "swahili": "Unafanya vizuri, tujaribu kitu kipya",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568178"
+    },
+    {
+      "english": "No stress, I’ll make the best choice",
+      "swahili": "Hakuna stress, nitachagua kilicho bora",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568182"
+    },
+    {
+      "english": "Small taste first, then you decide calmly",
+      "swahili": "Ladha kidogo kwanza, kisha uamuzi kwa utulivu",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568184"
+    },
+    {
+      "english": "Praise the staff, they’re working hard today",
+      "swahili": "Wapongezeni wafanyakazi, wanajitahidi leo",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568188"
+    },
+    {
+      "english": "Good vibes only, let’s keep it simple",
+      "swahili": "Pongezi na furaha, tuweke rahisi",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568191"
+    },
+    {
+      "english": "You deserve comfort, choose your comfort meal",
+      "swahili": "Unastahili faraja, chagua mlo wa faraja",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568194"
+    },
+    {
+      "english": "Ask kindly, you’ll get the help you need",
+      "swahili": "Uliza kwa adabu, utapata msaada unaohitaji",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568197"
+    },
+    {
+      "english": "Today’s mission, order smart and enjoy",
+      "swahili": "Dhamira ya leo, amuru kwa akili, ufurahie",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568202"
+    },
+    {
+      "english": "I’m learning fast, keep guiding me",
+      "swahili": "Ninaelewa haraka, endeleeni kuniongoza",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568205"
+    },
+    {
+      "english": "It’s okay, we can adjust the order",
+      "swahili": "Sawa, tunaweza kurekebisha agizo",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568208"
+    },
+    {
+      "english": "Stay positive, the food will hit right",
+      "swahili": "Kuwa na mtazamo chanya, chakula kitapendeza",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568211"
+    },
+    {
+      "english": "Your plan matters, pick what you crave",
+      "swahili": "Mpango wako una maana, chagua unachokitamani",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568213"
+    },
+    {
+      "english": "Don’t overthink, just order and enjoy",
+      "swahili": "Usijisumbue sana, amuru tu, ufurahie",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568218"
+    },
+    {
+      "english": "Thanks for the guidance, it helps a lot",
+      "swahili": "Asante kwa maelekezo, yanasaidia sana",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568221"
+    },
+    {
+      "english": "Let’s start easy, one classic choice",
+      "swahili": "Tuanzie rahisi, chaguo la kawaida",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568224"
+    },
+    {
+      "english": "You got this, I’ll follow your recommendation",
+      "swahili": "Unaweza, nitafuata pendekezo lako",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568227"
+    },
+    {
+      "english": "Keep smiling, every order is a win",
+      "swahili": "Endelea kutabasamu, kila agizo ni ushindi",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568230"
+    },
+    {
+      "english": "I appreciate you, thanks for being patient",
+      "swahili": "Na kuthamini, asante kwa uvumilivu",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568233"
+    },
+    {
+      "english": "Think joy, order the meal you love",
+      "swahili": "Fikiria furaha, amuru mlo unaoupenda",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568235"
+    },
+    {
+      "english": "You’re learning well, that’s real progress",
+      "swahili": "Unaendelea kujifunza vizuri, hiyo ni maendeleo",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568239"
+    },
+    {
+      "english": "We’ll taste, we’ll learn, then we decide",
+      "swahili": "Tutajaribu, tutajifunza, kisha tutaamua",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568242"
+    },
+    {
+      "english": "Today feels good, let’s eat together",
+      "swahili": "Leo ina raha, tule chakula pamoja",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568245"
+    },
+    {
+      "english": "Go with the flow, I’ll trust your choice",
+      "swahili": "Nenda kwa mtiririko, nitamwamini uchaguzi wako",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568248"
+    },
+    {
+      "english": "Kind words work, thanks for taking care",
+      "swahili": "Maneno ya fadhili huleta matokeo, asante kwa huduma",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568251"
+    },
+    {
+      "english": "I’m ready, let’s order and enjoy now",
+      "swahili": "Niko tayari, tuamuru sasa, tufurahie",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568254"
+    },
+    {
+      "english": "Gratitude first, you’ll feel even better",
+      "swahili": "Shukrani kwanza, utajisikia vizuri zaidi",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568257"
+    },
+    {
+      "english": "Celebrate small wins, the meal is coming",
+      "swahili": "Sherehekea ushindi mdogo, chakula kinakuja",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568260"
+    },
+    {
+      "english": "Relax, we’ll get it right this time",
+      "swahili": "Tuliza akili, wakati huu tutafanya sawa",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568263"
+    },
+    {
+      "english": "I’m hungry, but I want to choose slowly, okay?",
+      "swahili": "Nina njaa, lakini nataka kuchagua polepole, sawa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568266"
+    },
+    {
+      "english": "Honestly, I’m craving something light, not heavy.",
+      "swahili": "Kwa uaminifu, ninahitaji chakula chepesi, si kizito.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568270"
+    },
+    {
+      "english": "Please, take your time, I’ll wait patiently.",
+      "swahili": "Tafadhali, chukua muda wako, nitangojea kwa subira.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568273"
+    },
+    {
+      "english": "I like it spicy, but not too much, please.",
+      "swahili": "Ninapenda iwe na pilipili kali, lakini si nyingi, tafadhali.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568276"
+    },
+    {
+      "english": "This place feels cozy, I want comfort food tonight.",
+      "swahili": "Mahali hapa ni pa kustarehe, nataka chakula cha faraja leo.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568279"
+    },
+    {
+      "english": "I’m not in a rush, can you explain options?",
+      "swahili": "Siko na haraka, unaweza kueleza chaguo?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568282"
+    },
+    {
+      "english": "I trust you, show me what’s best for me.",
+      "swahili": "Naamini wewe, nionyeshe kilicho bora kwangu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568287"
+    },
+    {
+      "english": "Between us, I want something that tastes fresh.",
+      "swahili": "Kati yetu, nataka kitu kitamu chenye ladha ya ubaridi.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568290"
+    },
+    {
+      "english": "I’m thinking about dessert, what’s your favorite?",
+      "swahili": "Nafikiria dessert, unayopenda zaidi ni ipi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568294"
+    },
+    {
+      "english": "I’ll be honest, I’m sensitive to strong flavors.",
+      "swahili": "Kwa ukweli, naathirika na ladha kali sana.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568297"
+    },
+    {
+      "english": "Can we choose together, I want your vibe.",
+      "swahili": "Tunaweza kuchagua pamoja, nataka hisia zako.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568301"
+    },
+    {
+      "english": "Wait, let me think, what sounds safest for my stomach?",
+      "swahili": "Subiri, niwaze kwanza, ni kipi salama kwa tumbo langu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568304"
+    },
+    {
+      "english": "I don’t want it too salty, can we keep it balanced?",
+      "swahili": "Sitaki iwe na chumvi nyingi, tuwe na usawa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568308"
+    },
+    {
+      "english": "I’m feeling nostalgic, can you suggest a classic?",
+      "swahili": "Nina hisia za zamani, unapendekeza classic gani?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568316"
+    },
+    {
+      "english": "I’ll try anything, as long as it’s not messy.",
+      "swahili": "Nitajaribu chochote, mradi kisichaweki.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568320"
+    },
+    {
+      "english": "I want it slow, so I enjoy the moment fully.",
+      "swahili": "Nataka iwe taratibu, ili niifurahi kabisa wakati huu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568323"
+    },
+    {
+      "english": "If it’s possible, give me mild spice options.",
+      "swahili": "Kama inawezekana, nipatie chaguo la pilipili kidogo.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568326"
+    },
+    {
+      "english": "I’m nervous about ordering, but you’re calming me.",
+      "swahili": "Nina woga wa kuagiza, lakini unanituliza.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568330"
+    },
+    {
+      "english": "Tell me the truth, what’s actually filling here?",
+      "swahili": "Niambie ukweli, ni nini kinachojaza kweli hapa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568333"
+    },
+    {
+      "english": "I’m in a soft mood, I want something sweet.",
+      "swahili": "Niko kwenye hisia za upole, nataka kitu kitamu tamu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568336"
+    },
+    {
+      "english": "Please don’t rush, I’m still deciding between two.",
+      "swahili": "Tafadhali usiniharakishe, bado naamua kati ya mawili.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568340"
+    },
+    {
+      "english": "I’m grateful, this menu feels like a safe choice.",
+      "swahili": "Na-shukuru, menyu hii inaonekana kama chaguo salama.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568343"
+    },
+    {
+      "english": "I want to treat myself, what’s your best meal?",
+      "swahili": "Nataka kujitendea, ni mlo gani bora kwenu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568346"
+    },
+    {
+      "english": "I’m learning, so keep it simple for me, please.",
+      "swahili": "Na-jifunza, kwa hiyo kiwe rahisi kwangu, tafadhali.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568349"
+    },
+    {
+      "english": "I’ll go with you, your judgment always feels right.",
+      "swahili": "Nitafuata wewe, hukumu yako huwa sahihi.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568353"
+    },
+    {
+      "english": "Tonight I need peace, surprise me with something calm.",
+      "swahili": "Leo usiku nahitaji amani, nifurahishe kwa kitu tulivu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568355"
+    },
+    {
+      "english": "I don’t want drama, just give me exactly what I ask.",
+      "swahili": "Sihitaji ugomvi, nipe tu nilichoomba.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568359"
+    },
+    {
+      "english": "Before we finalize, what’s the wait time today?",
+      "swahili": "Kabla hatujaamua, muda wa kusubiri ni wa muda gani leo?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568362"
+    },
+    {
+      "english": "I’m grateful for your honesty, that helps me decide.",
+      "swahili": "Na-shukuru kwa uaminifu wako, inanisaidia kuamua.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568365"
+    },
+    {
+      "english": "Quick question, do you have vegetarian options?",
+      "swahili": "Swali fupi, mnalo chakula cha mboga?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568368"
+    },
+    {
+      "english": "Can I get it to-go, please, no utensils?",
+      "swahili": "Naomba nikipewe niende nacho, bila vyombo, tafadhali.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-06T10:40:05.568371"
     }
   ],
-  "last_updated": "2026-11-05T10:39:16.227823"
+  "last_updated": "2026-11-06T10:40:05.568373"
 }
