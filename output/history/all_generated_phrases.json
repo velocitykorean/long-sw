@@ -9359,7 +9359,727 @@
       "swahili": "Naomba nikipewe niende nacho, bila vyombo, tafadhali.",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-11-06T10:40:05.568371"
+    },
+    {
+      "english": "Okay, polepole, tuanze pole kwa pole",
+      "swahili": "Sawa, polepole, tuanze pole kwa pole",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394534"
+    },
+    {
+      "english": "Nice, asante, nimepata wazo",
+      "swahili": "Nzuri, asante, nimepata wazo",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394547"
+    },
+    {
+      "english": "Wait, subiri kidogo, najielekeza",
+      "swahili": "Subiri kidogo, najielekeza",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394551"
+    },
+    {
+      "english": "Good, sawa kabisa, tunaendelea",
+      "swahili": "Sawa kabisa, tunaendelea",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394553"
+    },
+    {
+      "english": "Really? Ndio kweli, hebu tujaribu",
+      "swahili": "Kweli? Ndio kweli, hebu tujaribu",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394556"
+    },
+    {
+      "english": "Tell me, unaweza kueleza vizuri?",
+      "swahili": "Niambie, unaweza kueleza vizuri?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394559"
+    },
+    {
+      "english": "No problem, sawa tu, usijali",
+      "swahili": "Haina shida, sawa tu, usijali",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394564"
+    },
+    {
+      "english": "I’m learning, naendelea taratibu",
+      "swahili": "Naendelea kujifunza, taratibu",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394570"
+    },
+    {
+      "english": "Smart, hiyo ni plan nzuri",
+      "swahili": "Hiyo ni plan nzuri",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394574"
+    },
+    {
+      "english": "Great, karibu, tuko pamoja",
+      "swahili": "Nzuri, karibu, tuko pamoja",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394576"
+    },
+    {
+      "english": "Oops, pole kidogo, nimesahau",
+      "swahili": "Pole kidogo, nimesahau",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394579"
+    },
+    {
+      "english": "Let’s go, twende sasa hivi",
+      "swahili": "Twende sasa hivi",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394582"
+    },
+    {
+      "english": "Slow down, taratibu, usikimbilie",
+      "swahili": "Taratibu, usikimbilie",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394585"
+    },
+    {
+      "english": "That’s it, sawa, tumeanza vizuri",
+      "swahili": "Hapo ndipo, sawa, tumeanza vizuri",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394588"
+    },
+    {
+      "english": "Hmm, sawa, naelewa kidogo",
+      "swahili": "Aha, sawa, naelewa kidogo",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394591"
+    },
+    {
+      "english": "Okay, naomba hiyo tena, tafadhali",
+      "swahili": "Sawa, naomba hiyo tena, tafadhali",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394594"
+    },
+    {
+      "english": "How much, bei gani, naweza kujua?",
+      "swahili": "Bei gani, naweza kujua?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394596"
+    },
+    {
+      "english": "Where is it, iko wapi karibu?",
+      "swahili": "Iko wapi karibu?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394601"
+    },
+    {
+      "english": "I agree, sawa, tuende kwa hilo",
+      "swahili": "Ninakubaliana, sawa, tuende kwa hilo",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394604"
+    },
+    {
+      "english": "I think so, labda ndiyo, tujaribu",
+      "swahili": "Nadhani ndiyo, labda, tujaribu",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394606"
+    },
+    {
+      "english": "Let’s practice, sema polepole, tafadhali",
+      "swahili": "Tuige, sema polepole, tafadhali",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394610"
+    },
+    {
+      "english": "Good job, umejitahidi, endelea hivyo",
+      "swahili": "Hongera, umejitahidi, endelea hivyo",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394612"
+    },
+    {
+      "english": "Back again, tuone tena kesho",
+      "swahili": "Rudi tena, tuonane kesho",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394615"
+    },
+    {
+      "english": "I’m ready, niko tayari, tuanze",
+      "swahili": "Niko tayari, tuanze",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394618"
+    },
+    {
+      "english": "Be careful, pole na usalama kwanza",
+      "swahili": "Jihadhari, pole na usalama kwanza",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394620"
+    },
+    {
+      "english": "That’s helpful, asante, imenisaidia sana",
+      "swahili": "Asante, imenisaidia sana",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394625"
+    },
+    {
+      "english": "Not yet, bado, nitarudi baadae",
+      "swahili": "Bado, nitarudi baadaye",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394628"
+    },
+    {
+      "english": "Finally, tumeweka sawa, hebu tuendelee",
+      "swahili": "Hatimaye, tumepanga sawa, tuendelee",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394630"
+    },
+    {
+      "english": "Any ideas, una mapendekezo?",
+      "swahili": "Una mawazo gani, mapendekezo?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394633"
+    },
+    {
+      "english": "Let it grow, polepole inakua vizuri",
+      "swahili": "Kukua taratibu, polepole inakua vizuri",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394635"
+    },
+    {
+      "english": "What’s your best tip, for beginners?",
+      "swahili": "Ushauri wako mzuri, kwa wanaoanza ni upi?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394638"
+    },
+    {
+      "english": "How do you keep motivated, daily?",
+      "swahili": "Unajiweka vipi, motisha kila siku?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394641"
+    },
+    {
+      "english": "Can we talk, about your goals today?",
+      "swahili": "Tunaweza kuzungumza, kuhusu malengo yako leo?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394644"
+    },
+    {
+      "english": "Which habit helped you, most so far?",
+      "swahili": "Tabia gani, imekusaidia zaidi hadi sasa?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394647"
+    },
+    {
+      "english": "What should I focus on, this week?",
+      "swahili": "Nifanye nini hasa, wiki hii?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394649"
+    },
+    {
+      "english": "Could you explain that, step by step?",
+      "swahili": "Unaweza kueleza, hatua kwa hatua?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394652"
+    },
+    {
+      "english": "What question should I ask, right now?",
+      "swahili": "Nini nikiuliza, sasa hivi ni swali gani?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394655"
+    },
+    {
+      "english": "How did you start, when you felt stuck?",
+      "swahili": "Uliianzaje, ulipojiona umekwama?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394659"
+    },
+    {
+      "english": "Do you prefer planning, or action first?",
+      "swahili": "Unapendelea kupanga, au kuanza kufanya kwanza?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394662"
+    },
+    {
+      "english": "What’s your routine, before work starts?",
+      "swahili": "Utaratibu wako, kabla ya kazi kuanza ni upi?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394665"
+    },
+    {
+      "english": "Can you give me an example, please?",
+      "swahili": "Unaweza kunipa mfano, tafadhali?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394668"
+    },
+    {
+      "english": "How do you stay consistent, even when busy?",
+      "swahili": "Unadumishaje nidhamu, hata ukiwa na shughuli?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394671"
+    },
+    {
+      "english": "What’s your next step, after this conversation?",
+      "swahili": "Hatua yako inayofuata, baada ya mazungumzo haya ni ipi?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394674"
+    },
+    {
+      "english": "Should I set goals, or just learn daily?",
+      "swahili": "Nifanye nini, niweke malengo au nijifunze kila siku?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394677"
+    },
+    {
+      "english": "What resource do you trust, for learning?",
+      "swahili": "Unatumia rasilimali gani, unayoamini kujifunza?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394680"
+    },
+    {
+      "english": "How do you measure progress, week by week?",
+      "swahili": "Unapimaje maendeleo, kila wiki?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394684"
+    },
+    {
+      "english": "Can you ask me a question, too?",
+      "swahili": "Unaweza kuniuliza swali, wewe pia?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394687"
+    },
+    {
+      "english": "What do you wish you knew, earlier?",
+      "swahili": "Kuna kitu gani, ungependa kujua mapema?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394689"
+    },
+    {
+      "english": "Where do you look for advice, most?",
+      "swahili": "Ushauri unatafuta wapi, mara nyingi?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394692"
+    },
+    {
+      "english": "Should we start small, or jump in?",
+      "swahili": "Tuanze kidogo, au tuanze kwa nguvu?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394696"
+    },
+    {
+      "english": "How can I improve, in a simple way?",
+      "swahili": "Ninawezaje kuboresha, kwa njia rahisi?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394699"
+    },
+    {
+      "english": "What’s your biggest lesson, from failure?",
+      "swahili": "Umejifunza nini kikubwa, kutokana na kushindwa?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394702"
+    },
+    {
+      "english": "Do you want feedback, or space to try?",
+      "swahili": "Unapenda mrejesho, au nafasi ya kujaribu?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394704"
+    },
+    {
+      "english": "What happens if you miss a day?",
+      "swahili": "Ukikosa siku moja, unafanya nini?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394707"
+    },
+    {
+      "english": "Can we set a target, for tomorrow?",
+      "swahili": "Tuweke lengo, la kesho?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394709"
+    },
+    {
+      "english": "Why did that work, for you specifically?",
+      "swahili": "Kwa nini hilo lilikufaa, hasa wewe?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394712"
+    },
+    {
+      "english": "What’s your question about growth, today?",
+      "swahili": "Swali lako kuhusu ukuaji, leo ni lipi?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394715"
+    },
+    {
+      "english": "Let’s check, what we’ll do next.",
+      "swahili": "Tuangalie, tutafanya nini baadaye.",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394719"
+    },
+    {
+      "english": "Keep going, even small wins matter",
+      "swahili": "Endelea, hata ushindi mdogo una maana",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394721"
+    },
+    {
+      "english": "Today is practice, not perfection, relax",
+      "swahili": "Leo ni mazoezi, si ukamilifu, pumua",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394724"
+    },
+    {
+      "english": "Mistakes are data, not your enemy",
+      "swahili": "Makosa ni data, si adui yako",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394728"
+    },
+    {
+      "english": "You’ve got this, try again, no drama",
+      "swahili": "Unaweza, jaribu tena, bila shida",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394732"
+    },
+    {
+      "english": "Tell yourself, I’m learning, every day",
+      "swahili": "Jiseme, na-na-jifunza, kila siku",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394735"
+    },
+    {
+      "english": "Don’t quit, your future self is watching",
+      "swahili": "Usikate tamaa, yeye wa kesho anakuangalia",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394738"
+    },
+    {
+      "english": "One more effort, then celebrate yourself",
+      "swahili": "Jaribu kidogo zaidi, halafu ujisifu",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394741"
+    },
+    {
+      "english": "Be proud of effort, not just results",
+      "swahili": "Kuwa na kiburi na juhudi, si matokeo tu",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394744"
+    },
+    {
+      "english": "Small steps, big mindset, you’ll get it",
+      "swahili": "Hatua ndogo, mtazamo mkubwa, utaifaulu",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394747"
+    },
+    {
+      "english": "When you’re stuck, breathe, then continue",
+      "swahili": "Ukikwama, pumua, halafu endelea",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394751"
+    },
+    {
+      "english": "Confidence comes after consistency, not before",
+      "swahili": "Ujasiri huja baada ya kuendelea, si kabla",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394753"
+    },
+    {
+      "english": "You’re not behind, you’re building slowly",
+      "swahili": "Huko nyuma siyo, unaimarisha taratibu",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394756"
+    },
+    {
+      "english": "Focus on the next word, not the whole",
+      "swahili": "Lenga neno linalofuata, si yote",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394759"
+    },
+    {
+      "english": "Say it again, your brain loves repetition",
+      "swahili": "Iseme tena, ubongo unapenda kurudia",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394762"
+    },
+    {
+      "english": "Progress check: what did you learn today?",
+      "swahili": "Angalia maendeleo, umejifunza nini leo?",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394764"
+    },
+    {
+      "english": "Be kind to yourself, you’re doing your best",
+      "swahili": "Jipe upendo, unafanya kadri ya uwezo wako",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394768"
+    },
+    {
+      "english": "If you fail, learn fast, then adapt",
+      "swahili": "Ukishindwa, jifunze haraka, kisha rekebisha",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394770"
+    },
+    {
+      "english": "Keep the vibe positive, even when learning",
+      "swahili": "Weka hali chanya, hata unapojifunza",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394773"
+    },
+    {
+      "english": "Your effort is loud, results will follow",
+      "swahili": "Juhudi zako ni sauti kubwa, matokeo yatafuata",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394776"
+    },
+    {
+      "english": "Ask, try, adjust, that’s growth mode",
+      "swahili": "Uliza, jaribu, rekebisha, hiyo ndiyo ukuaji",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394779"
+    },
+    {
+      "english": "You speak today, you’ll improve tomorrow",
+      "swahili": "Unaongea leo, uboreshe kesho",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394782"
+    },
+    {
+      "english": "Reward yourself, tiny wins build big courage",
+      "swahili": "Jipe zawadi, ushindi mdogo hujenga ujasiri mkubwa",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394785"
+    },
+    {
+      "english": "Don’t wait for perfect, start messy",
+      "swahili": "Usingoje ukamilifu, anza ukiwa na makosa kidogo",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394788"
+    },
+    {
+      "english": "You’re allowed to be a beginner",
+      "swahili": "Una ruhusa kuwa mwanafunzi wa mwanzo",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394793"
+    },
+    {
+      "english": "Celebrate each attempt, that’s how you win",
+      "swahili": "Sherehekea kila jaribio, ndiyo ushindi",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394796"
+    },
+    {
+      "english": "When doubt comes, speak anyway",
+      "swahili": "Ukituliaza shaka, sema hata hivyo",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394801"
+    },
+    {
+      "english": "Make your brain proud, one sentence at a time",
+      "swahili": "Fanya ubongo ujivunie, sentensi moja moja",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394803"
+    },
+    {
+      "english": "Progress loves a plan, but movement wins",
+      "swahili": "Maendeleo yanapenda mpango, lakini hatua hushinda",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394806"
+    },
+    {
+      "english": "Today you show up, that’s enough",
+      "swahili": "Leo umejitokeza, inatosha",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394809"
+    },
+    {
+      "english": "I’m scared, but I’m still showing up",
+      "swahili": "Nina hofu, lakini bado naendelea kuonyesha",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394812"
+    },
+    {
+      "english": "Be honest, I need time to adjust",
+      "swahili": "Ukweli tu, nahitaji muda wa kuzoea",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394815"
+    },
+    {
+      "english": "My feelings are real, so I pause",
+      "swahili": "Hisia zangu ni za kweli, kwa hiyo nasimama",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394817"
+    },
+    {
+      "english": "I don’t rush, I grow at my pace",
+      "swahili": "Sikimbii, nakua kwa kasi yangu",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394820"
+    },
+    {
+      "english": "Today I forgive myself for the slow parts",
+      "swahili": "Leo najisamehe kwa sehemu za taratibu",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394822"
+    },
+    {
+      "english": "What I learn hurts a little, then heals",
+      "swahili": "Kile ninachojifunza huuma kidogo, kisha huponya",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394825"
+    },
+    {
+      "english": "I’m tired, but I still practice one thing",
+      "swahili": "Nimechoka, lakini napenda kufanya zoezi moja",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394828"
+    },
+    {
+      "english": "I notice my thoughts, then choose kinder words",
+      "swahili": "Nafanya uchunguzi wa mawazo yangu, kisha chagua maneno laini",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394830"
+    },
+    {
+      "english": "I can’t control everything, but I can try",
+      "swahili": "Siwezi kudhibiti kila kitu, lakini naweza kujaribu",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394833"
+    },
+    {
+      "english": "I feel stuck, so I change one habit",
+      "swahili": "Ninahisi nimekwama, kwa hiyo naubadilisha tabia moja",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394836"
+    },
+    {
+      "english": "Slow progress still counts, it’s progress",
+      "swahili": "Maendeleo ya taratibu bado huhesabika, ni maendeleo",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394839"
+    },
+    {
+      "english": "I keep promises to myself, quietly",
+      "swahili": "Natekeleza ahadi kwa nafsi yangu, kwa utulivu",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394842"
+    },
+    {
+      "english": "I don’t need motivation all day, just now",
+      "swahili": "Sihitaji motisha siku nzima, sasa tu",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394845"
+    },
+    {
+      "english": "When I compare, I breathe, then return",
+      "swahili": "Nikilinganisha, napumua, kisha narudi",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394848"
+    },
+    {
+      "english": "I’m learning to be patient with mistakes",
+      "swahili": "Najifunza kuwa na subira na makosa",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394851"
+    },
+    {
+      "english": "I choose effort, even when my mood dips",
+      "swahili": "Nachagua juhudi, hata mood ikishuka",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394853"
+    },
+    {
+      "english": "My confidence grows when I act small",
+      "swahili": "Ujasiri wangu hukua nikifanya kidogo",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394856"
+    },
+    {
+      "english": "Sometimes I need rest, that’s strategy",
+      "swahili": "Wakati mwingine ninahitaji kupumzika, hiyo ni mkakati",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394859"
+    },
+    {
+      "english": "I’m proud of showing up, not winning",
+      "swahili": "Nina kiburi cha kuonekana, si kushinda tu",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394862"
+    },
+    {
+      "english": "Be kind, your brain learns through repetition",
+      "swahili": "Kuwa mpole, ubongo wako hujifunza kwa kurudia",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394864"
+    },
+    {
+      "english": "I write my feelings, so thoughts get clearer",
+      "swahili": "Naandika hisia zangu, mawazo yanakuwa wazi",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394867"
+    },
+    {
+      "english": "I trust the process, even if it’s messy",
+      "swahili": "Naamini mchakato, hata ukiwa na fujo",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394872"
+    },
+    {
+      "english": "I forgive my tongue, it trips sometimes",
+      "swahili": "Naisamehe ulimi wangu, hujikwaa wakati mwingine",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394876"
+    },
+    {
+      "english": "My best teacher is my real life",
+      "swahili": "Mwalimu wangu bora ni maisha yangu halisi",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394878"
+    },
+    {
+      "english": "I ask for help, then I keep going",
+      "swahili": "Nauliza msaada, kisha naendelea",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394881"
+    },
+    {
+      "english": "Even silence teaches me, I listen first",
+      "swahili": "Hata ukimya hunifundisha, nasikiliza kwanza",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394885"
+    },
+    {
+      "english": "I’m not behind, I’m building my skill",
+      "swahili": "Siko nyuma, naijenga ustadi wangu",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394889"
+    },
+    {
+      "english": "I let go of shame, I choose growth",
+      "swahili": "Ninaacha aibu, nachagua ukuaji",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394891"
+    },
+    {
+      "english": "I check in with myself, then adjust gently",
+      "swahili": "Najiangalia mimi mwenyewe, kisha kurekebisha taratibu",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394894"
+    },
+    {
+      "english": "If it’s hard, that means it matters",
+      "swahili": "Kama ni ngumu, ina maana ni muhimu",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394897"
+    },
+    {
+      "english": "Say hello first, break the ice gently",
+      "swahili": "Salimiana kwanza, vunja ukimya kwa upole",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394899"
+    },
+    {
+      "english": "If you forget, just smile and continue",
+      "swahili": "Ukisahau, tabasamu tu, uendelee",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394902"
+    },
+    {
+      "english": "Ask for directions, then repeat the street name",
+      "swahili": "Uliza njia, kisha urudie jina la barabara",
+      "category": "Growth",
+      "generated_at": "2026-11-07T09:51:24.394904"
     }
   ],
-  "last_updated": "2026-11-06T10:40:05.568373"
+  "last_updated": "2026-11-07T09:51:24.394906"
 }
