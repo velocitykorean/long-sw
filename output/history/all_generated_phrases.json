@@ -10079,7 +10079,727 @@
       "swahili": "Uliza njia, kisha urudie jina la barabara",
       "category": "Growth",
       "generated_at": "2026-11-07T09:51:24.394904"
+    },
+    {
+      "english": "Let’s warm up, then we go",
+      "swahili": "Tuimarishe mwili kwanza, kisha tuanze",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864539"
+    },
+    {
+      "english": "I’m tired, but I’ll push through",
+      "swahili": "Nimechoka, lakini nitaendelea",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864553"
+    },
+    {
+      "english": "Nice reps, keep the pace",
+      "swahili": "Vizuri, endelea na mwendo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864557"
+    },
+    {
+      "english": "Breathe in, relax your shoulders",
+      "swahili": "Vuta pumzi, legeza mabega",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864559"
+    },
+    {
+      "english": "Slow down, don’t rush",
+      "swahili": "Polepole, usikimbilie",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864563"
+    },
+    {
+      "english": "Good form, don’t cheat",
+      "swahili": "Umefanya vizuri, usidanganye",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864566"
+    },
+    {
+      "english": "Water first, then start training",
+      "swahili": "Maji kwanza, kisha aanza mazoezi",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864569"
+    },
+    {
+      "english": "Ouch! That hurts, stop now",
+      "swahili": "Ai! Inauma, simama sasa",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864574"
+    },
+    {
+      "english": "No pain, but careful, please",
+      "swahili": "Hakuna maumivu, lakini kuwa makini",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864578"
+    },
+    {
+      "english": "Your turn, go for it",
+      "swahili": "Ni zamu yako, endelea",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864581"
+    },
+    {
+      "english": "Hold it there, don’t move",
+      "swahili": "Shikilia hapo, usisogee",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864584"
+    },
+    {
+      "english": "That’s enough for today, rest",
+      "swahili": "Hiyo ya kutosha leo, pumzika",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864587"
+    },
+    {
+      "english": "Let’s stretch, it helps",
+      "swahili": "Tu-tan-uli-e, inasaidia",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864590"
+    },
+    {
+      "english": "I can’t, it’s too heavy",
+      "swahili": "Siwezi, ni nzito sana",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864594"
+    },
+    {
+      "english": "Keep your back straight, please",
+      "swahili": "Ushike mgongo sawa, tafadhali",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864596"
+    },
+    {
+      "english": "We’re almost there, don’t quit",
+      "swahili": "Tuko karibu, usiache",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864600"
+    },
+    {
+      "english": "That was close, good save",
+      "swahili": "Iligonga kidogo, hongera kwa kuokoa",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864602"
+    },
+    {
+      "english": "Nice pass, keep it moving",
+      "swahili": "Pasi nzuri, endelea kusonga",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864604"
+    },
+    {
+      "english": "I’ll sit out, I’m not feeling well",
+      "swahili": "Nita kaa nje, sijisikii vizuri",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864608"
+    },
+    {
+      "english": "Again, do it one more time",
+      "swahili": "Tena, fanya mara nyingine",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864610"
+    },
+    {
+      "english": "Switch sides, change the angle",
+      "swahili": "Badili upande, badilisha mwelekeo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864613"
+    },
+    {
+      "english": "Great hustle, you’re improving",
+      "swahili": "Pole, unaimarika",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864616"
+    },
+    {
+      "english": "Score kwa timu, tuongeze",
+      "swahili": "Piga bao timu, tu-sogeze",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864618"
+    },
+    {
+      "english": "Careful, the floor is slippery",
+      "swahili": "Tahadhari, sakafu ni telezi",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864623"
+    },
+    {
+      "english": "I’m warming up, give me time",
+      "swahili": "Ninaanza kujiandaa, nipe muda",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864626"
+    },
+    {
+      "english": "Quick stretch, then we start",
+      "swahili": "Kunyoosha kidogo, kisha tuanze",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864628"
+    },
+    {
+      "english": "That burn is normal, keep going",
+      "swahili": "Kuchoma huko ni kawaida, endelea",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864633"
+    },
+    {
+      "english": "Relax, it’s just a light workout",
+      "swahili": "Pumzika, ni mazoezi mepesi tu",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864637"
+    },
+    {
+      "english": "I’m done, let’s cool down now",
+      "swahili": "Nimefika mwisho, tu-poe sasa",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864641"
+    },
+    {
+      "english": "Can you show me that exercise, please?",
+      "swahili": "Unaweza kunionyesha zoezi hilo, tafadhali?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864643"
+    },
+    {
+      "english": "Which warm-up is best for my goal?",
+      "swahili": "Mwanzo gani ni bora kwa lengo langu?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864646"
+    },
+    {
+      "english": "How many sets do you recommend today?",
+      "swahili": "Unaona tufanye sets ngapi leo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864649"
+    },
+    {
+      "english": "What should I focus on during this workout?",
+      "swahili": "Napaswa kuzingatia nini wakati wa mazoezi haya?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864652"
+    },
+    {
+      "english": "Do I move faster, or stay controlled?",
+      "swahili": "Nisonge kwa kasi zaidi, au nichunge mwendo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864654"
+    },
+    {
+      "english": "Is it okay if I use lighter weights?",
+      "swahili": "Ni sawa nikatumia uzito mwepesi?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864657"
+    },
+    {
+      "english": "Should I rest longer between rounds?",
+      "swahili": "Nipumzike muda mrefu zaidi kati ya raundi?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864659"
+    },
+    {
+      "english": "What’s your favorite cardio workout, and why?",
+      "swahili": "Zoezi gani la cardio unalopenda, na kwa nini?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864663"
+    },
+    {
+      "english": "How do I avoid cramps during training?",
+      "swahili": "Ninaepukaje kukakamaa wakati wa mazoezi?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864667"
+    },
+    {
+      "english": "Can you tell me my heart-rate target?",
+      "swahili": "Unaweza kuniambia kiwango cha mapigo ya moyo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864670"
+    },
+    {
+      "english": "What time do you train, mornings or evenings?",
+      "swahili": "Unapiga mazoezi saa ngapi, asubuhi au jioni?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864672"
+    },
+    {
+      "english": "Do you stretch before, or after workouts?",
+      "swahili": "Unanyosha kabla, au baada ya mazoezi?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864675"
+    },
+    {
+      "english": "Should I drink water during breaks, too?",
+      "swahili": "Ninywe maji hata wakati wa mapumziko?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864678"
+    },
+    {
+      "english": "Which sport helps build core strength most?",
+      "swahili": "Ni mchezo gani hujenga nguvu za tumbo vizuri?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864680"
+    },
+    {
+      "english": "How often should I work out this week?",
+      "swahili": "Nifanye mazoezi mara ngapi wiki hii?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864683"
+    },
+    {
+      "english": "Is my technique improving, compared to last week?",
+      "swahili": "Mbinu yangu inaongezeka, ikilinganishwa na wiki jana?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864685"
+    },
+    {
+      "english": "What recovery routine do you follow after sessions?",
+      "swahili": "Baada ya mazoezi, unafuata utaratibu gani wa kupona?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864688"
+    },
+    {
+      "english": "Can I join your training session today?",
+      "swahili": "Naweza kujiunga na mazoezi yako leo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864701"
+    },
+    {
+      "english": "Where do you keep the gym shoes?",
+      "swahili": "Unaweka viatu vya mazoezi wapi?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864704"
+    },
+    {
+      "english": "Which direction should I run for better stamina?",
+      "swahili": "Ni mwelekeo gani nifanye kukimbia kwa stamina?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864707"
+    },
+    {
+      "english": "What’s the safest way to increase my reps?",
+      "swahili": "Njia salama zaidi ya kuongeza reps ni ipi?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864710"
+    },
+    {
+      "english": "Are you coaching, or just training today?",
+      "swahili": "Unafundisha, au unajitahidi tu leo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864713"
+    },
+    {
+      "english": "Should I count reps slowly, or normally?",
+      "swahili": "Nihesabu reps polepole, au kwa kawaida?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864715"
+    },
+    {
+      "english": "How can I improve my passing accuracy?",
+      "swahili": "Ninawezaje kuboresha usahihi wa kupita?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864718"
+    },
+    {
+      "english": "When do you change tactics during a match?",
+      "swahili": "Unabadilisha mbinu lini wakati wa mchezo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864720"
+    },
+    {
+      "english": "Do you practice shooting from inside or outside?",
+      "swahili": "Mna zoezi la kupiga ndani au nje?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864723"
+    },
+    {
+      "english": "What should I do if my back feels tight?",
+      "swahili": "Nifanye nini mgongo wangu ukihisi kubana?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864725"
+    },
+    {
+      "english": "Can we review your form for a moment?",
+      "swahili": "Tuangalie jinsi unavyofanya, kwa dakika moja?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864728"
+    },
+    {
+      "english": "How should I cool down after this circuit?",
+      "swahili": "Nipunguze mwendo vipi baada ya mzunguko huu?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864730"
+    },
+    {
+      "english": "Ready for the next drill, or pause first?",
+      "swahili": "Uko tayari kwa zoezi linalofuata, au tusimame kwanza?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864735"
+    },
+    {
+      "english": "Keep pushing, small steps add up",
+      "swahili": "Endelea kusukuma, hatua ndogo huongeza",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864737"
+    },
+    {
+      "english": "You’ve got this, stay confident and calm",
+      "swahili": "Unaweza, kuwa na ujasiri na utulivu",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864741"
+    },
+    {
+      "english": "Today you train, tomorrow you thank yourself",
+      "swahili": "Leo unafanya mazoezi, kesho utajishukuru",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864744"
+    },
+    {
+      "english": "Trust your plan, not your excuses",
+      "swahili": "Amini mpango wako, si visingizio",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864746"
+    },
+    {
+      "english": "One rep at a time, don’t rush",
+      "swahili": "Jibu moja kwa wakati, usikimbilie",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864749"
+    },
+    {
+      "english": "Good form first, speed comes after",
+      "swahili": "Fomu nzuri kwanza, kasi huja baadaye",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864752"
+    },
+    {
+      "english": "Tell your mind, we train for progress",
+      "swahili": "Mwambie akili, tunafanya mazoezi kwa maendeleo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864755"
+    },
+    {
+      "english": "It’s okay to struggle, you learn through it",
+      "swahili": "Ni sawa kuugumu, unajifunza kupitia hilo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864760"
+    },
+    {
+      "english": "Win the moment, then win the day",
+      "swahili": "Shinda wakati huu, kisha shinda leo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864762"
+    },
+    {
+      "english": "Stay consistent, results will follow",
+      "swahili": "Kaa thabiti, matokeo yatafuata",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864765"
+    },
+    {
+      "english": "Nice effort, you’re building real strength",
+      "swahili": "Jitihada nzuri, unajenga nguvu halisi",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864768"
+    },
+    {
+      "english": "Don’t quit early, finish strong",
+      "swahili": "Usikatishwe mapema, maliza kwa nguvu",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864771"
+    },
+    {
+      "english": "Breathe steady, your body will cooperate",
+      "swahili": "Pumua kwa utulivu, mwili wako utaendana",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864774"
+    },
+    {
+      "english": "Listen to your body, but stay focused",
+      "swahili": "Sikia mwili wako, lakini baki makini",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864776"
+    },
+    {
+      "english": "You’re not behind, you’re on track",
+      "swahili": "Huko nyuma, uko kwenye mpango",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864780"
+    },
+    {
+      "english": "Celebrate the effort, not only the outcome",
+      "swahili": "Sherehekea juhudi, si matokeo tu",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864783"
+    },
+    {
+      "english": "Reset, regroup, and go again",
+      "swahili": "Jirudishe, panga upya, na uanze tena",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864785"
+    },
+    {
+      "english": "Small wins today, big confidence tomorrow",
+      "swahili": "Ushindi mdogo leo, ujasiri mkubwa kesho",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864789"
+    },
+    {
+      "english": "Keep your head up, focus on the target",
+      "swahili": "Inua kichwa, elekeza macho kwa lengo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864791"
+    },
+    {
+      "english": "Progress feels slow, but it’s real",
+      "swahili": "Maendeleo yanaonekana polepole, lakini ni ya kweli",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864794"
+    },
+    {
+      "english": "Say it with me, I improve every workout",
+      "swahili": "Sema pamoja nami, naimarika kila mazoezi",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864797"
+    },
+    {
+      "english": "Don’t be negative, choose strong thoughts",
+      "swahili": "Usiwe na mawazo mabaya, chagua mawazo imara",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864800"
+    },
+    {
+      "english": "Motivation comes after movement, start",
+      "swahili": "Msukumo huja baada ya kusonga, anza",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864802"
+    },
+    {
+      "english": "You’re stronger than yesterday, remind yourself",
+      "swahili": "Wewe ni imara kuliko jana, jikumbushe",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864805"
+    },
+    {
+      "english": "Good job staying in control, keep it up",
+      "swahili": "Hongera kwa kuwa na udhibiti, endelea",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864808"
+    },
+    {
+      "english": "Aim for clean reps, not messy ones",
+      "swahili": "Lenga reps safi, si zile za fujo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864810"
+    },
+    {
+      "english": "When it gets hard, smile and continue",
+      "swahili": "Ikizidi kuwa ngumu, tabasamu, endelea",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864813"
+    },
+    {
+      "english": "That’s it, trust the process",
+      "swahili": "Ndivyo hivyo, amini mchakato",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864816"
+    },
+    {
+      "english": "Give yourself credit, you’re working",
+      "swahili": "Jipe pongezi, unafanya kazi",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864819"
+    },
+    {
+      "english": "Focus on today, worry later",
+      "swahili": "Tulia na leo, fikiria baadaye",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864821"
+    },
+    {
+      "english": "I’m nervous, but I will try calmly.",
+      "swahili": "Nina woga, lakini nitajaribu kwa utulivu.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864825"
+    },
+    {
+      "english": "My legs feel heavy, so I slow down.",
+      "swahili": "Miguu yangu inanilemea, kwa hiyo napunguza kasi.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864831"
+    },
+    {
+      "english": "I stop, breathe, then start again.",
+      "swahili": "Ninasimama, naipumua, kisha ninaanza tena.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864836"
+    },
+    {
+      "english": "It’s okay to feel tired, keep moving.",
+      "swahili": "Ni sawa kuhisi uchovu, endelea kusonga.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864839"
+    },
+    {
+      "english": "I respect my limits, they teach me patience.",
+      "swahili": "Naikubali mipaka yangu, inanifunza subira.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864842"
+    },
+    {
+      "english": "Today I’m honest, I can improve slowly.",
+      "swahili": "Leo nina ukweli, naweza kuboresha polepole.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864845"
+    },
+    {
+      "english": "I don’t chase pain, I listen first.",
+      "swahili": "Sifukuzi maumivu, nasikiliza kwanza.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864848"
+    },
+    {
+      "english": "When I miss, I learn, no shame.",
+      "swahili": "Nikipiga kosa, nafunza, bila aibu.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864851"
+    },
+    {
+      "english": "I return to basics, and my mind settles.",
+      "swahili": "Naenda kwenye msingi, na akili yangu tulia.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864854"
+    },
+    {
+      "english": "I’m not quitting, I’m recalibrating.",
+      "swahili": "Sitaacha, naurekebisha upya.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864857"
+    },
+    {
+      "english": "Some days progress is quiet, still real.",
+      "swahili": "Siku nyingine maendeleo ni ya kimya, bado ni kweli.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864860"
+    },
+    {
+      "english": "I trust the process, even when I doubt.",
+      "swahili": "Ninaamini mchakato, hata nikitilia shaka.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864863"
+    },
+    {
+      "english": "I show up tired, that’s my strength.",
+      "swahili": "Ninaonekana hata nikiwa nimechoka, hiyo ni nguvu yangu.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864866"
+    },
+    {
+      "english": "I reset my thoughts, then lift again.",
+      "swahili": "Nafungua upya mawazo, kisha naanza kuinua tena.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864869"
+    },
+    {
+      "english": "I need patience, my body responds slowly.",
+      "swahili": "Nahitaji subira, mwili wangu hujibu taratibu.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864871"
+    },
+    {
+      "english": "I’m proud I stayed present, not perfect.",
+      "swahili": "Nimejivunia kubaki makini, si lazima kuwa mkamilifu.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864874"
+    },
+    {
+      "english": "If I’m frustrated, I breathe and regroup.",
+      "swahili": "Kikiniwasha hasira, napumua na kurudi.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864878"
+    },
+    {
+      "english": "I keep my pace, discipline beats mood.",
+      "swahili": "Naweka mwendo wangu, nidhamu hushinda hisia.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864880"
+    },
+    {
+      "english": "I’m okay with getting better, not fast.",
+      "swahili": "Niko sawa kuimarika, si lazima haraka.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864883"
+    },
+    {
+      "english": "I reflect after training, what felt wrong?",
+      "swahili": "Natafakari baada ya mazoezi, ni nini kilihisi vibaya?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864888"
+    },
+    {
+      "english": "I acknowledge effort, even when results lag.",
+      "swahili": "Naikubali jitihada, hata matokeo yakienda polepole.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864892"
+    },
+    {
+      "english": "I don’t fear setbacks, I use them.",
+      "swahili": "Siogopi kushindwa, ninavitumia.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864895"
+    },
+    {
+      "english": "I’m grateful my body shows up today.",
+      "swahili": "Nashukuru mwili wangu umejitokeza leo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864898"
+    },
+    {
+      "english": "I keep it simple, one breath, one move.",
+      "swahili": "Nafanya iwe rahisi, pumzi moja, hatua moja.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864901"
+    },
+    {
+      "english": "I forgive myself, then try with focus.",
+      "swahili": "Nanasamehe nafsi yangu, kisha najaribu kwa umakini.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864904"
+    },
+    {
+      "english": "Sometimes my mind races, I bring it back.",
+      "swahili": "Wakati mwingine akili yangu huzizima, nairudisha.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864907"
+    },
+    {
+      "english": "I’m learning balance, strength without stress.",
+      "swahili": "Ninafundishwa usawa, nguvu bila msongo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864910"
+    },
+    {
+      "english": "After the workout, I let my body rest.",
+      "swahili": "Baada ya mazoezi, naacha mwili wangu upumzike.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864913"
+    },
+    {
+      "english": "My goal is calm confidence, rep by rep.",
+      "swahili": "Lengo langu ni kujiamini kwa utulivu, kila marudio.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864915"
+    },
+    {
+      "english": "Warm up first, protect your joints",
+      "swahili": "Pasha joto kwanza, linda viungo vyako",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864918"
+    },
+    {
+      "english": "Hydrate now, before your workout gets intense",
+      "swahili": "Nywa maji sasa, kabla mazoezi hayajazidi",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T10:03:28.864920"
     }
   ],
-  "last_updated": "2026-11-07T09:51:24.394906"
+  "last_updated": "2026-11-08T10:03:28.864922"
 }
