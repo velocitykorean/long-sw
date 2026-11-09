@@ -10799,7 +10799,727 @@
       "swahili": "Nywa maji sasa, kabla mazoezi hayajazidi",
       "category": "Sports & Fitness",
       "generated_at": "2026-11-08T10:03:28.864920"
+    },
+    {
+      "english": "I’ve got this, let’s go now.",
+      "swahili": "Ninaweza, hebu tuende sasa.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436422"
+    },
+    {
+      "english": "No stress, I’ll handle it.",
+      "swahili": "Usijali, nitashughulikia.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436438"
+    },
+    {
+      "english": "Watch me, I’ll do it right.",
+      "swahili": "Nijalie, nitafanya vizuri.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436440"
+    },
+    {
+      "english": "It’s okay, we’ve got time.",
+      "swahili": "Sawa, tuna muda.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436442"
+    },
+    {
+      "english": "Relax, I’m confident, trust me.",
+      "swahili": "Tuliza, nina ujasiri, niamini.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436445"
+    },
+    {
+      "english": "Come on, I know what to do.",
+      "swahili": "Njoo, najua nifanye nini.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436446"
+    },
+    {
+      "english": "I’m ready, let’s try again.",
+      "swahili": "Niko tayari, tujaribu tena.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436448"
+    },
+    {
+      "english": "I won’t back down, I’ll manage.",
+      "swahili": "Sitarejea, nitashika njia.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436453"
+    },
+    {
+      "english": "Good idea, I’m going for it.",
+      "swahili": "Wazo zuri, naenda nacho.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436455"
+    },
+    {
+      "english": "That’s my plan, nothing can stop me.",
+      "swahili": "Huo ndio mpango wangu, hakuna kitu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436458"
+    },
+    {
+      "english": "Be cool, I’ve been through this.",
+      "swahili": "Tulia, nimeshuhudia haya.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436460"
+    },
+    {
+      "english": "I got this, no need to worry.",
+      "swahili": "Ninaweza, hakuna haja ya kuwa na wasiwasi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436461"
+    },
+    {
+      "english": "Yes, I’ll take the lead.",
+      "swahili": "Ndio, nitachukua uongozi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436463"
+    },
+    {
+      "english": "I’m serious, this matters a lot.",
+      "swahili": "Nina maana, jambo hili ni muhimu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436467"
+    },
+    {
+      "english": "Relax, I speak up when needed.",
+      "swahili": "Tuliza, nasema ninapohitajika.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436468"
+    },
+    {
+      "english": "Trust me, I’m not guessing.",
+      "swahili": "Niamini, siokipi nasadiki.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436470"
+    },
+    {
+      "english": "I’m confident, this will work.",
+      "swahili": "Nina uhakika, hii itafanya kazi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436472"
+    },
+    {
+      "english": "Let’s do it, one step at a time.",
+      "swahili": "Tufanye, hatua kwa hatua.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436474"
+    },
+    {
+      "english": "Easy, I’ve practiced this before.",
+      "swahili": "Rahisi, nimesha zoea.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436476"
+    },
+    {
+      "english": "I’m okay, I’m handling my day.",
+      "swahili": "Niko sawa, nausimamia siku yangu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436478"
+    },
+    {
+      "english": "Don’t worry, I’ll explain it simply.",
+      "swahili": "Usijali, nitaiweka kwa urahisi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436480"
+    },
+    {
+      "english": "Big talk, but I’ll back it up.",
+      "swahili": "Maneno makubwa, lakini nitathibitisha.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436482"
+    },
+    {
+      "english": "I’m not scared, let’s move.",
+      "swahili": "Sina woga, tuende.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436484"
+    },
+    {
+      "english": "Honestly, I’ve got the answer.",
+      "swahili": "Kwa ukweli, nina jibu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436485"
+    },
+    {
+      "english": "Calm down, we’ll figure it out.",
+      "swahili": "Tuliza roho, tutapata suluhisho.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436487"
+    },
+    {
+      "english": "I know my limits, still I’ll try.",
+      "swahili": "Ninajua mipaka yangu, bado nita jaribu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436490"
+    },
+    {
+      "english": "No panic, I’m in control.",
+      "swahili": "Hakuna hofu, niko kwenye udhibiti.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436491"
+    },
+    {
+      "english": "That’s it, I’m stepping up.",
+      "swahili": "Hapo ndipo, najiingiza.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436493"
+    },
+    {
+      "english": "I’ll do my best, that’s enough.",
+      "swahili": "Nitafanya kadri niwezavyo, inatosha.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436495"
+    },
+    {
+      "english": "Okay, I’m confident, let’s start.",
+      "swahili": "Sawa, nina ujasiri, tuanze.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436499"
+    },
+    {
+      "english": "Can you help me, I want to improve?",
+      "swahili": "Naweza kuuliza, unisaidie niboreshwe?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436501"
+    },
+    {
+      "english": "What do you recommend, for speaking confidently?",
+      "swahili": "Unashauri nini, ili niseme kwa kujiamini?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436503"
+    },
+    {
+      "english": "How do you answer questions, without freezing?",
+      "swahili": "Unajibu vipi maswali, bila kufungia?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436504"
+    },
+    {
+      "english": "Would you teach me, your favorite phrase?",
+      "swahili": "Unifundishe, sentensi unayopenda?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436506"
+    },
+    {
+      "english": "May I ask you something, please?",
+      "swahili": "Naomba kukuuliza kitu, tafadhali?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436508"
+    },
+    {
+      "english": "If I sound unsure, how should I fix it?",
+      "swahili": "Nikionekana si na uhakika, nifanye nini?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436509"
+    },
+    {
+      "english": "I like your vibe, what’s your secret?",
+      "swahili": "Nipendea tu vibe yako, siri yako ni ipi?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436511"
+    },
+    {
+      "english": "What’s the best way to practice daily?",
+      "swahili": "Njia gani ni bora, kujizoeza kila siku?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436513"
+    },
+    {
+      "english": "Can we role-play, so I feel confident?",
+      "swahili": "Tuigize, ili nipate kujiamini?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436515"
+    },
+    {
+      "english": "When you ask questions, do you stay calm?",
+      "swahili": "Unapouliza, unakaa utulivu?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436517"
+    },
+    {
+      "english": "Tell me the exact words, I’ll repeat.",
+      "swahili": "Niambie maneno sahihi, nitayarejea.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436519"
+    },
+    {
+      "english": "How should I start, when I’m nervous?",
+      "swahili": "Nianze vipi, nikiwa na wasiwasi?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436521"
+    },
+    {
+      "english": "What’s your approach, to speaking without fear?",
+      "swahili": "Unatumia mbinu gani, kuongea bila hofu?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436523"
+    },
+    {
+      "english": "Would you correct me gently, please?",
+      "swahili": "Unisahihishe kwa upole, tafadhali?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436525"
+    },
+    {
+      "english": "Should I use formal or casual Swahili?",
+      "swahili": "Nitumie lugha ya heshima, au ya kawaida?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436526"
+    },
+    {
+      "english": "Can I practice with you, right now?",
+      "swahili": "Naweza kufanya mazoezi na wewe, sasa?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436528"
+    },
+    {
+      "english": "What question should I ask first?",
+      "swahili": "Ni swali gani nianze nalo kwanza?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436531"
+    },
+    {
+      "english": "How do you keep the conversation going?",
+      "swahili": "Unahifadhi vipi mazungumzo yaendelee?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436534"
+    },
+    {
+      "english": "I want your feedback, what sounds natural?",
+      "swahili": "Nahitaji maoni yako, nini kinapiga asili?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436537"
+    },
+    {
+      "english": "Can you ask me questions, I’ll answer?",
+      "swahili": "Unaniuliza maswali, nitajibu?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436539"
+    },
+    {
+      "english": "Which sounds better, slow or fast?",
+      "swahili": "Ni kipi kinapendeza zaidi, polepole au haraka?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436540"
+    },
+    {
+      "english": "Do you prefer short replies, or longer?",
+      "swahili": "Unapendelea majibu mafupi, au ya muda mrefu?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436542"
+    },
+    {
+      "english": "What should I say, to show interest?",
+      "swahili": "Niseme nini, kuonyesha kuwa na nia?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436543"
+    },
+    {
+      "english": "Can I borrow your confidence, for today?",
+      "swahili": "Naweza kukopa kujiamini kwako, leo?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436545"
+    },
+    {
+      "english": "How do you handle awkward silence?",
+      "swahili": "Unashughulikaje kimya cha aibu?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436546"
+    },
+    {
+      "english": "What’s the nicest way to disagree politely?",
+      "swahili": "Ni njia gani ya heshima, kukataa bila kuuma?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436548"
+    },
+    {
+      "english": "Tell me, what confidence sounds like to you?",
+      "swahili": "Niambie, kujiamini kwako ni nini?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436550"
+    },
+    {
+      "english": "Should I ask follow-up questions, right away?",
+      "swahili": "Nimuulize maswali ya ziada, mara moja?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436551"
+    },
+    {
+      "english": "Do you mind if I ask one more thing?",
+      "swahili": "Haijalishi ukiniita, niulize jambo jingine?",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436553"
+    },
+    {
+      "english": "I’ve got this, step by step,",
+      "swahili": "Ninaweza, hatua kwa hatua,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436555"
+    },
+    {
+      "english": "Practice today, improve tomorrow, no pressure,",
+      "swahili": "Jizoeze leo, bora kesho, bila shinikizo,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436557"
+    },
+    {
+      "english": "My accent is part of me,",
+      "swahili": "Matamshi yangu ni sehemu yangu,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436559"
+    },
+    {
+      "english": "Small wins count, I’m moving forward,",
+      "swahili": "Ushindi mdogo huhesabika, naendelea mbele,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436562"
+    },
+    {
+      "english": "Even mistakes teach me, I keep going,",
+      "swahili": "Makosa yananionyesha, naendelea,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436564"
+    },
+    {
+      "english": "I breathe, then I speak, confidently,",
+      "swahili": "Nipumue, kisha nitasema, kwa ujasiri,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436566"
+    },
+    {
+      "english": "I trust my progress, one day at once,",
+      "swahili": "Ninaamini maendeleo yangu, siku moja moja,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436568"
+    },
+    {
+      "english": "Today I show up, that’s strength,",
+      "swahili": "Leo nitaonekana, hiyo ni nguvu,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436570"
+    },
+    {
+      "english": "I speak, even softly, I belong here,",
+      "swahili": "Ninasema, hata kwa sauti ndogo, ninastahili hapa,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436572"
+    },
+    {
+      "english": "Kind words for me, I deserve growth,",
+      "swahili": "Maneno ya upendo kwangu, naustahili kukua,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436574"
+    },
+    {
+      "english": "I don’t need perfection, I need momentum,",
+      "swahili": "Sihitaji ukamilifu, nahitaji kasi,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436576"
+    },
+    {
+      "english": "I learn fast, when I try again,",
+      "swahili": "Najifunza haraka, nikijaribu tena,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436578"
+    },
+    {
+      "english": "My courage starts small, then grows,",
+      "swahili": "Ujasiri wangu huanza kidogo, kisha hukua,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436580"
+    },
+    {
+      "english": "I keep my head up, speak anyway,",
+      "swahili": "Ninaweka kichwa juu, nasema hata hivyo,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436582"
+    },
+    {
+      "english": "Confidence comes from action, not wishes,",
+      "swahili": "Ujasiri hutoka kwa vitendo, si matamanio,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436584"
+    },
+    {
+      "english": "I can pause, it’s part of speaking,",
+      "swahili": "Naweza kusitisha, ni sehemu ya kuongea,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436586"
+    },
+    {
+      "english": "I celebrate effort, not just outcomes,",
+      "swahili": "Nasherehekea juhudi, si matokeo tu,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436588"
+    },
+    {
+      "english": "I’m brave enough, one sentence at a time,",
+      "swahili": "Nina ujasiri, sentensi moja moja,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436590"
+    },
+    {
+      "english": "I listen first, then answer with calm,",
+      "swahili": "Nasikiliza kwanza, kisha najibu kwa utulivu,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436592"
+    },
+    {
+      "english": "I give myself credit, for showing up,",
+      "swahili": "Ninaipa sifa, kwa kujitokeza,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436594"
+    },
+    {
+      "english": "Slow is smooth, I’m still improving,",
+      "swahili": "Polepole ni sawa, bado naimarika,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436596"
+    },
+    {
+      "english": "I ask, I learn, I sound better,",
+      "swahili": "Nauliza, najifunza, nasikika vizuri zaidi,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436598"
+    },
+    {
+      "english": "My mind says yes, my mouth follows,",
+      "swahili": "Akili yangu inasema ndiyo, kinywa changu kinafuata,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436600"
+    },
+    {
+      "english": "Today’s goal, speak clearly, enjoy it,",
+      "swahili": "Lengo la leo, kusema wazi, ufurahie,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436602"
+    },
+    {
+      "english": "I don’t quit, I redirect my words,",
+      "swahili": "Siachi, naelekeza maneno yangu upya,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436604"
+    },
+    {
+      "english": "I can handle feedback, it helps me grow,",
+      "swahili": "Naweza kukubali maoni, yananitengeneza,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436605"
+    },
+    {
+      "english": "I choose confidence, over doubt, always,",
+      "swahili": "Ninaweka ujasiri mbele, kuliko shaka, daima,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436607"
+    },
+    {
+      "english": "I’m proud of my effort, seriously,",
+      "swahili": "Ninafuraha na juhudi yangu, kweli,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436609"
+    },
+    {
+      "english": "I speak with respect, and myself too,",
+      "swahili": "Ninasema kwa heshima, na mimi pia,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436611"
+    },
+    {
+      "english": "When I stumble, I learn, then shine,",
+      "swahili": "Nikikwama, najifunza, kisha kung’aa,",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436612"
+    },
+    {
+      "english": "Honestly, I’m nervous, but I’ll try.",
+      "swahili": "Kwa uaminifu, nina wasiwasi, lakini nitajaribu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436616"
+    },
+    {
+      "english": "I take a breath, then speak kindly.",
+      "swahili": "Naavuta pumzi, kisha nasema kwa upole.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436618"
+    },
+    {
+      "english": "If I miss a word, it’s okay.",
+      "swahili": "Nikipoteza neno, sawa tu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436619"
+    },
+    {
+      "english": "I’m learning out loud, no hiding.",
+      "swahili": "Na-jifunza kwa sauti, si-fichi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436621"
+    },
+    {
+      "english": "My doubts talk, but my voice answers.",
+      "swahili": "Mashaka yangu yanazungumza, lakini sauti yangu ina-jibu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436623"
+    },
+    {
+      "english": "I don’t rush feelings, I let them pass.",
+      "swahili": "Si-harakishi hisia, na-zi-a-cha zi-pite.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436627"
+    },
+    {
+      "english": "Sometimes I pause, and that’s real confidence.",
+      "swahili": "Wakati mwingine na-simama kimya, hiyo ni ujasiri.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436629"
+    },
+    {
+      "english": "I say it imperfectly, but I say it.",
+      "swahili": "Na-i-sema kwa makosa, lakini na-i-sema.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436631"
+    },
+    {
+      "english": "I’m proud, even when I’m shaky.",
+      "swahili": "Nina-fahari, hata ni-ki-wa na-tingi-tingi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436633"
+    },
+    {
+      "english": "I trust my effort, not my mood.",
+      "swahili": "Na-i-tegemea juhudi yangu, si hisia zangu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436635"
+    },
+    {
+      "english": "I can be honest, and still brave.",
+      "swahili": "Na-we-za kuwa mw-a-mi-fu, na-bado na-tu-ja-shu-ri.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436636"
+    },
+    {
+      "english": "I don’t need hype, I need practice.",
+      "swahili": "Si-hitaji maneno ya kupandisha, na-hitaji mazoezi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436638"
+    },
+    {
+      "english": "I listen to myself, then I continue.",
+      "swahili": "Na-sikiliza sauti yangu, kisha na-endelea.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436640"
+    },
+    {
+      "english": "My heart is loud, I stay calm.",
+      "swahili": "Mioyo yangu inanong’oneza, na-baki tulivu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436642"
+    },
+    {
+      "english": "I’m okay with taking time to think.",
+      "swahili": "Ni-po sawa nikichukua muda kufikiri.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436645"
+    },
+    {
+      "english": "I forgive my tongue, then try again.",
+      "swahili": "Na-wa-samehe ulimi wangu, kisha na-jaribu tena.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436647"
+    },
+    {
+      "english": "I’m not behind, I’m in progress.",
+      "swahili": "Si-me-che-lewa, na-ko kwenye maendeleo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436649"
+    },
+    {
+      "english": "If my voice cracks, I keep going.",
+      "swahili": "Kikivunjika sauti yangu, na-endelea tu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436650"
+    },
+    {
+      "english": "I reflect, then I choose my next line.",
+      "swahili": "Na-ji-tafakari, kisha na-chagua mstari wangu ujao.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436652"
+    },
+    {
+      "english": "I’m calm, because I know I’m learning.",
+      "swahili": "Na-tulia, kwa sababu najua na-jifunza.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436654"
+    },
+    {
+      "english": "My confidence grows when I stay honest.",
+      "swahili": "Ujasiri wangu una-kua nikibaki mkweli.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436656"
+    },
+    {
+      "english": "I let mistakes be data, not drama.",
+      "swahili": "Makosa ya-nakuwa data, si mchezo wa kuigiza.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436658"
+    },
+    {
+      "english": "I say less, but I mean it.",
+      "swahili": "Na-sema kidogo, lakini na-maanisha.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436661"
+    },
+    {
+      "english": "I honor my pace, even when it’s slow.",
+      "swahili": "Na-heshimu kasi yangu, hata kama ni polepole.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436663"
+    },
+    {
+      "english": "I don’t shrink, I expand my words.",
+      "swahili": "Si-nipunguzi, na-panua maneno yangu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436665"
+    },
+    {
+      "english": "I get emotional, then I speak anyway.",
+      "swahili": "Na-pata hisia, kisha na-sema hata hivyo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436667"
+    },
+    {
+      "english": "I’m learning to be steady, not perfect.",
+      "swahili": "Na-jifunza kuwa thabiti, si mkamilifu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436668"
+    },
+    {
+      "english": "I can start small, and still feel strong.",
+      "swahili": "Na-we-za ku-anza kidogo, na-bado na-hisi nguvu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436670"
+    },
+    {
+      "english": "I’m honest about my limits, and that’s okay.",
+      "swahili": "Na-kuwa mkweli kuhusu mipaka yangu, sawa.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436672"
+    },
+    {
+      "english": "Today I choose peace, then practice.",
+      "swahili": "Leo na-chagua amani, kisha na-fanya mazoezi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436674"
+    },
+    {
+      "english": "Before I speak, I breathe, then answer.",
+      "swahili": "Kabla ya kusema, napumua, kisha najibu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-09T11:13:36.436676"
     }
   ],
-  "last_updated": "2026-11-08T10:03:28.864922"
+  "last_updated": "2026-11-09T11:13:36.436677"
 }
