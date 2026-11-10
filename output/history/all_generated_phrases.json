@@ -11519,7 +11519,727 @@
       "swahili": "Kabla ya kusema, napumua, kisha najibu.",
       "category": "Confidence",
       "generated_at": "2026-11-09T11:13:36.436676"
+    },
+    {
+      "english": "Hi, can I get a coffee to-go?",
+      "swahili": "Habari, naweza kupata kahawa ya kuchukua?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741236"
+    },
+    {
+      "english": "One latte, please, and extra foam, thanks.",
+      "swahili": "Latte moja, tafadhali, na povu zaidi, asante.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741255"
+    },
+    {
+      "english": "What kind of pastries do you have today?",
+      "swahili": "Mna keki gani leo, na aina zake?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741259"
+    },
+    {
+      "english": "This smells amazing, what is it?",
+      "swahili": "Hii inanuka vizuri sana, ni nini hiki?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741262"
+    },
+    {
+      "english": "Do you have oat milk, by any chance?",
+      "swahili": "Mna maziwa ya oat, kama kuna?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741265"
+    },
+    {
+      "english": "Is it fresh, like, today fresh?",
+      "swahili": "Ni ya jana tu, au ni ya leo bado?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741268"
+    },
+    {
+      "english": "I’ll take the cinnamon roll, please.",
+      "swahili": "Nita chukua roll ya mdalasini, tafadhali.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741272"
+    },
+    {
+      "english": "Can I see the menu, real quick?",
+      "swahili": "Naweza kuona menyu, kwa haraka?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741278"
+    },
+    {
+      "english": "Do you have something sweet, not too much?",
+      "swahili": "Mna kitu tamu, sio sana, tafadhali?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741281"
+    },
+    {
+      "english": "Oh wow, this looks so good.",
+      "swahili": "Acha kabisa, hii inaonekana kitamu sana.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741284"
+    },
+    {
+      "english": "Just water, please, no ice for me.",
+      "swahili": "Maji tu, tafadhali, bila barafu kwangu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741287"
+    },
+    {
+      "english": "I’m hungry, what’s your best snack?",
+      "swahili": "Nina njaa, unashauri vitafunwa gani?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741291"
+    },
+    {
+      "english": "Wait, is this the special today?",
+      "swahili": "Subiri, hiki ndicho cha leo?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741293"
+    },
+    {
+      "english": "That’s perfect, I’ll start with this.",
+      "swahili": "Hiyo inafaa, nitachukua hii kwanza.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741299"
+    },
+    {
+      "english": "How much is the chocolate cake slice?",
+      "swahili": "Sehemu ya keki ya chokoleti inagharimu kiasi gani?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741302"
+    },
+    {
+      "english": "Can I get it warmed up, please?",
+      "swahili": "Naomba niwashwe moto kidogo, tafadhali.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741305"
+    },
+    {
+      "english": "I’ll pay now, can I use card?",
+      "swahili": "Nitakulipa sasa, naweza kutumia kadi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741308"
+    },
+    {
+      "english": "Do I line up here, or there?",
+      "swahili": "Ninasimama wapi, hapa au kule?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741311"
+    },
+    {
+      "english": "Excuse me, where are the muffins?",
+      "swahili": "Samahani, mafini yako wapi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741313"
+    },
+    {
+      "english": "This is my go-to after work, honestly.",
+      "swahili": "Hii ndiyo ninayozoea baada ya kazi, kweli.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741316"
+    },
+    {
+      "english": "I’ll share, but you have to try too.",
+      "swahili": "Nitashiriki, lakini lazima ujaribu pia.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741320"
+    },
+    {
+      "english": "Mm, that first sip is everything!",
+      "swahili": "Mm, kunywa kwanza kunanibeba kabisa!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741322"
+    },
+    {
+      "english": "Is there Wi-Fi, I need to work.",
+      "swahili": "Kuna Wi-Fi, nahitaji kufanya kazi.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741327"
+    },
+    {
+      "english": "Thanks, you’re fast, I love that.",
+      "swahili": "Asante, mko haraka, naipenda hiyo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741331"
+    },
+    {
+      "english": "Can you make it less sweet, please?",
+      "swahili": "Naomba iwe na sukari kidogo, tafadhali.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741333"
+    },
+    {
+      "english": "No worries, take your time, please.",
+      "swahili": "Hakuna shida, jitahidi kwa utulivu, tafadhali.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741336"
+    },
+    {
+      "english": "I’ll grab a seat, is it okay here?",
+      "swahili": "Nita chukua kiti, naweza kukaa hapa?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741339"
+    },
+    {
+      "english": "You know what, I’ll order now.",
+      "swahili": "Sasa hivi, nitaagiza tu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741342"
+    },
+    {
+      "english": "Wow, you’re right, this tastes perfect!",
+      "swahili": "Ngoja, umesema kweli, hii ladha ni kamili!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741348"
+    },
+    {
+      "english": "Can I get the receipt, please?",
+      "swahili": "Naomba unipe risiti, tafadhali.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741350"
+    },
+    {
+      "english": "Quick question, is this seat free?",
+      "swahili": "Swali fupi, kiti hiki ni bure?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741353"
+    },
+    {
+      "english": "Do you have anything kid-friendly?",
+      "swahili": "Mna kitu kinachofaa watoto, tafadhali?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741356"
+    },
+    {
+      "english": "What’s your fastest drink right now?",
+      "swahili": "Kinywaji gani cha haraka leo?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741360"
+    },
+    {
+      "english": "Should I order at the counter?",
+      "swahili": "Niagize hapa kaunta, au dukani?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741363"
+    },
+    {
+      "english": "Can I ask about the seasonal pastry?",
+      "swahili": "Nauliza kuhusu keki ya msimu?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741365"
+    },
+    {
+      "english": "Which croissant is buttery, not too much?",
+      "swahili": "Ni croissant ipi ina siagi, sio sana?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741368"
+    },
+    {
+      "english": "Is the chai spicy, or mild?",
+      "swahili": "Chai hii ina pilipili, au ni laini?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741371"
+    },
+    {
+      "english": "Can I see today’s specials menu?",
+      "swahili": "Naweza kuona ofa za leo?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741374"
+    },
+    {
+      "english": "Coffee or tea, what pairs best here?",
+      "swahili": "Kahawa au chai, ni lipi linalingana?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741377"
+    },
+    {
+      "english": "How long does the batch take?",
+      "swahili": "Kikombe hiki huchukua muda gani?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741379"
+    },
+    {
+      "english": "Do you do half-sweet drinks here?",
+      "swahili": "Mna vinywaji nusu tamu?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741382"
+    },
+    {
+      "english": "Can I swap dairy for almond milk?",
+      "swahili": "Naweza kubadilisha maziwa na almond?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741385"
+    },
+    {
+      "english": "What’s the best time to avoid crowds?",
+      "swahili": "Nipate saa gani kukwepa foleni?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741388"
+    },
+    {
+      "english": "Is there a discount for students?",
+      "swahili": "Kuna punguzo kwa wanafunzi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741390"
+    },
+    {
+      "english": "Can I get it decaf, just to be safe?",
+      "swahili": "Naomba isiyo na kafeini, kwa tahadhari?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741393"
+    },
+    {
+      "english": "What’s in the filling, exactly?",
+      "swahili": "Ndani yake kuna nini, hasa?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741398"
+    },
+    {
+      "english": "Should I try the signature muffin?",
+      "swahili": "Nijaribu muffin ya kipekee?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741401"
+    },
+    {
+      "english": "How spicy is that salsa on top?",
+      "swahili": "Hiyo salsa juu ni ya moto kiasi gani?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741403"
+    },
+    {
+      "english": "Is there a bathroom for customers?",
+      "swahili": "Bafuni iko kwa wateja, au?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741405"
+    },
+    {
+      "english": "Can I order two things, one at a time?",
+      "swahili": "Naweza kuagiza vitu viwili, polepole?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741408"
+    },
+    {
+      "english": "What’s your biggest seller today?",
+      "swahili": "Leo, ni nini kinauzwa sana?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741411"
+    },
+    {
+      "english": "Do you have something light for lunch?",
+      "swahili": "Mna kitu chepesi kwa chakula cha mchana?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741413"
+    },
+    {
+      "english": "Can you recommend a drink for cold days?",
+      "swahili": "Unaniambia kinywaji cha siku za baridi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741416"
+    },
+    {
+      "english": "If I wait, will it be ready soon?",
+      "swahili": "Nikisubiri, itakuwa tayari mapema?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741418"
+    },
+    {
+      "english": "Do you use fresh fruit in the tart?",
+      "swahili": "Tart hii ina matunda mapya?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741421"
+    },
+    {
+      "english": "Which cookie is chewy, not crispy?",
+      "swahili": "Biskuti gani ni laini, sio kavu?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741423"
+    },
+    {
+      "english": "Can I get extra napkins, please?",
+      "swahili": "Naomba napkins za ziada, tafadhali.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741426"
+    },
+    {
+      "english": "Do you have warm bread, right now?",
+      "swahili": "Mna mkate wa moto sasa hivi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741429"
+    },
+    {
+      "english": "Quick help, what’s the best combo?",
+      "swahili": "Nisaidie kidogo, mchanganyiko bora ni upi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741434"
+    },
+    {
+      "english": "Is there a sugar-free option today?",
+      "swahili": "Kuna chaguo lisilo na sukari leo?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741437"
+    },
+    {
+      "english": "Can I change my order after?",
+      "swahili": "Naweza kubadilisha oda baadae?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741439"
+    },
+    {
+      "english": "Thanks, can I sit here for a bit?",
+      "swahili": "Asante, naweza kukaa hapa kidogo?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741442"
+    },
+    {
+      "english": "Morning, naomba chai yangu, tafadhali.",
+      "swahili": "Asubuhi njema, naomba chai yangu, tafadhali.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741445"
+    },
+    {
+      "english": "Hapo, nipe hiyo sandwich, si nyingi.",
+      "swahili": "Hapo, nipe hiyo sandwich, si nyingi.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741448"
+    },
+    {
+      "english": "Ukipenda, naongezea ice kidogo, sawa?",
+      "swahili": "Ukipenda, naongezea ice kidogo, sawa?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741451"
+    },
+    {
+      "english": "Tuchote polepole, haraka si lazima.",
+      "swahili": "Tuchote polepole, haraka si lazima.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741454"
+    },
+    {
+      "english": "Harufu nzuri, hii ni vibe ya kustarehe.",
+      "swahili": "Harufu nzuri, hii ni vibe ya kustarehe.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741456"
+    },
+    {
+      "english": "Leo imejaa, lakini tutapambana kupata kipande.",
+      "swahili": "Leo imejaa, lakini tutapambana kupata kipande.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741459"
+    },
+    {
+      "english": "Kwenye hizi buns, usikose ladha, kweli.",
+      "swahili": "Kwenye hizi buns, usikose ladha, kweli.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741462"
+    },
+    {
+      "english": "Nimechoka, naomba kitu chenye moto.",
+      "swahili": "Nimechoka, naomba kitu chenye moto.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741465"
+    },
+    {
+      "english": "Hii keki itanifanya niseme, 'nashukuru tena'.",
+      "swahili": "Hii keki itanifanya niseme, 'nashukuru tena'.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741468"
+    },
+    {
+      "english": "Kaa hapa, panga mawazo, ufurahie tunda.",
+      "swahili": "Kaa hapa, panga mawazo, ufurahie tunda.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741472"
+    },
+    {
+      "english": "Wacha nigonge order, haraka ni adabu.",
+      "swahili": "Wacha nigonge order, haraka ni adabu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741474"
+    },
+    {
+      "english": "Hapo, naomba nusu, nisije nikizidi.",
+      "swahili": "Hapo, naomba nusu, nisije nikizidi.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741477"
+    },
+    {
+      "english": "Tamu kidogo, moyo utulie.",
+      "swahili": "Tamu kidogo, moyo utulie.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741480"
+    },
+    {
+      "english": "Safi sana, kahawa inanipa nguvu.",
+      "swahili": "Safi sana, kahawa inanipa nguvu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741483"
+    },
+    {
+      "english": "Maji ya moto, ndiyo afya ya moyo.",
+      "swahili": "Maji ya moto, ndiyo afya ya moyo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741486"
+    },
+    {
+      "english": "Usipojaribu, utajuta, chukua kipande sasa.",
+      "swahili": "Usipojaribu, utajuta, chukua kipande sasa.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741492"
+    },
+    {
+      "english": "Nina jicho la kitu cha saini hapa.",
+      "swahili": "Nina jicho la kitu cha saini hapa.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741495"
+    },
+    {
+      "english": "Pole, siharakishi, nafurahia harufu tu.",
+      "swahili": "Pole, siharakishi, nafurahia harufu tu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741498"
+    },
+    {
+      "english": "Nipe kidogo cha kukata njaa, tafadhali.",
+      "swahili": "Nipe kidogo cha kukata njaa, tafadhali.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741501"
+    },
+    {
+      "english": "Hii snack ina nguvu, inamaliza manung'uniko.",
+      "swahili": "Hii snack ina nguvu, inamaliza manung'uniko.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741504"
+    },
+    {
+      "english": "Kabla ya jua kali, kahawa iwe rafiki.",
+      "swahili": "Kabla ya jua kali, kahawa iwe rafiki.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741507"
+    },
+    {
+      "english": "Hapa ni burudani, chai inachekesha siku.",
+      "swahili": "Hapa ni burudani, chai inachekesha siku.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741510"
+    },
+    {
+      "english": "Usijali, kesho kutakuwa na sehemu nyingine.",
+      "swahili": "Usijali, kesho kutakuwa na sehemu nyingine.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741513"
+    },
+    {
+      "english": "Niambie tu, gani ladha yake itakufanya urudi?",
+      "swahili": "Niambie tu, gani ladha yake itakufanya urudi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741516"
+    },
+    {
+      "english": "Ladha na harufu, yote ni burudani hapa.",
+      "swahili": "Ladha na harufu, yote ni burudani hapa.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741518"
+    },
+    {
+      "english": "Nimepata kitu, sasa nina amani ya tumbo.",
+      "swahili": "Nimepata kitu, sasa nina amani ya tumbo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741521"
+    },
+    {
+      "english": "Hapo, naomba rangi kidogo ya asali kwenye chai.",
+      "swahili": "Hapo, naomba rangi kidogo ya asali kwenye chai.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741524"
+    },
+    {
+      "english": "Kaa pembeni, tusubiri mkate uwe moto zaidi.",
+      "swahili": "Kaa pembeni, tusubiri mkate uwe moto zaidi.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741527"
+    },
+    {
+      "english": "Leo nahitaji 'comfort', si kelele, tu chai.",
+      "swahili": "Leo nahitaji 'comfort', si kelele, tu chai.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741530"
+    },
+    {
+      "english": "Ukitaka kubeba, naweka oda ya take-away, sawa?",
+      "swahili": "Ukitaka kubeba, naweka oda ya take-away, sawa?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741533"
+    },
+    {
+      "english": "I’m just here, kuponya moyo kwanza, taratibu.",
+      "swahili": "Nimekuja tu, kutuliza moyo kwanza, taratibu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741537"
+    },
+    {
+      "english": "This smell, inanifanya niseme polepole tu.",
+      "swahili": "Harufu hii, inanifanya niseme polepole tu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741540"
+    },
+    {
+      "english": "Let me breathe, kabla ya kuchagua kitu.",
+      "swahili": "Niache nipumue, kabla ya kuchagua kitu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741543"
+    },
+    {
+      "english": "I needed patience, leo naipata kwenye chai.",
+      "swahili": "Nilihitaji subira, leo naipata kwenye chai.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741545"
+    },
+    {
+      "english": "Honestly, kahawa yangu leo ni tiba.",
+      "swahili": "Kwa uaminifu, kahawa yangu leo ni tiba.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741550"
+    },
+    {
+      "english": "If it’s too sweet, nitapunguza mwenyewe.",
+      "swahili": "Kikizidi kuwa tamu, nitapunguza mwenyewe.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741555"
+    },
+    {
+      "english": "I’m listening to my mood, si utaratibu tu.",
+      "swahili": "Ninasikiliza hisia zangu, si mpango tu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741559"
+    },
+    {
+      "english": "I’ll wait, lakini naomba usiniiche kuangalia.",
+      "swahili": "Nitangoja, lakini naomba nisichelewe kuangalia.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741562"
+    },
+    {
+      "english": "Today I’m careful, nafikiria kila bite.",
+      "swahili": "Leo niko makini, naifikiria kila bite.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741566"
+    },
+    {
+      "english": "No drama, naomba tu ladha iwe ya ukweli.",
+      "swahili": "Bila presha, naomba ladha iwe ya ukweli.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741569"
+    },
+    {
+      "english": "I’m choosing this slowly, si kwa haraka.",
+      "swahili": "Nnachagua hii taratibu, si kwa haraka.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741572"
+    },
+    {
+      "english": "My heart is quiet, chai hii inaniweka sawa.",
+      "swahili": "Moyo wangu umekuwa tulivu, chai hii inanilinda.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741577"
+    },
+    {
+      "english": "I’m grateful, hata kungoja kidogo kunasaidia.",
+      "swahili": "Nashukuru, hata kusubiri kidogo kunasaidia.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741580"
+    },
+    {
+      "english": "I don’t rush decisions, naipenda taratibu.",
+      "swahili": "Siharibu maamuzi, naipenda taratibu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741583"
+    },
+    {
+      "english": "Sometimes a cookie, huleta amani ya kweli.",
+      "swahili": "Wakati mwingine biskuti huleta amani ya kweli.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741587"
+    },
+    {
+      "english": "I want comfort, sio kupigana na stress.",
+      "swahili": "Nataka faraja, si kupambana na stress.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741590"
+    },
+    {
+      "english": "Please, nionyeshe kitu chenye roho.",
+      "swahili": "Tafadhali, nionyeshe kilicho na roho.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741594"
+    },
+    {
+      "english": "I’m thinking about the day, roast haraka tu.",
+      "swahili": "Nafikiria siku, roast iwe vizuri tu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741597"
+    },
+    {
+      "english": "This place feels safe, naacha mawazo zangu.",
+      "swahili": "Mahali hapa inanipa usalama, naacha mawazo zangu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741601"
+    },
+    {
+      "english": "I’ll start small, halafu naongezea kwa furaha.",
+      "swahili": "Nianze kidogo, halafu niongeze kwa furaha.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741604"
+    },
+    {
+      "english": "My stomach is honest, leo nataka kitu chepesi.",
+      "swahili": "Tumbo langu linaniambia kweli, leo nataka chepesi.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741607"
+    },
+    {
+      "english": "Even the sweetness, ni ya kiasi tu.",
+      "swahili": "Hata utamu, ni wa kiasi tu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741610"
+    },
+    {
+      "english": "I’m letting go, sip moja kwa wakati.",
+      "swahili": "Naacha, chukua sip moja kwa wakati.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741613"
+    },
+    {
+      "english": "Tell me, will this taste make me smile?",
+      "swahili": "Nipe ukweli, ladha hii itanifanya nicheke?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741616"
+    },
+    {
+      "english": "I’m not okay, lakini chai hii inanipa nguvu.",
+      "swahili": "Siko sawa, lakini chai hii inanipa nguvu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741619"
+    },
+    {
+      "english": "I can handle delays, maana quality ipo.",
+      "swahili": "Naweza kusubiri, kwa sababu ubora upo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741622"
+    },
+    {
+      "english": "I want something warm, na roho tulivu.",
+      "swahili": "Nataka kitu cha moto, na roho tulivu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741624"
+    },
+    {
+      "english": "Give me that homemade vibe, bila kujifanya.",
+      "swahili": "Nipe ile vibe ya nyumbani, bila kujifanya.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:56:30.741629"
     }
   ],
-  "last_updated": "2026-11-09T11:13:36.436677"
+  "last_updated": "2026-11-10T10:56:30.741631"
 }
