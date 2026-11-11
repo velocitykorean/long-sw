@@ -12239,7 +12239,727 @@
       "swahili": "Nipe ile vibe ya nyumbani, bila kujifanya.",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-10T10:56:30.741629"
+    },
+    {
+      "english": "Hi, where is the bus stop?",
+      "swahili": "Habari, basi lipo wapi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071688"
+    },
+    {
+      "english": "Which route goes to the city center?",
+      "swahili": "Njia gani inaenda katikati mwa jiji?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071705"
+    },
+    {
+      "english": "Is this vehicle going to downtown?",
+      "swahili": "Hili gari linaenda mjini?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071709"
+    },
+    {
+      "english": "Excuse me, can I get on here?",
+      "swahili": "Samahani, naweza kupanda hapa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071713"
+    },
+    {
+      "english": "Do I need to pay now?",
+      "swahili": "Ni lazima ulipe sasa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071716"
+    },
+    {
+      "english": "How much is the ticket?",
+      "swahili": "Tiketi ni shilingi ngapi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071720"
+    },
+    {
+      "english": "Please, stop at the next station.",
+      "swahili": "Tafadhali, shusha kituo kijacho.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071723"
+    },
+    {
+      "english": "Next, next stop, please!",
+      "swahili": "Kituo kijacho, tafadhali!",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071731"
+    },
+    {
+      "english": "Is the fare different for students?",
+      "swahili": "Nauli ni tofauti kwa wanafunzi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071735"
+    },
+    {
+      "english": "Where do I tap my card?",
+      "swahili": "Ninaegesha kadi wapi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071738"
+    },
+    {
+      "english": "My stop is coming, please.",
+      "swahili": "Kituo changu kinakuja, tafadhali.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071741"
+    },
+    {
+      "english": "Stop! I missed my station.",
+      "swahili": "Simama! Nimekosa kituo changu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071744"
+    },
+    {
+      "english": "What time does it arrive here?",
+      "swahili": "Inafika saa ngapi hapa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071747"
+    },
+    {
+      "english": "Is it delayed today, or on time?",
+      "swahili": "Leo imechelewa, au iko sawa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071750"
+    },
+    {
+      "english": "How long will we wait?",
+      "swahili": "Tutangoja muda gani?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071753"
+    },
+    {
+      "english": "Sorry, is there room for me?",
+      "swahili": "Samahani, kuna nafasi kwangu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071756"
+    },
+    {
+      "english": "Move a little, please, thanks.",
+      "swahili": "So-ror-od-ya kidogo, tafadhali.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071760"
+    },
+    {
+      "english": "Where is the conductor?",
+      "swahili": "Msimamizi yuko wapi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071762"
+    },
+    {
+      "english": "Please, tell me when to get off.",
+      "swahili": "Tafadhali, niambie nishuke lini.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071765"
+    },
+    {
+      "english": "Are we going the right way?",
+      "swahili": "Tunaenda upande sahihi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071768"
+    },
+    {
+      "english": "This is crowded, be careful.",
+      "swahili": "Msongamano, kuwa makini.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071772"
+    },
+    {
+      "english": "I will stand here, thanks.",
+      "swahili": "Nitasimama hapa, asante.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071775"
+    },
+    {
+      "english": "Let’s queue, it’s almost our turn.",
+      "swahili": "Tungojee mstari, zamu yetu karibu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071779"
+    },
+    {
+      "english": "Which side opens for passengers?",
+      "swahili": "Mlango wa kupanda uko upande gani?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071782"
+    },
+    {
+      "english": "My phone battery is dead, please help.",
+      "swahili": "Simu yangu haina chaji, msaada tafadhali.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071785"
+    },
+    {
+      "english": "Wow, the bus arrived so fast!",
+      "swahili": "Ajabu, basi limefika haraka!",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071790"
+    },
+    {
+      "english": "Oh no, I forgot my bag.",
+      "swahili": "La hasha, nimesahau mkoba.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071793"
+    },
+    {
+      "english": "Thank you, you really helped me!",
+      "swahili": "Asante sana, umenisaidia!",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071797"
+    },
+    {
+      "english": "I’m getting off here, see you.",
+      "swahili": "Naenda kushuka hapa, tuonane.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071801"
+    },
+    {
+      "english": "Please, keep my belongings safe.",
+      "swahili": "Tafadhali, linda mali yangu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071804"
+    },
+    {
+      "english": "Hi, how do I catch this line, love?",
+      "swahili": "Habari, nawezaje kuipata hii laini, mpenzi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071808"
+    },
+    {
+      "english": "Do you know if it stops near the mall?",
+      "swahili": "Unajua kama inasimama karibu na duka kubwa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071811"
+    },
+    {
+      "english": "Quick question, where can I buy a ticket?",
+      "swahili": "Swali fupi, naweza kununua tiketi wapi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071814"
+    },
+    {
+      "english": "Are there discounts for commuters, by any chance?",
+      "swahili": "Kuna punguzo kwa wasafiri wa mjini, labda?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071818"
+    },
+    {
+      "english": "Which entrance is faster, this one or that one?",
+      "swahili": "Mlango gani ni wa haraka, huu au ule?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071821"
+    },
+    {
+      "english": "Can I hold your bag for a second, please?",
+      "swahili": "Naweza kushika begi lako kwa sekunde moja, tafadhali?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071824"
+    },
+    {
+      "english": "What’s the next stop before the river bridge?",
+      "swahili": "Kituo kinachofuata kabla ya daraja la mto?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071828"
+    },
+    {
+      "english": "Is this bus usually packed at rush hour?",
+      "swahili": "Huu basi huwa najaa sana saa za kilele?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071831"
+    },
+    {
+      "english": "Do we pay in cash, or card only?",
+      "swahili": "Tunatoa malipo kwa pesa taslimu, au kadi tu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071834"
+    },
+    {
+      "english": "How do I know I’m going to the right place?",
+      "swahili": "Ninawezaje kujua naelekea sehemu sahihi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071838"
+    },
+    {
+      "english": "Which way is the station exit, please?",
+      "swahili": "Njia ya kutoka kituoni ni ipi, tafadhali?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071841"
+    },
+    {
+      "english": "Can you tell me the easiest transfer route?",
+      "swahili": "Unaweza kunielekeza njia rahisi ya kubadili?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071844"
+    },
+    {
+      "english": "Is it safer to wait outside, or inside?",
+      "swahili": "Ni salama kusubiri nje, au ndani?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071848"
+    },
+    {
+      "english": "Do you think it’ll arrive on time today?",
+      "swahili": "Unaona itafika kwa wakati leo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071852"
+    },
+    {
+      "english": "Where should I sit for the smooth ride?",
+      "swahili": "Nikae wapi ili safari iwe laini?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071855"
+    },
+    {
+      "english": "Do you mind if I ask about the fare system?",
+      "swahili": "Huna shida nikiuliza kuhusu mfumo wa nauli?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071858"
+    },
+    {
+      "english": "I’m new here, what do you recommend, please?",
+      "swahili": "Nimeanza tu, unashauri nini, tafadhali?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071863"
+    },
+    {
+      "english": "What stop do I use for the hospital nearby?",
+      "swahili": "Nitatumia kituo gani kwa hospitali iliyo karibu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071866"
+    },
+    {
+      "english": "Can I transfer to another line right here?",
+      "swahili": "Naweza kubadili hadi laini nyingine hapa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071869"
+    },
+    {
+      "english": "Is there a timetable for weekends, by chance?",
+      "swahili": "Kuna ratiba ya wikendi, labda?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071872"
+    },
+    {
+      "english": "Excuse me, are we going past the bus station?",
+      "swahili": "Samahani, tunapita kituo cha mabasi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071875"
+    },
+    {
+      "english": "Is this the right carriage for downtown?",
+      "swahili": "Hii ndiyo sehemu sahihi kuelekea mjini?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071878"
+    },
+    {
+      "english": "How early should I arrive to get a seat?",
+      "swahili": "Nifike mapema kiasi gani nipate kiti?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071881"
+    },
+    {
+      "english": "Do they check tickets at the entrance, or later?",
+      "swahili": "Wanakagua tiketi mlangoni, au baadaye?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071884"
+    },
+    {
+      "english": "Can you point me to the conductor, please?",
+      "swahili": "Unaweza kunionyesha yuko wapi msimamizi, tafadhali?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071887"
+    },
+    {
+      "english": "If I miss my stop, what should I do?",
+      "swahili": "Nikipita kituo changu, nifanye nini?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071890"
+    },
+    {
+      "english": "Would you help me remember my platform number?",
+      "swahili": "Unaweza kunisaidia nikumbuke nambari ya jukwaa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071893"
+    },
+    {
+      "english": "Is there an app for route updates, right?",
+      "swahili": "Kuna programu ya taarifa za njia, sawa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071904"
+    },
+    {
+      "english": "What time do you think the service slows down?",
+      "swahili": "Unadhani huduma inapungua kasi saa ngapi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071907"
+    },
+    {
+      "english": "I’m heading to work, which stop is best?",
+      "swahili": "Naelekea kazini, ni kituo gani bora?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071913"
+    },
+    {
+      "english": "Nipe tiketi, safari inaanza sasa hivi",
+      "swahili": "Nipe tiketi, safari inaanza sasa hivi",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071917"
+    },
+    {
+      "english": "Ukitulia, basi itakuchukua polepole",
+      "swahili": "Ukitulia, basi itakuchukua polepole",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071921"
+    },
+    {
+      "english": "Subiri hapo, usikimbilie mlango",
+      "swahili": "Subiri hapo, usikimbilie mlango",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071924"
+    },
+    {
+      "english": "Wenyeji wanasema, usikate kona",
+      "swahili": "Wenyeji wanasema, usikate kona",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071927"
+    },
+    {
+      "english": "Kama umechelewa, piga hatua kwa bus",
+      "swahili": "Kama umechelewa, piga hatua kwa bus",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071930"
+    },
+    {
+      "english": "Hapo juu, ndio mwendo wa haraka",
+      "swahili": "Hapo juu, ndio mwendo wa haraka",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071933"
+    },
+    {
+      "english": "Kaa pembeni, msongamano nao hupita",
+      "swahili": "Kaa pembeni, msongamano nao hupita",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071936"
+    },
+    {
+      "english": "Usipumue, basi likifika usikose muda",
+      "swahili": "Usipumue, basi likifika usikose muda",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071940"
+    },
+    {
+      "english": "Daladala ikichelewa, roho tulivu",
+      "swahili": "Daladala ikichelewa, roho tulivu",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071945"
+    },
+    {
+      "english": "Foleni ni kama mvua, polepole hujaa",
+      "swahili": "Foleni ni kama mvua, polepole hujaa",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071948"
+    },
+    {
+      "english": "Kupanda ni sasa, kushuka baadaye",
+      "swahili": "Kupanda ni sasa, kushuka baadaye",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071951"
+    },
+    {
+      "english": "Tukisikika, tunatoka na tuende",
+      "swahili": "Tukisikika, tunatoka na tuende",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071954"
+    },
+    {
+      "english": "Ukiamini, utapata gari sahihi",
+      "swahili": "Ukiamini, utapata gari sahihi",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071956"
+    },
+    {
+      "english": "Hapo lango la mbele, ndio kielelezo cha haraka",
+      "swahili": "Hapo lango la mbele, ndio kielelezo cha haraka",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071959"
+    },
+    {
+      "english": "Usijifanye shujaa kwenye hatua za kwanza",
+      "swahili": "Usijifanye shujaa kwenye hatua za kwanza",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071962"
+    },
+    {
+      "english": "Ukikosa, subiri ingine, maisha yanaenda",
+      "swahili": "Ukikosa, subiri ingine, maisha yanaenda",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071966"
+    },
+    {
+      "english": "Wakati ni pesa, panga foleni yako",
+      "swahili": "Wakati ni pesa, panga foleni yako",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071968"
+    },
+    {
+      "english": "Kabla ya kupanda, angalia nambari yake",
+      "swahili": "Kabla ya kupanda, angalia nambari yake",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071971"
+    },
+    {
+      "english": "Kama ni mapema, utapata nafasi vizuri",
+      "swahili": "Kama ni mapema, utapata nafasi vizuri",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071974"
+    },
+    {
+      "english": "Usikimbilie, basi huja kwa utaratibu",
+      "swahili": "Usikimbilie, basi huja kwa utaratibu",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071977"
+    },
+    {
+      "english": "Sikiza matangazo, ndiyo njia ya akili",
+      "swahili": "Sikiza matangazo, ndiyo njia ya akili",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071980"
+    },
+    {
+      "english": "Akili yako, jiandae kushika mkono",
+      "swahili": "Akili yako, jiandae kushika mkono",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071983"
+    },
+    {
+      "english": "Ukishapanda, shikilia nafasi yako",
+      "swahili": "Ukishapanda, shikilia nafasi yako",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071986"
+    },
+    {
+      "english": "Si lazima uguse, heshima kwanza",
+      "swahili": "Si lazima uguse, heshima kwanza",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071989"
+    },
+    {
+      "english": "Jitambulishe, conducteur atakuelekeza",
+      "swahili": "Jitambulishe, conducteur atakuelekeza",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071992"
+    },
+    {
+      "english": "Ukicheza ratiba, hutopotea safari",
+      "swahili": "Ukicheza ratiba, hutopotea safari",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071995"
+    },
+    {
+      "english": "Tukifika, usimame ghafla, fuata mkondo",
+      "swahili": "Tukifika, usimame ghafla, fuata mkondo",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.071998"
+    },
+    {
+      "english": "Kitu kidogo, lakini bushu la heshima",
+      "swahili": "Kitu kidogo, lakini bushu la heshima",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072001"
+    },
+    {
+      "english": "Mitaani inasonga, usikose ramani",
+      "swahili": "Mitaani inasonga, usikose ramani",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072004"
+    },
+    {
+      "english": "Chukua hatua, basi itakuona mahali",
+      "swahili": "Chukua hatua, basi itakuona mahali",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072006"
+    },
+    {
+      "english": "I feel shy, but I’ll ask politely, please.",
+      "swahili": "Naona haya, lakini nitaomba kwa heshima, tafadhali.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072011"
+    },
+    {
+      "english": "Breathe, we’ll make it, bus is coming soon.",
+      "swahili": "Pumua, tutafika, basi inakuja muda si mrefu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072016"
+    },
+    {
+      "english": "I’m nervous, but you’re calm, that helps.",
+      "swahili": "Nina wasiwasi, lakini wewe uko tulivu, inasaidia.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072021"
+    },
+    {
+      "english": "If it’s crowded, I won’t fight space.",
+      "swahili": "Kama ni msongamano, sitapigania nafasi.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072025"
+    },
+    {
+      "english": "I like your patience, it feels safe here.",
+      "swahili": "Napenda subira yako, inanituliza hapa.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072028"
+    },
+    {
+      "english": "I’m watching the doors, don’t rush me.",
+      "swahili": "Ninatizama milango, usinipige msukumo.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072032"
+    },
+    {
+      "english": "My heart feels heavy, delays make me restless.",
+      "swahili": "Moyoni nina uzito, ucheleweshaji hunifanya nikose uvumilivu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072035"
+    },
+    {
+      "english": "Let’s sit together, even for one stop.",
+      "swahili": "Tu-kae pamoja, hata kwa kituo kimoja.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072039"
+    },
+    {
+      "english": "I’ll hold on, because I’m not ready to fall.",
+      "swahili": "Nitashika vizuri, kwa sababu sijawa tayari kuanguka.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072043"
+    },
+    {
+      "english": "No worries, slow turns don’t scare me.",
+      "swahili": "Hakuna shida, mizunguko ya taratibu siogopi.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072046"
+    },
+    {
+      "english": "I’m trying to be kind, even when late.",
+      "swahili": "Na-jitahidi kuwa mpole, hata nikichelewa.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072048"
+    },
+    {
+      "english": "Watching you, I forget my stress, kidogo tu.",
+      "swahili": "Niku-tazama, nasahau msongo wangu, kidogo tu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072051"
+    },
+    {
+      "english": "Tell me the next direction, I’ll listen softly.",
+      "swahili": "Niambie mwelekeo unaofuata, nisikie kwa upole.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072055"
+    },
+    {
+      "english": "I don’t want to miss you, stop is near.",
+      "swahili": "Sitaki kukupoteza, kituo ni karibu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072058"
+    },
+    {
+      "english": "I’m proud of us, we stayed respectful.",
+      "swahili": "Nina fahari sisi, tulibaki na heshima.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072061"
+    },
+    {
+      "english": "My brain asks questions, but I wait patiently.",
+      "swahili": "Akili yangu inauliza, lakini na-ngojea kwa subira.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072064"
+    },
+    {
+      "english": "If it changes, we adapt, no panic, okay?",
+      "swahili": "Kibadilike, tunabadilika, hakuna hofu, sawa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072068"
+    },
+    {
+      "english": "I’ll keep my bag tight, safety first, always.",
+      "swahili": "Nitashikilia begi langu vizuri, usalama kwanza, daima.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072071"
+    },
+    {
+      "english": "You make the ride lighter, even in noise.",
+      "swahili": "Unifanya safari iwe nyepesi, hata kwenye kelele.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072074"
+    },
+    {
+      "english": "Let’s not block the path, go side by side.",
+      "swahili": "Tusizuie njia, nendeni pembeni pembeni.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072077"
+    },
+    {
+      "english": "I feel grateful, you explained without judging me.",
+      "swahili": "Na-shukuru, ulieleza bila kunihukumu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072079"
+    },
+    {
+      "english": "I’m listening for my stop, please, remind me.",
+      "swahili": "Nanasikiliza kituo changu, tafadhali, ni- kumbushe.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072083"
+    },
+    {
+      "english": "Sometimes I’m awkward, but you’re patient, thanks.",
+      "swahili": "Wakati mwingine na-ona aibu, lakini una subira, asante.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072086"
+    },
+    {
+      "english": "We’ll arrive together, step by step, slow and steady.",
+      "swahili": "Tuta fika pamoja, hatua kwa hatua, polepole na imara.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072090"
+    },
+    {
+      "english": "I’m trying to stay positive, even with delays.",
+      "swahili": "Na-jitahidi kubaki chanya, hata ucheleweshaji ukiwa.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072094"
+    },
+    {
+      "english": "Your smile tells me, this journey will be fine.",
+      "swahili": "Tabasamu lako linaniambia, safari hii itapendeza.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072098"
+    },
+    {
+      "english": "If I look lost, just point me gently.",
+      "swahili": "Ukiniona na- pata njia, ni- elekeze kwa upole tu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072101"
+    },
+    {
+      "english": "I don’t rush love, but I like you here.",
+      "swahili": "Si-haraki mapenzi, lakini nakupenda ukiwa hapa.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072104"
+    },
+    {
+      "english": "Please keep your voice low, let’s respect everyone.",
+      "swahili": "Tafadhali sauti iwe chini, tuwaheshimu wote.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072107"
+    },
+    {
+      "english": "I’m at peace, because we’re moving now.",
+      "swahili": "Nina amani, kwa sababu tunasonga sasa hivi.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-11T10:40:06.072111"
     }
   ],
-  "last_updated": "2026-11-10T10:56:30.741631"
+  "last_updated": "2026-11-11T10:40:06.072113"
 }
