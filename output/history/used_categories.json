@@ -3,7 +3,75 @@
     {
       "category": "Inner Peace",
       "date": "2020-01-01"
+    },
+    {
+      "category": "Happiness",
+      "date": "2020-01-02"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2020-01-03"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2020-01-04"
+    },
+    {
+      "category": "Kindness",
+      "date": "2020-01-05"
+    },
+    {
+      "category": "Meeting People & Greetings",
+      "date": "2020-01-06"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2020-01-07"
+    },
+    {
+      "category": "Creativity",
+      "date": "2020-01-08"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2020-01-09"
+    },
+    {
+      "category": "Patience",
+      "date": "2020-01-10"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2020-01-11"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2020-01-12"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2020-01-13"
+    },
+    {
+      "category": "Growth",
+      "date": "2020-01-14"
+    },
+    {
+      "category": "Sports & Fitness",
+      "date": "2020-01-15"
+    },
+    {
+      "category": "Confidence",
+      "date": "2020-01-16"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2020-01-17"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2020-01-18"
     }
   ],
-  "last_updated": "2026-11-12T11:15:20.907454"
+  "last_updated": "2026-11-12T11:23:32.997565"
 }
