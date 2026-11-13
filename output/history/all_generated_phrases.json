@@ -13351,7 +13351,399 @@
       "transliteration": "NINAKUSAMEHE, LAKINI BADO NINAUMIZWA.",
       "category": "Forgiveness",
       "generated_at": "2026-11-12T22:36:06.608026"
+    },
+    {
+      "english": "I like how you talk to me.",
+      "swahili": "Ninapenda jinsi unavyozungumza nami.",
+      "transliteration": "Ninapenda JINSI unavoZUNGUMZa NAMi.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "We should go for coffee tomorrow.",
+      "swahili": "Tunaweza kwenda kwenye kahawa kesho.",
+      "transliteration": "TUNAWEZA KWENda KWAENye kaHAwa KESho.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Are you seeing someone right now?",
+      "swahili": "Je, una mtu mwingine sasa hivi?",
+      "transliteration": "Je, uNA mtu MWINgine SAza HIVI?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "What do you do on weekends?",
+      "swahili": "Unafanya nini wikendi hii?",
+      "transliteration": "UNAfaYA NINI wiKENdi hii?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "You make me feel calm.",
+      "swahili": "Unanifanya nijisikie tulivu.",
+      "transliteration": "uNANiFAya nijisiKIE TUlivu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "I’m not in a rush, really.",
+      "swahili": "Siko katika haraka, kweli.",
+      "transliteration": "SIko kaTIKA haRAka, KEli.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Can I hold your hand?",
+      "swahili": "Naomba kushika mkono wako.",
+      "transliteration": "NaOMba kuSHIka MKOno WAko.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "I’m bringing dinner for everyone.",
+      "swahili": "Ninaleta chakula cha jioni kwa kila mtu.",
+      "transliteration": "NA naleta cha KUU la cha jio NI kwa KILA mtu",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Where do we keep the spare keys?",
+      "swahili": "Tunaweka funguo za ziada wapi?",
+      "transliteration": "TU naweka FUN guo za ZI ada wAPI",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Can you help me with the laundry?",
+      "swahili": "Unaweza kunisaidia kufua nguo, tafadhali.",
+      "transliteration": "U NA weza ku NISAIDIA ku FUA nguO, ta FADHILI",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "The kids are asleep, shh please.",
+      "swahili": "Watoto wamelala, shh tafadhali.",
+      "transliteration": "WA to to wa ME lala, shh ta FADHILI",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Our house smells like fresh bread.",
+      "swahili": "Nyumbani kwetu kunanuka mkate mpya.",
+      "transliteration": "NYUM baani kwa E tu ku NA nuka Mka te MPYA",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "I’ll call Mom after work.",
+      "swahili": "Nitampigia mama simu baada ya kazi.",
+      "transliteration": "NITAM pigia MA ma SI mu baa daa ya KA zi",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Let’s set the table together.",
+      "swahili": "Tuweke meza pamoja sasa.",
+      "transliteration": "TU Weke ME za pa MOJA sa SA",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Hi, I’m calling to check in.",
+      "swahili": "Habari, na piga simu kukujulia hali.",
+      "transliteration": "HABARI, na PIGA SIMU kuKujulia haLI.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Can you call me back, please?",
+      "swahili": "Unaweza kunipigia simu tena, tafadhali?",
+      "transliteration": "UnaWEZA kuNIPIGIA SIMU teNA, tafadhali?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "I left you a voicemail.",
+      "swahili": "Nimeacha ujumbe wa simu kwenye kasha la sauti.",
+      "transliteration": "niMEACHA uJUMBE wa SIMU kwenye KAsha la SAUTI.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Text me when you’re free.",
+      "swahili": "Nitumie ujumbe ukipata muda.",
+      "transliteration": "niTUMie uJUMBE uKIPATA MUDA.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Did you get my message?",
+      "swahili": "Umeupokea ujumbe wangu?",
+      "transliteration": "uMEUPOKEA uJUMBE wangu?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "I’m stuck in traffic, sorry.",
+      "swahili": "Nimekwama kwenye msongamano wa magari, samahani.",
+      "transliteration": "niMEKWAMA kwenye mSONGOamano wa MAGAri, saMAhani.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Let me know if you can make it.",
+      "swahili": "Nijulishe kama unaweza kufika.",
+      "transliteration": "niJULISHE kaMA uKUNA faKIka.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "I need balance in my day.",
+      "swahili": "Nahitaji usawa katika siku yangu.",
+      "transliteration": "NAnahitaji USAWA katika SIKU yangu.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Let’s slow down and steady up.",
+      "swahili": "Hebu tupunguze mwendo, tujiweke sawa.",
+      "transliteration": "HEbu tuPUNGuze MwenDO, tujiKEwe SAwa.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "I balance work and rest.",
+      "swahili": "Nawasawisha kazi na mapumziko.",
+      "transliteration": "NawaSAWiSHa KAzi na maPUMziKO.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Even my budget needs balance.",
+      "swahili": "Hata bajeti yangu inahitaji usawa.",
+      "transliteration": "HATA BAjeTI yangu iNAYohitaji USAWA.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Keep your life in harmony.",
+      "swahili": "Weka maisha yako yakiwa na usawa.",
+      "transliteration": "WEka maiSHA yaKO yakiwa na USAWA.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "I’m learning to listen calmly.",
+      "swahili": "Nafunza kusikiliza kwa utulivu, bila kukimbizana.",
+      "transliteration": "NAfunza kuSIKiliZa kwa uTULIvu, bila kuKIMbiZANa.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Take a breath before you answer.",
+      "swahili": "Pumua kwanza, kisha ujibu kwa usawa.",
+      "transliteration": "PuMUa KWanza, kEsha ujiBUe kwa USAWA.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Wise choices start with small habits.",
+      "swahili": "Hekima huanza na mazoea madogo.",
+      "transliteration": "HEkima HUanza na maZOEa maDOGO.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Think before you speak, always.",
+      "swahili": "Fikiria kabla ya kuongea, kila wakati.",
+      "transliteration": "FI ki riA kaBLA ya kuO ngea, KIla WA ki ti.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Choose peace, even when it's hard.",
+      "swahili": "Chagua amani, hata ikiuma.",
+      "transliteration": "CHaGUA aMAni, haTA iKiuMA.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Learn fast, but be patient.",
+      "swahili": "Jifunze haraka, lakini subiri kwa upole.",
+      "transliteration": "jiFUNZE haRAka, LAkiNi subiRI kwa uPO le.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "When unsure, ask one good question.",
+      "swahili": "Ukikosa uhakika, uliza swali moja zuri.",
+      "transliteration": "uKI kOsa uHA ki ka, uLIza SWA li MOja ZU ri.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Good advice comes with clear boundaries.",
+      "swahili": "Ushauri mzuri huja na mipaka iliyo wazi.",
+      "transliteration": "ushaURI mzU ri HUja na MI pa ka iLIyo waZI.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Forgive, and free your heart.",
+      "swahili": "Wasamehe, ili moyo wako upate uhuru.",
+      "transliteration": "waSA MEhe, iLIi moYO waKO uPATE uHURu.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Keep going, even when it’s messy",
+      "swahili": "Endelea hata hali ikiwa changamani.",
+      "transliteration": "En-DE-LEA haa-ti hali i-ki-wa changa-ma-ni.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Small steps build big courage",
+      "swahili": "Hatua ndogo hujenga ujasiri mkubwa.",
+      "transliteration": "HA-ta u ndogo hu-JEN-ga u-ja-SI-ri mkU-bwa.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "My plan is simple, I try",
+      "swahili": "Mpango wangu ni rahisi, najaribu tu.",
+      "transliteration": "Mpan-go wan-gu ni RA-hi-si, na-JA-ri-bu tu.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Tomorrow starts with what you do today",
+      "swahili": "Kesho huanza na unachofanya leo.",
+      "transliteration": "KE-sho hu-A-nza na u-na-cho-FAN-ya LEO.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Breathe, then choose the next right step",
+      "swahili": "Pumua, halafu chagua hatua sahihi inayofuata.",
+      "transliteration": "PU-mu-a, ha-LAfu CHa-gua HA-ta sa-hi-hi i-na-yo-FO-a-ta.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "You’re allowed to start over",
+      "swahili": "Una ruhusa kuanza upya.",
+      "transliteration": "U-na RU-hu-sa ku-AN-za u-PYA.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Turn fear into fuel, right now",
+      "swahili": "Badili hofu iwe mafuta, sasa hivi.",
+      "transliteration": "Ba-DI-li HOFU i-we MA-faa-ta, SA-sa hi-vi.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Start small, do it today.",
+      "swahili": "Anza kwa kidogo, fanya leo.",
+      "transliteration": "ANza kwa KiDogo, faiA leo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Write one goal, then act.",
+      "swahili": "Andika lengo moja, kisha utekeleze.",
+      "transliteration": "ANdika lenGO MOja, kisha uteKEleze.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Say no to distractions, daily.",
+      "swahili": "Kataa vishawishi vya kuparaganya, kila siku.",
+      "transliteration": "KAtA viSHAwishi vya kuPARaganya, kila SIku.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Wake up, drink water first.",
+      "swahili": "Amka, kunywa maji kwanza.",
+      "transliteration": "A mka, kunyWA maJI Kwanza.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Plan tomorrow in five minutes.",
+      "swahili": "Panga kesho ndani ya dakika tano.",
+      "transliteration": "PANga keSHO ndani ya daKIKA taNO.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Exercise even when you feel lazy.",
+      "swahili": "Sogea mwili hata ukiwa na uvivu.",
+      "transliteration": "SOgea mwiLI hata ukiWA na UviVU.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Read one page before sleep.",
+      "swahili": "Soma ukurasa mmoja kabla ya kulala.",
+      "transliteration": "SOma uKUraSA MOja kaBLA ya kuLAAla.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "How much for this jacket?",
+      "swahili": "Hii koti inagharimu kiasi gani?",
+      "transliteration": "HII koti ina-GA-RI-MU ka-SI-di gani?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Is there a cheaper size?",
+      "swahili": "Una saizi ya bei nafuu zaidi?",
+      "transliteration": "U-na SAI-ZI ya BEl-na-FUU zaidi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Can I pay by card?",
+      "swahili": "Naweza kulipa kwa kadi?",
+      "transliteration": "Na-WE-ZA ku-LI-pa kwa KA-di?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Do you take mobile money?",
+      "swahili": "Mnakubali pesa ya simu?",
+      "transliteration": "M-na-KU-BA-LI pe-SA ya SI-mu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "Is it on sale today?",
+      "swahili": "Je, iko kwenye ofa leo?",
+      "transliteration": "Je, i-ko kwenye O-fa le-O?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "What's the total including tax?",
+      "swahili": "Jumla yake ni pamoja na kodi?",
+      "transliteration": "JUm-la yake ni paMO-ja na KO-di?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T22:24:08.105006"
+    },
+    {
+      "english": "I want to buy two, please.",
+      "swahili": "Ningependa kununua mbili, tafadhali.",
+      "transliteration": "Nin-ge-PEN-da ku-Nu-nu-a BI-li, ta-FAD-ha-li.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T22:24:08.105006"
     }
   ],
-  "last_updated": "2026-11-12T22:36:06.608026"
+  "last_updated": "2026-11-13T22:24:08.105006"
 }
