@@ -135,7 +135,39 @@
     {
       "category": "Shopping & Prices",
       "date": "2026-11-13"
+    },
+    {
+      "category": "Hope",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Strength",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Positive Life",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Success",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Cultural Traditions",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Travel & Airport",
+      "date": "2026-11-14"
     }
   ],
-  "last_updated": "2026-11-13T22:24:08.114548"
+  "last_updated": "2026-11-14T21:06:14.056995"
 }
