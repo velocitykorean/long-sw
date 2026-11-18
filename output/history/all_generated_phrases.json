@@ -15311,7 +15311,399 @@
       "transliteration": "Sauti yangu ni HALALI, hata kwa UPole.",
       "category": "Confidence",
       "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Hi, what bakes are fresh today?",
+      "swahili": "Habari, ni mkate gani umeoka leo?",
+      "transliteration": "HabARI, ni mKATE gani uMOKA leO?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Do you have coffee for two?",
+      "swahili": "Mna kahawa ya watu wawili?",
+      "transliteration": "MnA KAHAWA ya watu waWILI?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Can I get oat milk, please?",
+      "swahili": "Naomba maziwa ya uji wa shayiri.",
+      "transliteration": "NaOMBA MAziwa ya uJI wa SHAYIRI.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "This smell is making me hungry.",
+      "swahili": "Harufu hii inanifanya njaa.",
+      "transliteration": "haRUfu hii inaNiFANIsha NJAA.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Which bread is best with butter?",
+      "swahili": "Ni mkate gani unaendana na siagi?",
+      "transliteration": "Ni mKATE gani uNaeNDANA na SIAGI?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "What pastries are still warm now?",
+      "swahili": "Kuna keki gani bado ziko vuguvugu?",
+      "transliteration": "KuNA KEki gani bado zIko vUguvugu?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "I’ll take something light for breakfast.",
+      "swahili": "Naomba kitu chepesi kwa kifungua kinywa.",
+      "transliteration": "NaOMBA kitu CHEpesi kwa kiFUNGua kINYWA.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Is this bus to Kariakoo?",
+      "swahili": "Basi hii inaenda Kariakoo?",
+      "transliteration": "BASI hii INAENDA Kariakoo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "What stop is closest to here?",
+      "swahili": "Kituo gani kilicho karibu zaidi hapa?",
+      "transliteration": "KITUO gani KILICHO karibu ZAIDI hapa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Please let me get off first.",
+      "swahili": "Nipe nafasi ni- toroke kwanza.",
+      "transliteration": "NIpe NAFASI ni-TOROKE KWANZA.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "How much is the fare, please?",
+      "swahili": "uliulizauliuliza nauli ni kiasi gani?",
+      "transliteration": "NAULI ni KIASI gani, tafadhali?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "I only have small change.",
+      "swahili": "Nina pesa ndogo tu.",
+      "transliteration": "NINA PESA NDOGO TU.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Do we pay before we board?",
+      "swahili": "Tunapolipa kabla ya kupanda?",
+      "transliteration": "TUNAPOLIPA KABLA ya KUPANDA?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Is there a conductor to ask?",
+      "swahili": "Mtu wa kukusanya tiketi yuko wapi?",
+      "transliteration": "MTU wa KUKUSANYA TIKETI yuko WAPI?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Today, I choose progress over comfort.",
+      "swahili": "Leo, nachagua maendeleo kuliko faraja.",
+      "transliteration": "LEO, nacheagua MAENDELEO kuliko FARAjA.",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "I can start messy, then improve.",
+      "swahili": "Ninaweza kuanza nikiwa na machafuko, kisha kuboresha.",
+      "transliteration": "NINAWEZA KUANZA nikiwa na machAFUKU, kISHA kuboreSHA.",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "My effort counts, even when quiet.",
+      "swahili": "Jitihada zangu zinahesabiwa, hata zikikaa kimya.",
+      "transliteration": "JITIHADA zangu ziNAHesabiwa, hata zikAKAA KIMYA.",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "I trust the process, not my mood.",
+      "swahili": "Ninamwamini mchakato, si hali yangu.",
+      "transliteration": "NINAMWAMINI MCHAKATO, si HALI yangu.",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "One text, one step, just do it.",
+      "swahili": "Ujumbe mmoja, hatua moja, fanya tu.",
+      "transliteration": "Ujumbe MMOJA, HATUA MOJA, fanya TU.",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "I move forward, even if I’m unsure.",
+      "swahili": "Ninasonga mbele, hata kama si hakika.",
+      "transliteration": "NINASONGA MBELE, hata kama si HAKIKA.",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Let it be hard, I will persist.",
+      "swahili": "Iwe ngumu, lakini nitakaa na msimamo.",
+      "transliteration": "IWE NGUMU, lakini nitakaa na msImaMO.",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Thank you for saying sorry.",
+      "swahili": "Asante kwa kuomba msamaha.",
+      "transliteration": "A-SAN-te kwa U-OM-ba MSA-ha-fa-ha.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "I’m ready to forgive you.",
+      "swahili": "Niko tayari kuku-samehe.",
+      "transliteration": "NI-ko ta-AY-a-ka KU-ku-SAME-he.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Let’s drop it, we’re okay.",
+      "swahili": "Tuweke hayo nyuma, tuko sawa.",
+      "transliteration": "TU-we-ke ha-yo NYU-ma, TU-ko SA-wa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "I choose peace over resentment.",
+      "swahili": "Nnachagua amani kuliko chuki.",
+      "transliteration": "NNA-cha-gu-a A-ma-ni ku-li-ko CHU-ki.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "I forgive you, no more talking.",
+      "swahili": "Nimesamehe, usililie tena.",
+      "transliteration": "NI-me-sa-ME-he, u-si-LI-e TE-na.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "We can start fresh today.",
+      "swahili": "Leo tunaweza kuanza upya.",
+      "transliteration": "LE-o tu-na-weza KU-an-za u-PYA.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "I’ll be kind, even after that.",
+      "swahili": "Nitakuwa mwema, hata baada ya hayo.",
+      "transliteration": "NI-ta-kuwa MWe-ma, HA-ta BA-a-da ya HA-yo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Feel your breath at your nose",
+      "swahili": "Hisi pumzi yako kupitia pua yako sasa",
+      "transliteration": "HISI PUMZI yako kupitIA PUA yako SAASA",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Let your gaze soften and blink",
+      "swahili": "Punguza kutazama, fumba macho kwa upole sasa",
+      "transliteration": "PUNGUZA KUTAZAMA, FUMBA MAlCHO kwa UPOle SAASA",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Name one sound without judging it",
+      "swahili": "Taja sauti moja tu, bila kuhukumu",
+      "transliteration": "TAJA SAUTI MOJA TU, BILA KUHUKUMU",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Notice your hands resting right now",
+      "swahili": "Tambua mikono yako ilivyo tulivu sasa hivi",
+      "transliteration": "TAMBUA MIKONO yako ILIVYO tulivu SAASA hivi",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Relax your belly like a wave",
+      "swahili": "Lainisha tumbo, lichukue pumzi kwa utulivu",
+      "transliteration": "LAINISHA TUMBO, LIchukUE PUMZI kwa utulivu",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Watch thoughts pass like clouds",
+      "swahili": "Tazama mawazo yakipita kama mawingu",
+      "transliteration": "TAZAMA MAWAzO yakIPITA kama MAWINGU",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Ask, what do I need today?",
+      "swahili": "Jiulize, ninahitaji nini leo?",
+      "transliteration": "JIUlishe, NINAHITAJI nini LEO",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "This feels like the best night",
+      "swahili": "Usiku huu una ladha ya furaha.",
+      "transliteration": "USIKU huu una LADHA ya FUraha.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "I’m grinning, even my shoulders feel light",
+      "swahili": "Nacheka, hata mabega yamepungua mzigo.",
+      "transliteration": "NACHEKA, hata MABEGA yamePUNGuwa MZiGO.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Let’s dance like nobody’s watching",
+      "swahili": "Tuchangamke, tucheze kama hakuna mtu anayetazama.",
+      "transliteration": "TUCHANGAMKE, TUcheze kama ha kuna MTU anayeTAZAMA.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Your text just warmed my whole day",
+      "swahili": "Ujumbe wako umenijia moto siku nzima.",
+      "transliteration": "UJUMBE wako umeNJIa MOTO SIku zima.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "I needed this laugh, wow",
+      "swahili": "Nilihitaji kicheko hiki, wow.",
+      "transliteration": "NiliHITaji KICHEko hiki, wow.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Music off, I still feel joy",
+      "swahili": "Hata muziki ukikatika, furaha inabaki.",
+      "transliteration": "HATA MUZIKI ukikaTIKA, FUraha inaBAKI.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Today, everything clicks",
+      "swahili": "Leo, kila kitu kinaendana.",
+      "transliteration": "LEO, KIla KItu kinaENdaNA.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Thank you for the quick reply.",
+      "swahili": "Asante kwa kunijibu haraka.",
+      "transliteration": "A-SAN-te kwa ku-NI-jibu HA-ra-ka.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "I appreciate your patience with me.",
+      "swahili": "Nashukuru kwa uvumilivu wako.",
+      "transliteration": "na-SHU-kru kwa u-vi-MI-li-vu wa-ko.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "You made my day with that.",
+      "swahili": "Umenifanyia siku yangu.",
+      "transliteration": "u-me-ni-FAN-yi-a si-ku ya-myu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Thanks for answering all my questions.",
+      "swahili": "Asante kwa kujibu maswali yangu yote.",
+      "transliteration": "A-SAN-te kwa ku-JI-bu ma-SWA-li ya-n-gu YO-te.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "I’m grateful for your honest advice.",
+      "swahili": "Ninashukuru kwa ushauri wako wa kweli.",
+      "transliteration": "ni-na-SHU-ku-ru kwa u-SHAU-ri wa-ko wa KWE-li.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Thank you for speaking up for me.",
+      "swahili": "Asante kwa kunitetea.",
+      "transliteration": "A-SAN-te kwa ku-NI-te-te-a.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Thanks for checking the details.",
+      "swahili": "Asante kwa kuangalia maelezo.",
+      "transliteration": "A-SAN-te kwa ku-aNGA-li-a ma-AE-le-zo.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "What about tomorrow morning?",
+      "swahili": "Vipi kuhusu asubuhi ya kesho?",
+      "transliteration": "ViPi kuhusu ASUBUHI ya KESHO?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "I can do late afternoon.",
+      "swahili": "Naweza kufanya alasiri ya mwisho.",
+      "transliteration": "NaWEZA kuFANya ALA siRI ya MWISHo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Let’s meet near the station.",
+      "swahili": "Tuonane karibu na kituo cha treni.",
+      "transliteration": "TuuONane kaRIBU na KI tuo cha TREni.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Where should we start from?",
+      "swahili": "Tuanze wapi?",
+      "transliteration": "TuaNZE WAPI?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "Can you confirm the address?",
+      "swahili": "Unaweza kuthibitisha anwani?",
+      "transliteration": "UnaWEza kuTHIBITisha ANWANI?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "I’m checking my emails now.",
+      "swahili": "Ninapitia barua pepe zangu sasa hivi.",
+      "transliteration": "NinapiTIA BArua PEPE zaNGU SA SA hivi.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-18T23:17:28.994123"
+    },
+    {
+      "english": "I need a quick call today.",
+      "swahili": "Nahitaji simu fupi leo.",
+      "transliteration": "NaHI taiji SIMU fuPi LEO.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-18T23:17:28.994123"
     }
   ],
-  "last_updated": "2026-11-17T23:46:39.746543"
+  "last_updated": "2026-11-18T23:17:28.994123"
 }
