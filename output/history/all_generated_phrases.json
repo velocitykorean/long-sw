@@ -14919,7 +14919,399 @@
       "transliteration": "VIPI niKIBADILISHA SHERIA LEO?",
       "category": "Creativity",
       "generated_at": "2026-11-17T00:41:23.429650"
+    },
+    {
+      "english": "I love walking after work.",
+      "swahili": "Naipenda kutembea baada ya kazi.",
+      "transliteration": "Naipenda kutembea baadA ya kazi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I journal when the day slows.",
+      "swahili": "Ninaandika jarida siku ikilegea.",
+      "transliteration": "Ninaandika jARIda siku ikileGEA.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I water plants and feel better.",
+      "swahili": "Naweka maji kwenye mimea, napata nafuu.",
+      "transliteration": "Naweka maji kwenye MImea, napata nAFuu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Cooking dinner gives me comfort.",
+      "swahili": "Kupika chakula cha jioni hunipa faraja.",
+      "transliteration": "Kupika chakula cha jioni hunipa FARaja.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I do yoga, just ten minutes.",
+      "swahili": "Nafanya yoga, dakika kumi tu.",
+      "transliteration": "Nafanya YOga, dakika KUmi tu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I try a new recipe sometimes.",
+      "swahili": "Mara nyingine najaribu mapishi mapya.",
+      "transliteration": "Mara nyingine naJARibu maPISHI maPya.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I sketch while music plays softly.",
+      "swahili": "Ninachora michoro huku muziki ukicheza taratibu.",
+      "transliteration": "Ninachora MIchoro huku muZIKI ukicheza taratibu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I can breathe, then wait.",
+      "swahili": "Naweza kupumua, kisha subiri.",
+      "transliteration": "Na-we-za pu-mu-a, ki-kha su-bi-ri.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Wait without judging yourself.",
+      "swahili": "Subiri bila kujihukumu.",
+      "transliteration": "Su-bi-ri bi-la ku-ji-hu-ku-mu.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Good things take real time.",
+      "swahili": "Mambo mazuri huchukua muda.",
+      "transliteration": "Ma-am-bo ma-zu-ri hu-chi-ku-a mu-da.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I choose calm over quick reactions.",
+      "swahili": "Ninachagua utulivu kuliko majibu ya haraka.",
+      "transliteration": "Ni-na-chi-a-gu-a u-tu-li-vu ku-liko ma-ji-bu ya ha-ra-ka.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Let your body catch up.",
+      "swahili": "Mwili wako nao ufuate polepole.",
+      "transliteration": "Mwi-li wa-ko nao u-fu-a-te po-le-po-le.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "No rush, just steady steps.",
+      "swahili": "Hakuna kukimbilia, hatua kwa hatua tu.",
+      "transliteration": "Ha-ku-na ku-ki-mbi-lli-a, ha-tua kwa ha-tua tu.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I’ll answer when the noise settles.",
+      "swahili": "Nitajibu wakati kelele zinapungua.",
+      "transliteration": "Ni-ta-ji-bu wa-kti ke-le-le zi-na-pungu-a.",
+      "category": "Patience",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Can I get an extra key?",
+      "swahili": "Naomba ufunguo wa ziada, tafadhali.",
+      "transliteration": "Naomba U-FUN-KU-O wa ZI-A-da, ta-faDHA-li.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Is breakfast included in my rate?",
+      "swahili": "Je, kifungua kinywa kimejumuishwa kwenye bei?",
+      "transliteration": "Je, ki-FU-riA-ngua ki-NYWA ki-me-JUMU-shi-wa kwen-gE-ni bEi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "What time is check-out tomorrow?",
+      "swahili": "Kesho muda wa kuondoka ni saa ngapi?",
+      "transliteration": "KE-sho MU-da wa ku-ON-do-ka ni Saa NGA-pi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Could I switch rooms, please?",
+      "swahili": "Naweza kubadilisha chumba, tafadhali?",
+      "transliteration": "Na-weza ku-BA-DI-li-sha CHUM-ba, ta-faDHA-li?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Is there parking on site?",
+      "swahili": "Maegesho yapo hapa kwenye eneo?",
+      "transliteration": "MA-e-GE-sho ya-po HA-pa kwen-gE-ni E-ne-o?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Do you have a quiet room option?",
+      "swahili": "Mna chumba chenye utulivu zaidi?",
+      "transliteration": "M-na CHUM-ba CHEN-ye u-tu-LI-vi za-i-di?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Is there a safe in the room?",
+      "swahili": "Je, kuna salama ya kuweka vitu chumbani?",
+      "transliteration": "Je, ku-na sa-LA-ma ya ku-we-ka VI-tu CHU-ba-ni?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "The rain just started, finally.",
+      "swahili": "Mvua imeanza tu, hatimaye.",
+      "transliteration": "M-VU-a i-me-an-za tu, ha-ti-ma-ye.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Do you feel that cool breeze?",
+      "swahili": "Unahisi upepo wa baridi namna hii?",
+      "transliteration": "U-na-hisi u-pe-po wa ba-ri-di nam-na hi-i?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "It might drizzle later, are you ready?",
+      "swahili": "Inaweza kunyanyuka kidogo baadaye, uko tayari?",
+      "transliteration": "I-na-weza ku-nyan-yu-ka ki-do-go baa-da-ye, u-ko ta-ya-ri?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "My windows fogged up already.",
+      "swahili": "Madirisha yameanza kupazuka ukungu.",
+      "transliteration": "Ma-di-ri-sha ya-me-an-za ku-pa-zu-ka ukun-gu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "The sky is bright, no worries.",
+      "swahili": "Anga ni angavu, hakuna hofu.",
+      "transliteration": "An-ga ni an-ga-vu, ha-ku-na ho-fu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Wow, the sun is warm today.",
+      "swahili": "Polepole, jua leo linapasha moto.",
+      "transliteration": "Po-le-po-le, ju-a le-o lin-a-pa-sha mo-to.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I hear a soft shower coming.",
+      "swahili": "Na sikia mvua nyepesi inakuja.",
+      "transliteration": "Na si-ki-a m-vu-a nye-pe-si i-na-ku-ja.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "What comes with this meal?",
+      "swahili": "NiNini kinakuja na chakula hiki?",
+      "transliteration": "Ni-NI-ni ki-na-ku-ja na cha-ku-la hi-chi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Can I see the menu, please?",
+      "swahili": "Naomba nione menyu, tafadhali.",
+      "transliteration": "Na-OMba ni-o-ne me-nyu, ta-fa-dha-li.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Is this dish freshly made today?",
+      "swahili": "Sahani hii imetayarishwa leo, hivi punde?",
+      "transliteration": "Sa-ha-ni hi-ii i-me-ta-ya-ri-shwa le-o, hi-vi pun-de?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I want it less oily, please.",
+      "swahili": "Ningependa kiwe si chenye mafuta mengi.",
+      "transliteration": "Nin-ge-pen-da ki-we si ch-EN-ye ma-fa-ta mengi.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Can you make it vegetarian for me?",
+      "swahili": "Naomba kiwe cha mboga tu, inawezekana?",
+      "transliteration": "Na-OMba ki-we cha mBO-ga tu, i-na-we-zeka-na?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I’ll take the chef’s special, please.",
+      "swahili": "Naomba nipate maalum ya mpishi.",
+      "transliteration": "Na-OMba ni-pa-te ma-a-lum ya m-pi-shi.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "What’s the quickest thing on offer?",
+      "swahili": "Kitu gani kinachotoka haraka zaidi?",
+      "transliteration": "Ki-tu ga-ni ki-na-cho-to-ka ha-ra-ka zaidi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I start small, and I follow through.",
+      "swahili": "Naanza kidogo, na naendelea hadi mwisho.",
+      "transliteration": "Naanza KIDOGO, na NAENDELEA hadi MWISHO.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I practice daily, even when it feels messy.",
+      "swahili": "Nafanya mazoezi kila siku, hata yakichanganya moyo.",
+      "transliteration": "Nafanya MAZOEZI kila SIKU, hata yakichanganya MOYO.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I keep showing up, not perfectly, just steadily.",
+      "swahili": "Naendelea kuonyesha, si kwa ukamilifu, bali kwa utulivu.",
+      "transliteration": "NAdendelea KUONYESHA, si kwa UKAMILIFU, bali kwa UTULIVU.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "My goal is consistency, not intensity.",
+      "swahili": "Lengo langu ni uthabiti, si nguvu ya muda.",
+      "transliteration": "Lengo LANGU ni UTHABITI, si NGUVU ya MUDA.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I learn from setbacks, then adjust fast.",
+      "swahili": "Najifunza kutokana na kushindwa, kisha narekebisha haraka.",
+      "transliteration": "Najifunza KUTOKANA na KUSHINDWA, kisha NAREKEBISHA HARAKA.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I grow by doing the next right thing.",
+      "swahili": "Nakua kwa kufanya jambo linalofuata lililo sahihi.",
+      "transliteration": "NakuA kwa kufanya JAMBO linalofuata LILO SAHIHI.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I notice fear, then I take one step.",
+      "swahili": "Nakitambua hofu, kisha napiga hatua moja.",
+      "transliteration": "NaKItambua HOFU, kisha NAPIGA HATUA MOJA.",
+      "category": "Growth",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Lock in your form, then speed.",
+      "swahili": "Kaza umbo, kisha ongeza kasi.",
+      "transliteration": "KA-za um-bo, KIS-ha on-ge-za KA-si.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Breathe out on the hard part.",
+      "swahili": "Toa pumzi kwenye sehemu ngumu.",
+      "transliteration": "TO-a pum-zi KWENye SEHE-mu ngU-mu.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Start slow, finish strong today.",
+      "swahili": "Anza taratibu, maliza kwa nguvu leo.",
+      "transliteration": "AN-za ta-ra-TI-bi, ma-LI-za kwa NGU-ngu le-O.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Keep your core tight, stay steady.",
+      "swahili": "Shika tumbo la ndani, kaa imara.",
+      "transliteration": "SHI-ka TUM-bo la nDAn-i, kaa iMA-ra.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "If you feel pain, stop and check.",
+      "swahili": "Ukipata maumivu, simama uangalie.",
+      "transliteration": "U-ki-pa-ta ma-Au-vi-u, si-MA-ma u-an-ga-LIE.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "Take breaks, then return stronger.",
+      "swahili": "Pumzika kidogo, kisha urudi ukiwa na nguvu zaidi.",
+      "transliteration": "pu-MZI-ka ki-do-go, KI-sha u-RU-di u-ki-wa na NGU-ngu zaI-di.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I’m building consistency, not perfection.",
+      "swahili": "Naijenga nidhamu ya mwendelezo, si ukamilifu.",
+      "transliteration": "na-ijEN-ga ni-da-mu ya mweN-de-le-zo, si u-ka-mi-LI-fu.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "My confidence starts with one step.",
+      "swahili": "Ujasiri wangu unaanza na hatua moja.",
+      "transliteration": "Ujasiri wangu unaanza na HATUA MOJA.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I trust my preparation to show up.",
+      "swahili": "Ninaamini maandalizi yangu yatadhihirika.",
+      "transliteration": "Ninaamini MAANDALIZI yangu yataDHIRIKA.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I speak up, then adjust as I go.",
+      "swahili": "Ninasema, halafu narekebisha kadri ninavyoendelea.",
+      "transliteration": "Ninasema, halafu naREKEBISHA kadri niNAVYOENDELEA.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I don’t need perfect, I need real.",
+      "swahili": "Sihitaji ukamilifu, ninahitaji ukweli.",
+      "transliteration": "Sihitaji UKAMILIFU, ninahitaji UKWELI.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I keep my promises to myself.",
+      "swahili": "Ninatekeleza ahadi zangu kwa nafsi yangu.",
+      "transliteration": "Ninatekeleza AHADI zangu kwa NAFsi yangu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "I can ask for help without shame.",
+      "swahili": "Naweza kuuliza msaada bila aibu.",
+      "transliteration": "Naweza kuULIZA msaada bila AIBU.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T23:46:39.746543"
+    },
+    {
+      "english": "My voice is valid, even softly.",
+      "swahili": "Sauti yangu ni halali, hata kwa upole.",
+      "transliteration": "Sauti yangu ni HALALI, hata kwa UPole.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T23:46:39.746543"
     }
   ],
-  "last_updated": "2026-11-17T00:41:23.429650"
+  "last_updated": "2026-11-17T23:46:39.746543"
 }
