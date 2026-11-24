@@ -423,7 +423,39 @@
     {
       "category": "Creativity",
       "date": "2026-11-22"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Confidence",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Sports & Fitness",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Growth",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-24"
     }
   ],
-  "last_updated": "2026-11-22T22:19:15.313439"
+  "last_updated": "2026-11-24T03:43:10.144441"
 }
