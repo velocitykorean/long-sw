@@ -17663,7 +17663,399 @@
       "transliteration": "U-NaWEza kuKIBADiliSHA kiwe cha MOga, tafadhali?",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-11-24T03:43:10.132700"
+    },
+    {
+      "english": "I breathe, and I soften inward.",
+      "swahili": "Nina pumua, nami na laini ndani.",
+      "transliteration": "Na-na PUMUA, na-mi na LAINI DANI.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "My chest feels lighter right now.",
+      "swahili": "Kifua changu kinaonekana kuwa chepesi sasa.",
+      "transliteration": "KIFUA CHA-NGU ki-na-o-onekana KWA- wa CHEPESI SA-SA.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "I make room for calm today.",
+      "swahili": "Naweka nafasi kwa utulivu leo.",
+      "transliteration": "Na-UNK-wa NAFASI kwa U-TU-LI-VU LEO.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "I pause, then let thoughts pass.",
+      "swahili": "Na simama kidogo, kisha mawazo yapite.",
+      "transliteration": "Na SI-MA-ma KI-DOGO, kisha MA-A-zo YA-PITE.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "I trust my next step.",
+      "swahili": "Nawaamini hatua yangu inayofuata.",
+      "transliteration": "Na-wa-A-MI-ni HATUA YA-NGU INAYO-FU-A-TA.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Even my silence feels safe.",
+      "swahili": "Hata ukimya wangu unahisi salama.",
+      "transliteration": "HA-ta U-KIMYA WA-ngu u-na-HISI SA-LA-ma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "I choose kindness toward myself now.",
+      "swahili": "Naamua kuwa mwenye fadhili kwangu sasa.",
+      "transliteration": "Na-A-MUA KU-wa MWE-NYE FA-DHI-LI KWA-ngu SA-sa.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Speak gently, even when you're angry",
+      "swahili": "Sema kwa upole, hata ukiwa na hasira",
+      "transliteration": "SEMA kwa UPole, HATA ukiwa na haSIRA",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Include people, don't leave them out",
+      "swahili": "Wajumuishe watu, usiwaache nje",
+      "transliteration": "WAJUMUISHE watu, USIwaache NJE",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Notice pain, ask, and actually care",
+      "swahili": "Uone maumivu, uliza, kisha kujali",
+      "transliteration": "Uone MAUUMIVU, uLIza, kisha KUJALI",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Bring water, tea, or a snack",
+      "swahili": "Leta maji, chai, au kitu kidogo cha kula",
+      "transliteration": "LETA MAJI, chai, au KItu kidogo cha KUla",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Make space for quiet, not noise",
+      "swahili": "Acha nafasi ya utulivu, si kelele",
+      "transliteration": "Acha NAFASI ya uTULIVU, si keLELE",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "If you mess up, repair right away",
+      "swahili": "Ukipotoka, rekebisha mara moja",
+      "transliteration": "UkipoTOKA, REKEBISHA maRA MOJA",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Offer encouragement, not pressure",
+      "swahili": "Toa moyo, bila kusukuma",
+      "transliteration": "TOA MOYO, bila kuSUKUMA",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "I can handle the next small thing.",
+      "swahili": "Naweza kushughulikia hatua inayofuata tu.",
+      "transliteration": "NAWEza kushugHUHikia HAta inayofuAto TU.",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "My future needs my effort now.",
+      "swahili": "Utu wangu wa baadaye unahitaji juhudi yangu sasa.",
+      "transliteration": "uTU wangu wa baaDAye unaHITaji JUhudi yangu saSA.",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Make it happen, then adjust.",
+      "swahili": "Fanya iwezekane, kisha rekebisha.",
+      "transliteration": "FANya iwezeKANE, KIsha reKEbiSha.",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "No drama, just steady action.",
+      "swahili": "Bila maumivu ya moyo, fanya tu kwa uthabiti.",
+      "transliteration": "BIla mauMIvu ya moyo, FANya tu kwa uTHAbaTi.",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Even one minute is real progress.",
+      "swahili": "Hata dakika moja ni maendeleo halisi.",
+      "transliteration": "HATA DAKiKA MOja ni MAendeleo HAliSI.",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Let doubt speak, I keep moving.",
+      "swahili": "Wacha shaka izungumze, mimi naendelea.",
+      "transliteration": "WAcha SHAka iZUNGumze, MI mi NAENdelea.",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Choose courage over convenience today.",
+      "swahili": "Leo chagua ujasiri kuliko starehe rahisi.",
+      "transliteration": "LEO CHAGua uJA sira kuLIko stAREhe raHIsi.",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Thank you for checking in on me.",
+      "swahili": "Asante kwa kunijulia hali.",
+      "transliteration": "A-SAN-TE kwa ku-NI-ju-li-a ha-li.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "I’m grateful for your encouragement today.",
+      "swahili": "Na-shukuru kwa kuti-a moyo leo.",
+      "transliteration": "Na-SHU-ku-RU kwa ku-TI-a MO-yo LEO.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Thank you for sharing that with me.",
+      "swahili": "Asante kwa kunishirikisha hilo.",
+      "transliteration": "A-SAN-TE kwa ku-NI-SHI-ri-KI-sha HI-lo.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "You saved me a lot of trouble.",
+      "swahili": "Ulininusua matatizo mengi.",
+      "transliteration": "U-li-ni-nu-SUA ma-ta-ta-zo MEN-gi.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Thanks for making time for my family.",
+      "swahili": "Asante kwa kutupangia muda sisi na familia yangu.",
+      "transliteration": "A-SAN-TE kwa ku-tu-PAN-gia MU-da SI-si na FA-mi-li-a yangu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "I appreciate you being so dependable.",
+      "swahili": "Na-shukuru kwa kuwa mwaminifu na thabiti.",
+      "transliteration": "Na-SHU-ku-RU kwa ku-wa mWA-mi-ni-fu na tha-BI-ti.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Thank you for keeping your promise.",
+      "swahili": "Asante kwa kutimiza ahadi yako.",
+      "transliteration": "A-SAN-TE kwa ku-TI-mi-za a-HA-di ya-ko.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Hi, what s fresh from the oven?",
+      "swahili": "Habari, ni kipi kipya kutoka kwenye oveni leo?",
+      "transliteration": "Habari, ni kipi piya kutoka KWENYE ov-enI LEO?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Can I get a latte, please?",
+      "swahili": "Naweza kupata latte tafadhali.",
+      "transliteration": "Na-weza PA-ta la-tte ta-FAD-ha-li.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Do you have cinnamon buns today?",
+      "swahili": "Mna mikate ya cinnamon leo?",
+      "transliteration": "Mna mi-kate ya CIN-na-mon leO?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "I ll take the croissant, lightly toasted.",
+      "swahili": "Nitaichukua croissant, nikaitoe kidogo.",
+      "transliteration": "Ni-ta-i-CHU-KUA croissant, ni-ka-itoe ki-DO-go.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "What bread is good for sandwiches?",
+      "swahili": "Mkate gani unafaa kwa sandwichi?",
+      "transliteration": "M-kate gani u-na-fa-a kwa SAN-dwi-chi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Is your coffee smooth or strong?",
+      "swahili": "Kahawa yenu ni laini au kali?",
+      "transliteration": "Ka-HA-wa ye-nu ni LAi-ni au KA-li?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Can I pay by card, please?",
+      "swahili": "Naomba niwa kulipa kwa kadi.",
+      "transliteration": "Na-om-ba ni-wa KU-li-pa kwa KA-di.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Right now, soften your grip.",
+      "swahili": "Sasa hivi, lEgesha ushikaman**o** wako.",
+      "transliteration": "Sasa hivi, lEgesha ushikaman**o** wako.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Feel your feet, then your legs.",
+      "swahili": "Ishike akili yako kwenye miguu yako, kisha mapaja yako.",
+      "transliteration": "Ishike akili yako kwenye miguu yako, kisha mapaja yako.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Notice your jaw moving, quietly.",
+      "swahili": "Tazama taya yako ikisogea taratibu.",
+      "transliteration": "Tazama taya yako ikisogea taratibu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Ask, what am I doing right now?",
+      "swahili": "Jiulize, na Nafanya nini sasa hivi.",
+      "transliteration": "Jiulize, na NAFANYA nini sasa hivi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Let your eyes rest on one spot.",
+      "swahili": "Acha macho yako yapumzike kwenye sehemu moja.",
+      "transliteration": "Acha macho yako yapumzike kwenye sehemu moja.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Exhale slowly, like letting go.",
+      "swahili": "Toa pumzi taratibu, kama unavyosamehe.",
+      "transliteration": "Toa pumzi taratibu, kama unavyosamehe.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Scan: forehead, eyes, cheeks, lips.",
+      "swahili": "Chunguza paji la uso, macho, mashavu, na midomo.",
+      "transliteration": "Chunguza paji la uso, macho, mashavu, na midomo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "You make my heart feel lighter",
+      "swahili": "Wewe unafanya moyo wangu ujisikie mwepesi",
+      "transliteration": "WEwe unafAya MOYO wangu ujIsikie MWEpesi",
+      "category": "Joy",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "This song is healing my mood",
+      "swahili": "Wimbo huu unaponya hali yangu",
+      "transliteration": "WIMbo huu unAponya HAli yangu",
+      "category": "Joy",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "I caught myself smiling out loud",
+      "swahili": "Nimejipata nikitabasamu nikiwa kwa sauti",
+      "transliteration": "NimeJI pata NIKI tabasamu NIKIwa kwa Sauti",
+      "category": "Joy",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Your voice sounds like sunshine",
+      "swahili": "Sauti yako inanukia kama jua",
+      "transliteration": "SAUTI yaKO inaNUKia kaMA jua",
+      "category": "Joy",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Let’s step out, the day’s ours",
+      "swahili": "Toka sasa, siku hii ni yetu",
+      "transliteration": "TOka SAsa, SIku hii ni YETu",
+      "category": "Joy",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "I’m dancing in my own thoughts",
+      "swahili": "Ninacheza dansi kichwani mwangu",
+      "transliteration": "NInaCHEza dAnsi kiCHwa ni mwangu",
+      "category": "Joy",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Nothing heavy today, only joy",
+      "swahili": "Leo hakuna mzigo, ni furaha tu",
+      "transliteration": "LEO haKUna MZigo, ni FURAha TU",
+      "category": "Joy",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "I forgive you, sincerely, right now.",
+      "swahili": "Ninakusamehe kwa dhati, sasa hivi.",
+      "transliteration": "NinakUSAMEHE kwa dhaTI, sasa HIvi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "Let it go, we’re both human.",
+      "swahili": "Tuache, sisi sote ni binadamu.",
+      "transliteration": "TUAche, sisi sote ni biNAMUdu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "I release the anger, quietly.",
+      "swahili": "Naachilia hasira, kimya kimya.",
+      "transliteration": "NaaCHIliA haSIra, KI mya KI mya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "No more replaying that conversation.",
+      "swahili": "Sitarudia kuikumbuka ile mazungumzo.",
+      "transliteration": "SItaRUDI kuikUMBUka iLE maZUNGUMzo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "I forgive you, even if it hurt.",
+      "swahili": "Ninakusamehe, hata kama iliumiza.",
+      "transliteration": "NinakUSAMEHE, hata KAma iliUMIza.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "We can talk again when calm.",
+      "swahili": "Tutaongea tena tukishatulia.",
+      "transliteration": "TutaONgea teNa tukishatiULIA.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "I’m letting this pass, not stay.",
+      "swahili": "Naiacha ipite, isibaki.",
+      "transliteration": "NaiAcha iiPITE, isiBAKi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T01:17:13.111297"
     }
   ],
-  "last_updated": "2026-11-24T03:43:10.132700"
+  "last_updated": "2026-11-25T01:17:13.111297"
 }
