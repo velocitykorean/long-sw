@@ -18055,7 +18055,399 @@
       "transliteration": "NaiAcha iiPITE, isiBAKi.",
       "category": "Forgiveness",
       "generated_at": "2026-11-25T01:17:13.111297"
+    },
+    {
+      "english": "What’s the plan for today?",
+      "swahili": "Mpango wetu ni upi leo?",
+      "transliteration": "mpango wetu ni Upi leo?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "I’ll share options, you choose.",
+      "swahili": "Nitakutumia chaguo, uamue.",
+      "transliteration": "Nita-ku-tumIa CHa-guo, u-aMUE.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Let’s decide by tonight.",
+      "swahili": "Tuamue hadi jioni.",
+      "transliteration": "tu-aMUE haDi JO-ni.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Can we agree on a start?",
+      "swahili": "Tuafikiane na wakati wa kuanza?",
+      "transliteration": "tu-a-fi-KIa-ne na WAK-ti wa ku-ANza?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "I need a little buffer time.",
+      "swahili": "Nahitaji muda wa ziada kidogo.",
+      "transliteration": "na-HI-ta-j i MU-da wa zi-A-da ki-Dogo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Do we have a backup plan?",
+      "swahili": "Tuna mpango wa dharura pia?",
+      "transliteration": "tu-na mpANgo wa dha-ra-U-ra pi-a?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Let’s map the route first.",
+      "swahili": "Tuanzie kupanga njia.",
+      "transliteration": "tu-aNzie ku-panGA na-yi-a.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Is this the right platform?",
+      "swahili": "Hii jukwaa ni sahihi?",
+      "transliteration": "HiIu juKwaa ni saHiiHi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Does the bus stop near there?",
+      "swahili": "Basi linasimama karibu huko?",
+      "transliteration": "BaSi linaSimama kaRIBu HuKo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Is there room for a stroller?",
+      "swahili": "Kuna nafasi kwa kitembea mtoto?",
+      "transliteration": "KuNa naFASi kwa kiTeMBea muTTo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Please wait, I’m just getting on.",
+      "swahili": "Tafadhali ngoja, naingia tu.",
+      "transliteration": "TaFaDhali ngoja, naENga tu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Next, which street are we on?",
+      "swahili": "Baada ya hapo, tupo mtaani gani?",
+      "transliteration": "BAada ya Hapo, tuPo mTAanii gaNi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Will there be traffic today?",
+      "swahili": "Kutakuwa na msongamano leo?",
+      "transliteration": "KuTaKwa na mSOngoamano leO?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "I’ll pay cash if needed.",
+      "swahili": "Nitalipa pesa taslimu ikihitajika.",
+      "transliteration": "NItaLipa peSa taSliMU iKiHiTAJiKa.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "I lace my shoes and head out",
+      "swahili": "Nafunga kamba za viatu vyangu, kisha natoka nje",
+      "transliteration": "Nafunga KAMBA za VIA TU vyangu, kisha natoka NJE",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "I review my schedule before meetings",
+      "swahili": "Ninakagua ratiba yangu kabla ya mikutano",
+      "transliteration": "Ninakagua RATIba yangu KA BLA ya mI KU ta no",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "I grab a quick snack at work",
+      "swahili": "Naokota vitafunwa kwa haraka kazini",
+      "transliteration": "NaOKOta VI taFUNWA kwa haRAka kaZINI",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "I take a short walk during lunch",
+      "swahili": "Natembea muda mfupi wakati wa mapumziko ya chakula cha mchana",
+      "transliteration": "Na TEMBEa MUda mfupi wa KA ti ya ma PUM ZI KO ya CHAK ula cha MCHANA",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "I step into the elevator, then breathe",
+      "swahili": "Naingia kwenye lifti, halafu napumua tu",
+      "transliteration": "Na IN gia kwenye LIFTI, ha lafu naPUMUA TU",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "I check my email once, then focus",
+      "swahili": "Ninakagua barua pepe mara moja, kisha naanza kazi kwa makini",
+      "transliteration": "Ninakagua baRUA pePE ma ra MOJA, kisha naANza KAzi kwa ma KINI",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "I call home on my break",
+      "swahili": "Nampigia nyumbani wakati wa mapumziko",
+      "transliteration": "NaMPIGia NYUMBANI wa KA ti wa ma PUM ZI KO",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Hi, I need help with my SIM",
+      "swahili": "Habari, naomba msaada kuhusu SIM yangu",
+      "transliteration": "HABARI, naOMba MSAADA kuHUSU SIM yangu",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Sorry, wrong number, my bad",
+      "swahili": "Samahani, nimekosea namba, pole",
+      "transliteration": "saMAHANI, niMEKOsea NAMBA, POLE",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Could you send the invoice by text?",
+      "swahili": "Unaweza kutuma risiti kwa SMS?",
+      "transliteration": "U-NAWeza kuTUMA RI-siti kwa SMS",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "I just arrived, where are you?",
+      "swahili": "Nimefika tu, uko wapi?",
+      "transliteration": "niMEfika TU, uKO wapi",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Are you free to chat later?",
+      "swahili": "Una muda baadaye tuongee?",
+      "transliteration": "U-NA muDA baADAYE tuONgee",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Please call when you step out",
+      "swahili": "Nipigie simu ukitoka tu",
+      "transliteration": "niPIGie SIMU uKITOKa TU",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "I can't talk now, is it urgent?",
+      "swahili": "Siwezi kuzungumza sasa, ni jambo la haraka?",
+      "transliteration": "siWEzi kuZUNGUMZa sasa, ni JAMBO la HAra-ka",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Message yourself, you’re worth trying.",
+      "swahili": "Jisemee, wewe ni wa kujaribu.",
+      "transliteration": "JISEMEE, wewe ni wa KUJARIBU.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Today, aim for steady, not perfect.",
+      "swahili": "Leo lenga utulivu, si ukamilifu.",
+      "transliteration": "LEO LENGA utulivu, si ukaMILIFU.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "When you fall, stand up gently.",
+      "swahili": "Ukidondoka, simama tena kwa upole.",
+      "transliteration": "UKIDONdeKA, simama tena kwa UPOLE.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Call a friend, ask for help.",
+      "swahili": "Piga simu kwa rafiki, omba msaada.",
+      "transliteration": "PIGA SIMU kwa rafiki, OMba MSAADA.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Make it small, then make it move.",
+      "swahili": "Iwe ndogo, halafu ianze kusonga.",
+      "transliteration": "Iwe NDOGO, HALAFU ianze kuSONGA.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Your pace is still progress.",
+      "swahili": "Mwanzo wako unaendelea, hata kama ni polepole.",
+      "transliteration": "MWANZO wako unaENDelea, hata kama ni POLEpole.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Use daylight, start with one task.",
+      "swahili": "Tumia mwanga wa mchana, anza kwa kazi moja.",
+      "transliteration": "TUMIA MWAANGA wa MCHANA, ANza kwa KAZI moja.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Choose your battles, not your mood.",
+      "swahili": "Chagua vita unavyopambana navyo, si hisia zako.",
+      "transliteration": "CHA-gua vi-ta u-na-yo-pam-bA-na na-vo, si hi-SI-a za-ko.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "A quiet answer can end a fight.",
+      "swahili": "Jibu la utulivu linaweza kumaliza ugomvi.",
+      "transliteration": "JI-bu la u-tu-LI-vi li-na-we-za ku-MA-li-za u-goM-vi.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Trust actions more than perfect words.",
+      "swahili": "Amini matendo kuliko maneno matamu.",
+      "transliteration": "A-MI-ni ma-TEN-do ku-li-ko ma-NEN-o ma-ta-mu.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Pause before you act, not after.",
+      "swahili": "Simama kabla ya kutenda, si baada.",
+      "transliteration": "SI-ma-ma ka-bla ya ku-TEN-da, si BA-a-da.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Learn from mistakes, then move on.",
+      "swahili": "Jifunze kutokana na makosa, kisha songa mbele.",
+      "transliteration": "JI-fun-ze ku-to-ka na ma-KO-sa, ki-SHA SO-nga MBE-le.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Let reality correct your plans gently.",
+      "swahili": "Acha ukweli urekebishe mipango yako kwa upole.",
+      "transliteration": "A-cha u-KWEL-i u-re-KE-bishe mi-PAN-go ya-ko kwa u-po-le.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Be consistent, even when no one watches.",
+      "swahili": "Uwe mwaminifu kwa mazoea, hata watu wasipoangalia.",
+      "transliteration": "U-we mWA-mi-ni-fu kwa ma-ZO-e-a, HA-ta wa-tu wa-si-po-an-ga-LI-a.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "I need to see a doctor today",
+      "swahili": "Nahitaji kumuona daktari leo, tafadhali.",
+      "transliteration": "NAnahitaji kumuona daktarI LEO, tafadhali.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Is this medicine available right now?",
+      "swahili": "Dawa hii ipo dukani sasa hivi?",
+      "transliteration": "DAWA hii ipo dukanI sasa hivI?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Can you explain the dosage, please?",
+      "swahili": "Tafadhali mnaweza kueleza kipimo cha dawa?",
+      "transliteration": "TAfadhali mnaweza kueleza KI pimo cha DAwa?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "What should I do if I miss a dose?",
+      "swahili": "Nifanye nini nikikosa dozi?",
+      "transliteration": "NIFanye nini nikikOSa DOzi?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "How long does it take to work?",
+      "swahili": "Itachukua muda gani kuanza kufanya kazi?",
+      "transliteration": "ITachukua MUda gani KUanza kufanya kazi?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Do I take it with food?",
+      "swahili": "Niitake pamoja na chakula, au niipate tupu?",
+      "transliteration": "NIitake pamoja na chakUla, au niipate TUPU?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Can you recommend a pharmacy pickup?",
+      "swahili": "Mnaweza kusaidia kupata dawa kwa kujichukulia dukani?",
+      "transliteration": "Mnaweza kusaidia KU pata dawa kwa kujichukUlia dukani?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "I’m home, want tea?",
+      "swahili": "Nimefika nyumbani, unataka chai?",
+      "transliteration": "NIME-fi-ka NYUmba-ni, unA-ta chaI?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Let’s open the windows for air.",
+      "swahili": "Tufungue madirisha, tupate hewa safi.",
+      "transliteration": "TU-fun-gue ma-DI-ri-sha, tu-pa-te HE-wa SA-fi",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Who’s picking up the kids today?",
+      "swahili": "Ni nani atakayewachukua watoto leo?",
+      "transliteration": "NI NA-ni a-ta-ka-ye-wa-CHU-ku-a WA-to-to leO?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Please put the plate on the rack.",
+      "swahili": "Tafadhali weka sahani kwenye rafu.",
+      "transliteration": "TA-fa-dha-LI WEA-ka sa-HA-ni kwenye RA-fu",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Can you lock the front door?",
+      "swahili": "Naomba, unaweza kufunga mlango wa mbele?",
+      "transliteration": "NAom-ba, u-na-weza ku-FUN-ga MLan-go wa MBE-le",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "The baby needs a clean diaper now.",
+      "swahili": "Mtoto anahitaji nepi safi sasa hivi.",
+      "transliteration": "MTO-to a-na-HI-ta-j i NE-pi sa-FI SA-sa hi-VI",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "We’ll eat together in the kitchen.",
+      "swahili": "Tutakula pamoja jikoni.",
+      "transliteration": "TU-ta-ka-la paMO-ja ja-KI-o-ni",
+      "category": "Family & Home",
+      "generated_at": "2026-11-26T00:51:32.361573"
     }
   ],
-  "last_updated": "2026-11-25T01:17:13.111297"
+  "last_updated": "2026-11-26T00:51:32.361573"
 }
