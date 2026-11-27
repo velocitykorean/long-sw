@@ -18447,7 +18447,399 @@
       "transliteration": "TU-ta-ka-la paMO-ja ja-KI-o-ni",
       "category": "Family & Home",
       "generated_at": "2026-11-26T00:51:32.361573"
+    },
+    {
+      "english": "Replace one excuse with action.",
+      "swahili": "Badili visingizio kimoja, fanyia kazi sasa.",
+      "transliteration": "badILI visINGIZIO kiMOJA, fANYiA KAZi sasa.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Make your bed, claim momentum.",
+      "swahili": "Tengeneza kitanda chako, jizungumze kwa hatua.",
+      "transliteration": "TENGeneza kiTANda chako, jizungUMbe kwa HATUA.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Turn off notifications for one hour.",
+      "swahili": "Zima arifa kwa saa moja, utulize akili.",
+      "transliteration": "ziMA aRIFA kwa saa MOJA, uTULize AKeLI.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Clean one task, then rest.",
+      "swahili": "Maliza jambo moja, kisha pumzika bila hatia.",
+      "transliteration": "maLIZA JAMbo MOJA, KISHA pUMzika biLA haTIA.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Plan your commute, save your mind.",
+      "swahili": "Panga safari yako, ili ubaki mtulivu njiani.",
+      "transliteration": "panGA SAfaRI yaKO, ILI uBaki mTULivu nJANI.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Practice gratitude before you sleep.",
+      "swahili": "Shukuru kabla ya kulala, andika mawazo matatu.",
+      "transliteration": "shUkuRU biLAA ya kuLAla, aNdiKA maWAZO maTATU.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Read aloud, let it sink in.",
+      "swahili": "Soma kwa sauti, maneno yatakaa vizuri.",
+      "transliteration": "SOma kwa SAUti, maNEno yaKaa viZURI.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Would you like to dance with me?",
+      "swahili": "Je, ungetaka kucheza dansi pamoja nami?",
+      "transliteration": "Je, ungetaka kucheza DANSI pamoja NAMi?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Are you free for a date soon?",
+      "swahili": "Una muda bure kwa tarehe hivi karibuni?",
+      "transliteration": "Una MUDA bure kwa TAREHE hivi karibuni?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Let’s meet at seven, just us.",
+      "swahili": "Tuonane saa saba, sisi tu.",
+      "transliteration": "Tuanane saa SABA, sisi TU.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "I like your laugh, it’s contagious.",
+      "swahili": "Napenda kicheko chako, kinatia moyo sana.",
+      "transliteration": "N a Penda KICHEKO chako, kiNATIa MOYO saNA.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Tell me your favorite love song.",
+      "swahili": "Niambie wimbo wako unaoupenda wa mapenzi.",
+      "transliteration": "NiaMBIE wimbo wako unaoUPENDA wa maPENZI.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Can we watch the sunset together?",
+      "swahili": "Tunaweza kutazama jua linapozama pamoja?",
+      "transliteration": "Tu-naWEZA kutazama JUA linapoZAMA pamoja?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "What’s your ideal first date?",
+      "swahili": "Tarehe yako ya kwanza unapendelea iweje?",
+      "transliteration": "TAREHE yako ya KWANZA unaPENDELEa iweJE?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Let your breath steady you first.",
+      "swahili": "Chukua pumzi, ikutie utulivu kwanza.",
+      "transliteration": "Chukua PUMZI, ikutie u-TULIVU KWAANZA.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "I pause before I react.",
+      "swahili": "Ninasitisha kabla sijajibu kwa hasira.",
+      "transliteration": "Na-si-TISH-a KA-bla SI-ja-JIBU kwa HA-si-ra.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Balance your meal, not just quantity.",
+      "swahili": "Usawa wa mlo wako ni zaidi ya kiasi tu.",
+      "transliteration": "U-sawa wa MO-lo wa-ko ni ZAIDI ya KI-si-cha tu.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Switch off, then come back calm.",
+      "swahili": "Zima simu, kisha urudi kwa utulivu.",
+      "transliteration": "ZI-ma si-mu, KISHA u-RU-di kwa u-TU-LI-VU.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Slow hands, steady heart today.",
+      "swahili": "Mikono polepole, moyo thabiti leo.",
+      "transliteration": "Mi-KO-no PO-le-po, MO-yo THA-biti LEO.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "I keep my promises, softly.",
+      "swahili": "Nashikilia ahadi zangu, kwa upole.",
+      "transliteration": "Na-shi-KI-li-a A-HI-di za-ngu, kwa u-PO-le.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Speak kindly, even when tired.",
+      "swahili": "Ongea kwa fadhili, hata ukiwa umechoka.",
+      "transliteration": "ON-ga-a kwa FAD-HI-li, HA-ta u-ki-wa ume-CHO-ka.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Where is security screening for exits?",
+      "swahili": "Usalama uko wapi kwa ajili ya kuingia?",
+      "transliteration": "Usalama UKO wapi kwa ajili ya kuingia?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "How early should I arrive?",
+      "swahili": "Nifikie hapa mapema kiasi gani?",
+      "transliteration": "Nifikie HAPA mapema kiasi gani?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Is my gate on the board?",
+      "swahili": "Je, lango langu litaonekana kwenye ubao?",
+      "transliteration": "Je, LANGO langu litaonekana kwenye UBAO?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "What time does boarding start?",
+      "swahili": "Kupanda ndege kunaanza saa ngapi?",
+      "transliteration": "Ku-PANDA ndege kunaANZA saa ngapi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Can I get assistance for my disability?",
+      "swahili": "Naomba msaada kwa kiti changu cha ulemavu.",
+      "transliteration": "Naomba MSAAda kwa kiti changu cha ULEMAVU.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Is there a pharmacy inside the airport?",
+      "swahili": "Kuna duka la dawa hapa ndani ya uwanja wa ndege?",
+      "transliteration": "Kuna DUKA la DAWA hapa ndani ya Uwanja wa NDEGE?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Where can I refill my water bottle?",
+      "swahili": "Ninaweza kujaza chupa yangu ya maji wapi?",
+      "transliteration": "NinaWEZA KUJAZA chupa yangu ya MAJI wapi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "We brew strong kahawa for visitors.",
+      "swahili": "Tunapika kahawa nene kuwakaribisha wageni.",
+      "transliteration": "Tunaa-Pi-ka KAH-a-wa NEN-e ku-wa-KA-ri-bi-sha WA-ge-ni.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "We pour water first, then greet.",
+      "swahili": "Tunamimina maji kwanza, kisha tunasalimia.",
+      "transliteration": "Tu-na-mi-mi-na MA-ji KWAN-za, KI-sha TU-na-sa-limi-a.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "At home we welcome with a smile.",
+      "swahili": "Nyumbani tunawakaribisha kwa tabasamu.",
+      "transliteration": "NYU-mba-ni tu-na-wa-ka-ribi-sha kwa ta-ba-SAA-mu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "We share dates during long visits.",
+      "swahili": "Tunagawana tende wakati wa ziara ndefu.",
+      "transliteration": "Tu-na-ga-wa-na TEN-de WI-ka-ti wa ZI-a-ra nDEF-u.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Before meals, we thank together quietly.",
+      "swahili": "Kabla ya chakula, tunashukuru pamoja kwa utulivu.",
+      "transliteration": "KAB-la ya CHA-ku-la, tu-na-SHU-ku-ri pamwe kwa u-tu-LI-vu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "We sing a short work song together.",
+      "swahili": "Tunaimba wimbo mfupi wa kazi pamoja.",
+      "transliteration": "Tu-na-IM-ba WI mbo m-FU-Pi wa KAA-zi pa-mO-a.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "After dinner, elders tell stories.",
+      "swahili": "Baada ya chakula cha jioni, wazee hueleza hadithi.",
+      "transliteration": "BA-a-da ya CHA-ku-la cha JIo-ni, WA-ze-e hue-LE-za HA-DI-thi.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "How do I get there from here?",
+      "swahili": "Ninafika vipi huko kutoka hapa, tafadhali?",
+      "transliteration": "NinaFIka viPI HUo kuTOka HAPA, taFAdhali?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Is it far by bus?",
+      "swahili": "Ni mbali kufika huko kwa basi?",
+      "transliteration": "Ni baMBI kuFÍKA húo kwa BA si?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Which entrance should I use?",
+      "swahili": "Nitumie mlango gani niingie?",
+      "transliteration": "NituMIE MLANgo GAni niINGIE?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Can I walk there safely at night?",
+      "swahili": "Naweza kutembea huko usiku, ni salama?",
+      "transliteration": "NaWEza kuTEMbeA HUo uSUki, ni saLAma?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Where is the nearest crossing?",
+      "swahili": "Kuvuka barabara iko wapi karibu zaidi?",
+      "transliteration": "KuVUKA baRAbaRA iKO wapi kaRIBU zaidi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Is there a pedestrian path nearby?",
+      "swahili": "Kuna njia ya waenda kwa miguu karibu?",
+      "transliteration": "KuNA NJIa ya waENda kwa miGUu kaRIBU?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Do I need to take a taxi here?",
+      "swahili": "Nipande teksi au nitafika kwa miguu?",
+      "transliteration": "NiPande TEksi au niTAfika kwa miGuu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "How do I pay my bill here?",
+      "swahili": "Nawezaje kulipa bili yangu hapa?",
+      "transliteration": "NaWEZEkaje kuLIPA BIli yangu HApa?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Can I pay by card or cash?",
+      "swahili": "Naweza kulipa kwa kadi au pesa taslimu?",
+      "transliteration": "NaWEZeka kuLIPA kwa KAdi au PEsa TAasimU?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "I need help with mobile banking.",
+      "swahili": "Naomba msaada na benki ya simu.",
+      "transliteration": "NaOMba MSAada na BENki ya SIMU.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Where can I get a bank statement?",
+      "swahili": "Ninaweza kupata taarifa ya benki wapi?",
+      "transliteration": "NiNaWEza kupata taARIifa ya BENki WAPI?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Can you print my receipt, please?",
+      "swahili": "Tafadhali, mnaweza kuchapisha risiti yangu?",
+      "transliteration": "TAfadhali, mnaWEza KUchaPISha RIsiiti yangu?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "Did I pay successfully last night?",
+      "swahili": "Je, nilifanikiwa kulipa usiku wa jana?",
+      "transliteration": "Je, niLIFanikiwa kuLIPA uSIku wa JAna?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "What is the exchange rate today?",
+      "swahili": "Kiwango cha kubadilisha leo ni kipi?",
+      "transliteration": "KIwanGO cha kuBAadilisha leO ni kiPI?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "I start with what I can control",
+      "swahili": "Naanza na yale naweza kuyadhibiti",
+      "transliteration": "NaANza na YAle naWEza kuyadhibiti",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "I move my body, even gently",
+      "swahili": "Na suvalisha mwili wangu, hata kwa upole",
+      "transliteration": "Na SuvALisha mwili Wangu, Hata kwa upole",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "I unclench my jaw and soften",
+      "swahili": "Ninapumzisha taya yangu, na kujituliza",
+      "transliteration": "Ni-naPUMZisha taya Yangu, na kujITUliza",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "One brave email, then I rest",
+      "swahili": "Ninatum a barua pepe moja kwa ujasiri, kisha napumzika",
+      "transliteration": "NinATUMa barua pepe moja kwa uJA Siri, kisha naPUMzika",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "I choose honesty in small things",
+      "swahili": "Ninachagua uaminifu katika mambo madogo",
+      "transliteration": "Ni-naCHAGua UAMinifu katika maMBO maDOgo",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "I let my mind notice, then release",
+      "swahili": "Nikiriruka mawazo, naoyaona tu, kisha nayatoa",
+      "transliteration": "NikiRUKa maAzo, naYAona tu, kisha naYAtoa",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T00:58:10.190366"
+    },
+    {
+      "english": "My time is for living, not stress",
+      "swahili": "Muda wangu ni wa kuishi, si wa msongo",
+      "transliteration": "MUda Wangu ni wa kuISHI, si wa mSongo",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T00:58:10.190366"
     }
   ],
-  "last_updated": "2026-11-26T00:51:32.361573"
+  "last_updated": "2026-11-27T00:58:10.190366"
 }
